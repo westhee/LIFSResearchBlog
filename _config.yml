@@ -4,7 +4,7 @@ url: http://lifs.hallym.ac.kr
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
 # colorize code snippets with the pygments module
-highlighter: pygments
+highlighter: rogue
 
 # The path structure for blog posts.
 permalink: /blog/:year/:month/:day/:title.html
