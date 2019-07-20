@@ -1,5 +1,5 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: Legal Informatics and Forensic Science
+url: http://lifs.hallym.ac.kr
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -13,10 +13,10 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: faculty
     name: Faculty
-  - key: staff
-    name: Staff
-  - key: postdoc
-    name: Researchers
+#  - key: staff
+#    name: Staff
+#  - key: postdoc
+#    name: Researchers
   - key: grad
     name: Graduate Students
   - key: ugrad

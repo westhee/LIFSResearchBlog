@@ -1,36 +1,29 @@
 
-prof-a:
-    display_name: "Prof A"
+profPark:
+    display_name: "박노섭"
     role: faculty
+    image: https://english.hallym.ac.kr/dam/jcr:1d35ca55-1461-4b7f-af9c-2babb71da279/%EB%B0%95%EB%85%B8%EC%84%AD.png
+    bio: Professor
 
-prof-b:
-    display_name: "Prof B"
+profAhn:
+    display_name: "안정민"
     role: faculty
+    image: https://english.hallym.ac.kr/dam/jcr:8b34ae98-47a1-47fd-81ab-a9429a6bfa54/%EC%95%88%EC%A0%95%EB%AF%BC.png
+    bio: Professor
 
-prof-c:
-    display_name: "Prof C"
+profJang:
+    display_name: "장윤식"
     role: faculty
+    image: https://english.hallym.ac.kr/dam/jcr:59382055-0b7a-472a-a5a9-d41a982e06e5/%EC%9E%A5%EC%9C%A4%EC%8B%9D.png
+    bio: Professor
 
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+profJames:
+    display_name: "Joshua I. James"
+    webpage: "https://dfir.science"
+    github: jijames
     role: faculty
     image: /img/people/prof-x.png
     bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
 
 storm:
     display_name: "Storm"
@@ -54,26 +47,6 @@ grad-d:
     display_name: "Grad D"
     role: grad
 
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
 alum-a:
     display_name: "Alum A"
     role: alum
@@ -83,62 +56,10 @@ alum-b:
     display_name: "Alum B With Way Longer Name"
     role: alum
 
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
 collab-a:
-    display_name: "Collaborator A"
+    display_name: "Happy Maru Consulting, Inc."
     role: collab
-
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
+    webpage: "http://hmconsulting.co.kr"
 
 ugrad-c:
     display_name: "Ugrad C"
