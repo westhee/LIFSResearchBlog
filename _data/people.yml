@@ -29,8 +29,7 @@ grad001:
     display_name: "박민진 (Min Jin Park)"
     role: grad
     bio: "IoT Digital Forensic Investigation"
-    image: https://teams.microsoft.com/api/mt/apac/beta/users/M18504@s.hallym.ac.kr/profilepicturev2?displayname=%EB%B0%95%EB%AF%BC%EC%A7%84&voidCache=true
-
+    image:
 grad002:
     display_name: "함지윤 (Jiyoon Ham)"
     role: grad
@@ -50,7 +49,7 @@ grad005:
     display_name: "Alex Ocheme Ogbole"
     role: grad
     bio: "IoT Digital Forensic Investigation"
-    image: https://teams.microsoft.com/api/mt/apac/beta/users/alex.ogbole@s.hallym.ac.kr/profilepicturev2?displayname=Alex%20Ogbole&voidCache=true
+    image:
 
 grad006:
     display_name: "홍지안 (Jian Hong)"
@@ -66,26 +65,26 @@ alum002:
     display_name: "Yohannes Yemane Brhan"
     role: alum
     bio: "MSc, 2019: API-based Cloud Data Acquisition and Analysis from Smart Home IoT Devices"
-    image: https://teams.microsoft.com/api/mt/apac/beta/users/yohab@s.hallym.ac.kr/profilepicturev2?displayname=BrhanYohannes%20Yemane&voidCache=true
+    image:
 
 alum003:
     display_name: "Birhanu Addisu Afework"
     role: alum
     bio: "MSc, 2019: Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition"
-    image: https://teams.microsoft.com/api/mt/apac/beta/users/M17543@s.hallym.ac.kr/profilepicturev2?displayname=Addisu%20Afework&voidCache=true
+    image:
 
 alum004:
     display_name: "장수봉 (Subong Jang)"
     role: alum
     bio: "MSc, 2019: A Study on Internet of Things (IoT) Forensics: Smart Home IoT Data Acquisition Procedure"
-    image: https://teams.microsoft.com/api/mt/apac/beta/users/jangsubong@s.hallym.ac.kr/profilepicturev2?displayname=%EC%9E%A5%EC%88%98%EB%B4%89&voidCache=true
+    image:
 
 alum005:
     display_name: "Ajayi Betty Bukola"
     role: alum
     bio: "MSc, 2019: A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria: Policy Recommendations to Improve MLA Effectiveness"
-    image: https://teams.microsoft.com/api/mt/apac/beta/users/betty@s.hallym.ac.kr/profilepicturev2?displayname=Ajayi%20Betty%20Bukola&voidCache=true
-
+    image:
+    
 collab001:
     display_name: "Hancom GMD"
     role: collab
