@@ -3,80 +3,125 @@ profPark:
     display_name: "박노섭"
     role: faculty
     image: https://english.hallym.ac.kr/dam/jcr:1d35ca55-1461-4b7f-af9c-2babb71da279/%EB%B0%95%EB%85%B8%EC%84%AD.png
-    bio: Professor
+    bio: "Professor"
 
 profAhn:
     display_name: "안정민"
     role: faculty
     image: https://english.hallym.ac.kr/dam/jcr:8b34ae98-47a1-47fd-81ab-a9429a6bfa54/%EC%95%88%EC%A0%95%EB%AF%BC.png
-    bio: Professor
+    bio: "Professor"
 
 profJang:
     display_name: "장윤식"
     role: faculty
     image: https://english.hallym.ac.kr/dam/jcr:59382055-0b7a-472a-a5a9-d41a982e06e5/%EC%9E%A5%EC%9C%A4%EC%8B%9D.png
-    bio: Professor
+    bio: "Professor"
 
 profJames:
-    display_name: "Joshua I. James"
+    display_name: "Joshua I. James (조슈아)"
     webpage: "https://dfir.science"
     github: jijames
     role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+    image: https://0.academia-photos.com/1150202/7548239/8475648/s200_joshua.james.jpg
+    bio: "Professor"
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+grad001:
+    display_name: "박민진 (Min Jin Park)"
     role: grad
-    image: /img/people/storm.png
+    bio: "IoT Digital Forensic Investigation"
+    image: https://teams.microsoft.com/api/mt/apac/beta/users/M18504@s.hallym.ac.kr/profilepicturev2?displayname=%EB%B0%95%EB%AF%BC%EC%A7%84&voidCache=true
 
-grad-a:
-    display_name: "Grad A"
+grad002:
+    display_name: "함지윤 (Jiyoon Ham)"
     role: grad
+    bio: "Intelligent digital investigation tools"
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+grad003:
+    display_name: "박성미 (Sungmi Park)"
     role: grad
+    bio: "Expert systems in digital investigations and law"
 
-grad-c:
-    display_name: "Grad C"
+grad004:
+    display_name: "Terrence Nemayire"
     role: grad
+    bio: "IoT Digital Forensic Investigation"
 
-grad-d:
-    display_name: "Grad D"
+grad005:
+    display_name: "Alex Ocheme Ogbole"
     role: grad
+    bio: "IoT Digital Forensic Investigation"
+    image: https://teams.microsoft.com/api/mt/apac/beta/users/alex.ogbole@s.hallym.ac.kr/profilepicturev2?displayname=Alex%20Ogbole&voidCache=true
 
-alum-a:
-    display_name: "Alum A"
+grad006:
+    display_name: "홍지안 (Jian Hong)"
+    role: grad
+    bio: "IoT Digital Forensic Investigation"
+
+alum001:
+    display_name: "이윤정 (Yoonjung Lee)"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "Ph.D., 2019."
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
+alum002:
+    display_name: "Yohannes Yemane Brhan"
     role: alum
+    bio: "MSc, 2019: API-based Cloud Data Acquisition and Analysis from Smart Home IoT Devices"
+    image: https://teams.microsoft.com/api/mt/apac/beta/users/yohab@s.hallym.ac.kr/profilepicturev2?displayname=BrhanYohannes%20Yemane&voidCache=true
 
-collab-a:
-    display_name: "Happy Maru Consulting, Inc."
+alum003:
+    display_name: "Birhanu Addisu Afework"
+    role: alum
+    bio: "MSc, 2019: Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition"
+    image: https://teams.microsoft.com/api/mt/apac/beta/users/M17543@s.hallym.ac.kr/profilepicturev2?displayname=Addisu%20Afework&voidCache=true
+
+alum004:
+    display_name: "장수봉 (Subong Jang)"
+    role: alum
+    bio: "MSc, 2019: A Study on Internet of Things (IoT) Forensics: Smart Home IoT Data Acquisition Procedure"
+    image: https://teams.microsoft.com/api/mt/apac/beta/users/jangsubong@s.hallym.ac.kr/profilepicturev2?displayname=%EC%9E%A5%EC%88%98%EB%B4%89&voidCache=true
+
+alum005:
+    display_name: "Ajayi Betty Bukola"
+    role: alum
+    bio: "MSc, 2019: A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria: Policy Recommendations to Improve MLA Effectiveness"
+    image: https://teams.microsoft.com/api/mt/apac/beta/users/betty@s.hallym.ac.kr/profilepicturev2?displayname=Ajayi%20Betty%20Bukola&voidCache=true
+
+collab001:
+    display_name: "Hancom GMD"
+    role: collab
+    webpage: "https://www.hancomgmd.com"
+    bio: "IRONSTONE IoT Forensics"
+
+collab002:
+    display_name: "행복마루컨설팅 (Happy Maru Consulting, Inc.)"
     role: collab
     webpage: "http://hmconsulting.co.kr"
+    bio: "Digital Investigation Research and Development Center(이하 DIRC)"
 
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
+ugrad001:
+    display_name: "고서정"
     role: ugrad-alum
 
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
+ugrad002:
+    display_name: "김기철"
+    role: ugrad
+    bio: "Intelligent digital investigation tools"
+
+ugrad003:
+    display_name: "이유나"
+    role: ugrad
+    bio: "Expert systems in digital investigations and law"
+
+ugrad004:
+    display_name: "유혜민"
     role: ugrad-alum
+
+ugrad005:
+    display_name: "박현욱"
+    role: ugrad
+    bio: "Expert systems in digital investigations and law"
+
+ugrad006:
+    display_name: "백승민"
+    role: ugrad
+    bio: "Expert systems in digital investigations and law"

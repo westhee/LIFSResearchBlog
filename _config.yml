@@ -46,8 +46,10 @@ navigation:
   - title: People
     link: /#people
   - title: Research
-    link: /research.html
+    link: /html/research.html
   - title: Publications
-    link: /publications.html
+    link: /html/publications.html
   - title: Code
-    link: /code.html
+    link: /html/code.html
+  - title: Resources
+    link: /html/resources.html
