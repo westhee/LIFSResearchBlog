@@ -25,65 +25,65 @@ profJames:
     image: https://0.academia-photos.com/1150202/7548239/8475648/s200_joshua.james.jpg
     bio: "Professor"
 
-grad001:
+2018minjin:
     display_name: "박민진 (Min Jin Park)"
     role: grad
     bio: "IoT Digital Forensic Investigation"
     image:
 
-grad002:
+2018jiyoon:
     display_name: "함지윤 (Jiyoon Ham)"
     role: grad
     bio: "Intelligent digital investigation tools"
     image: /img/people/Jiyoon.jpg
 
-grad003:
+2019sungmi:
     display_name: "박성미 (Sungmi Park)"
     role: grad
     bio: "Expert systems in digital investigations and law"
     image: /img/people/Sungmi.jpg
 
-grad004:
+2018terrence:
     display_name: "Terrence Nemayire"
     role: grad
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Terrence.png
 
-grad005:
+2018alex:
     display_name: "Alex Ocheme Ogbole"
     role: grad
     bio: "IoT Digital Forensic Investigation"
     image:
 
-grad006:
+2019jian:
     display_name: "홍지안 (Jian Hong)"
     role: grad
     bio: "IoT Digital Forensic Investigation"
 
-alum001:
+2019yoonjun:
     display_name: "이윤정 (Yoonjung Lee)"
     role: alum
     bio: "Ph.D., 2019."
 
-alum002:
+2019yohannes:
     display_name: "Yohannes Yemane Brhan"
     role: alum
     bio: "MSc, 2019: API-based Cloud Data Acquisition and Analysis from Smart Home IoT Devices"
     image:
 
-alum003:
+2019addisu:
     display_name: "Birhanu Addisu Afework"
     role: alum
     bio: "MSc, 2019: <a href='/pubs/2019-Smart_Home_IoT_Forensics-Addisu-Thesis.pdf'>Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition</a>"
     image: /img/people/Addisu.jpg
 
-alum004:
+2019subong:
     display_name: "장수봉 (Subong Jang)"
     role: alum
     bio: "MSc, 2019: A Study on Internet of Things (IoT) Forensics: Smart Home IoT Data Acquisition Procedure"
     image:
 
-alum005:
+2019betty:
     display_name: "Ajayi Betty Bukola"
     role: alum
     bio: "MSc, 2019: A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria: Policy Recommendations to Improve MLA Effectiveness"
