@@ -30,20 +30,24 @@ grad001:
     role: grad
     bio: "IoT Digital Forensic Investigation"
     image:
+
 grad002:
     display_name: "함지윤 (Jiyoon Ham)"
     role: grad
     bio: "Intelligent digital investigation tools"
+    image: /img/people/Jiyoon.jpg
 
 grad003:
     display_name: "박성미 (Sungmi Park)"
     role: grad
     bio: "Expert systems in digital investigations and law"
+    image: /img/people/Sungmi.jpg
 
 grad004:
     display_name: "Terrence Nemayire"
     role: grad
     bio: "IoT Digital Forensic Investigation"
+    image: /img/people/Terrence.png
 
 grad005:
     display_name: "Alex Ocheme Ogbole"
@@ -70,8 +74,8 @@ alum002:
 alum003:
     display_name: "Birhanu Addisu Afework"
     role: alum
-    bio: "MSc, 2019: Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition"
-    image:
+    bio: "MSc, 2019: <a href='/pubs/2019-Smart_Home_IoT_Forensics-Addisu-Thesis.pdf'>Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition</a>"
+    image: /img/people/Addisu.jpg
 
 alum004:
     display_name: "장수봉 (Subong Jang)"
