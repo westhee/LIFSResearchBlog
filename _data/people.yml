@@ -94,12 +94,14 @@ collab001:
     role: collab
     webpage: "https://www.hancomgmd.com"
     bio: "IRONSTONE IoT Forensics"
+    image: /img/people/GMD.png
 
 collab002:
     display_name: "행복마루컨설팅 (Happy Maru Consulting, Inc.)"
     role: collab
     webpage: "http://hmconsulting.co.kr"
     bio: "Digital Investigation Research and Development Center(이하 DIRC)"
+    image: /img/people/HMConsulting.png
 
 ugrad001:
     display_name: "고서정"
