@@ -81,13 +81,13 @@ profJames:
 2019subong:
     display_name: "장수봉 (Subong Jang)"
     role: alum
-    bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Subong-A_Study_on_Internet_of_Things_Forensics.pdf'>A Study on Internet of Things (IoT) Forensics: Smart Home IoT Data Acquisition Procedure</a>"
+    bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Subong-A_Study_on_Internet_of_Things_Forensics.pdf'>A Study on Internet of Things (IoT) Forensics</a>"
     image: /img/people/Subong.jpg
 
 2019betty:
     display_name: "Ajayi Betty Bukola"
     role: alum
-    bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Request_Effectiveness.pdf'>A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria: Policy Recommendations to Improve MLA Effectiveness</a>"
+    bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Request_Effectiveness.pdf'>A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria</a>"
     image: /img/people/Betty.jpg
     webpage: "https://www.linkedin.com/in/betty-bukola-ajayi-9033b99a/"
 
@@ -110,7 +110,7 @@ HappyMaru:
     display_name: "행복마루컨설팅 (Happy Maru Consulting, Inc.)"
     role: collab
     webpage: "http://hmconsulting.co.kr"
-    bio: "Digital Investigation Research and Development Center(이하 DIRC)"
+    bio: "Digital Investigation Research and Development Center (DIRC)"
     image: /img/people/HMConsulting.png
 
 VUTBR:
