@@ -44,18 +44,21 @@
 				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
 			{%- endfor %}
 			</span>
-			{%- if entry.fields['abstract'] %}
-				<span class="pub-meta">
-				<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</button>
+			<span class="keywords">
 				{% if entry.fields['keywords'] %}
 					{%- for keyword in entry.fields['keywords'].split(',') %}
 						<span class="badge badge-info">{{ keyword }}</span>
 					{%- endfor %}
 				{%- endif %}
+			</span>
+			<span class="abstract">
+			{%- if entry.fields['abstract'] %}
+				<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</button>
 				<div id="abstract_{{entry.fields['key']}}" class="abstract" style="display: none;">
 					{{ entry.fields['abstract'] |escape }}
 				</div>
 			{%- endif %}
+			</span>
 		</td>
 	</tr>
 	{%- endfor %}
