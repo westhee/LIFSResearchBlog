@@ -13,7 +13,8 @@ people:
   - 2019addisu
   - 2019subong
   - 2019betty
-  - collab001
+  - HancomGMD
+  - VUTBR
   - profJames
 
 layout: project
