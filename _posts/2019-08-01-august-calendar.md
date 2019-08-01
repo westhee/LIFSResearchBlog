@@ -4,7 +4,7 @@ title: "August 2019 Grad Student Notice"
 icon: star-o
 ---
 
-August notice from the (Graduate School)[https://grad.hallym.ac.kr/user/indexSub.do?framePath=unknownboard&siteId=grad&dum=dum&boardId=765&page=1&command=view&boardSeq=131758&categoryId=&categoryDepth=] for
+August notice from the [Graduate School](https://grad.hallym.ac.kr/user/indexSub.do?framePath=unknownboard&siteId=grad&dum=dum&boardId=765&page=1&command=view&boardSeq=131758&categoryId=&categoryDepth=) for
 grad students!
 
 <img src="/img/news/2019AugCalendar.jpg">
