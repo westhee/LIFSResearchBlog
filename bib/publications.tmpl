@@ -44,7 +44,7 @@
 				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
 			{%- endfor %}
 				{%- if entry.fields['abstract'] %}
-				[<a class="dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</a>]
+				<button class="dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</button>]
 				{%- endif %}
 			</span>
 			{%- if entry.fields['abstract'] %}
