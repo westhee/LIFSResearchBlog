@@ -40,7 +40,7 @@
 			{%- endif %}
 			<br />
 			<span class="links">
-			{%- for type, url in (entry|extra_urls).iteritems() %}
+			{%- for type, url in (entry|extra_urls).items() %}
 				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
 			{%- endfor %}
 			</span>
@@ -48,7 +48,7 @@
 				<span class="pub-meta">
 				<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</button>
 				{% if entry.fields['keywords'] %}
-					{%- for keyword in entry.fields['keywords'] %}
+					{%- for keyword in entry.fields['keywords'].split(',') %}
 						<span class="badge badge-info">{{ keyword }}</span>
 					{%- endfor %}
 				{%- endif %}
