@@ -9,6 +9,9 @@
                 {% assign person = item[1] %}
                 {% if person.role == role.key %}
                     {% include person.html person=person image=include.image %}
+                    {% if person.role == 'alum' %}
+                        <hr />
+                    {% endif %}
                 {% endif %}
             {% endfor %}
         </div>
