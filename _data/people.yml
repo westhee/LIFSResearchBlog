@@ -88,7 +88,8 @@ profJames:
     display_name: "Ajayi Betty Bukola"
     role: alum
     bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Request_Effectiveness.pdf'>A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria: Policy Recommendations to Improve MLA Effectiveness</a>"
-    image:
+    image: /img/people/Betty.jpg
+    webpage: "https://www.linkedin.com/in/betty-bukola-ajayi-9033b99a/"
     
 collab001:
     display_name: "Hancom GMD"
@@ -112,6 +113,8 @@ ugrad002:
     display_name: "김기철"
     role: ugrad
     bio: "Intelligent digital investigation tools"
+    webpage: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
+    image: /img/people/KeeCheol.jpg
 
 ugrad007:
     display_name: "유혜민"
