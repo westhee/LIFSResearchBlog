@@ -47,8 +47,8 @@
 			{%- if entry.fields['abstract'] %}
 				<span class="abstract">
 				<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</button>
-				<div id="abstract_{{entry.fields['key']}}" class="abstract" style="display: none;>
-					{{ entry.fields['abstract']|escape }}
+				<div id="abstract_{{entry.fields['key']}}" class="abstract" style="display: none;">
+					{{ entry.fields['abstract'] |escape }}
 				</div>
 			{%- endif %}
 		</td>
