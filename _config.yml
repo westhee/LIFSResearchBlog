@@ -51,5 +51,5 @@ navigation:
     link: /html/publications.html
   - title: Resources
     link: /html/resources.html
-  - title: "<span class='fab fa-github fa-2x'></span>"
+  - title: "<span class='fab fa-github fa-lg'></span>"
     link: "https://github.com/LIFSHallym"
