@@ -48,7 +48,7 @@
 				{%- endif %}
 			</span>
 			{%- if entry.fields['abstract'] %}
-			<div id="abstract_{{entry.fields['key']}}" class="abstract">
+			<div id="abstract_{{entry.fields['key']}}" class="abstract" hidden>
 			{{ entry.fields['abstract'] |escape }}
 			</div>
 			{%- endif %}
