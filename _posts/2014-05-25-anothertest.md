@@ -1,9 +1,19 @@
 ---
 layout: post
-title: "A Full Blog Post"
+title: "August 2019 Grad Student Notice"
 icon: star-o
 ---
 
-Unlike a short news post, a blog post has its own page and lots of text. Text text text.
+August notice from the (Graduate School)[https://grad.hallym.ac.kr/user/indexSub.do?framePath=unknownboard&siteId=grad&dum=dum&boardId=765&page=1&command=view&boardSeq=131758&categoryId=&categoryDepth=] for
+grad students!
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+<img src="/img/news/2019AugCalendar.jpg">
+
+* 8.07(Wed)~10(Fri) Tuition Payment (Newly Admitted Students)
+* 8.15(Thur) National Holiday: Liberation Day(광복절)
+* 8.19(Mon)~23(Fri) Tuition Payment (Enrolled Students)
+* 8.19(Mon)~30(Sun) Course Registration
+* 8.26(Mon) Beginning of Semester
+* 8.14(Tue) Student ID to be created (for new students)
+
+See the Graduate School site for more information.

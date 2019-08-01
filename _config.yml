@@ -49,7 +49,7 @@ navigation:
     link: /html/research.html
   - title: Publications
     link: /html/publications.html
-  - title: "<span class='fab fa-github'></span>"
-    link: "https://github.com/LIFSHallym"
   - title: Resources
     link: /html/resources.html
+  - title: "<span class='fab fa-github 2x'></span>"
+    link: "https://github.com/LIFSHallym"
