@@ -51,6 +51,7 @@
 					{%- endfor %}
 				{%- endif %}
 			</span>
+			<br />
 			<span class="abstract">
 			{%- if entry.fields['abstract'] %}
 				<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</button>
