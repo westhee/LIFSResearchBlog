@@ -13,6 +13,9 @@
 			</span>
 		</td>
 		<td class="publication">
+			{% if entry.fields['annote'] %}
+				<span class="language">[{{ entry.fields['annote'] }}] </span>
+			{%- endif %}
 			<span class="pubtitle">
 				{%- set url = entry|main_url %}
 				{%- if url %}
