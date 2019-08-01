@@ -29,7 +29,7 @@ profJames:
     display_name: "박민진 (Min Jin Park)"
     role: grad
     bio: "IoT Digital Forensic Investigation"
-    image:
+    image: /img/people/Minjin.jpg
 
 2018jiyoon:
     display_name: "함지윤 (Jiyoon Ham)"
