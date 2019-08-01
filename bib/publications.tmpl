@@ -13,9 +13,6 @@
 			</span>
 		</td>
 		<td class="publication">
-			{% if entry.fields['keywords'] %}
-				<meta name="keywords" content="{{ entry.fields['keywords']}}">
-			{%- endif %}
 			{% if entry.fields['annote'] %}
 				<span class="language">[{{ entry.fields['annote'] }}] </span>
 			{%- endif %}
@@ -48,8 +45,13 @@
 			{%- endfor %}
 			</span>
 			{%- if entry.fields['abstract'] %}
-				<span class="abstract">
+				<span class="pub-meta">
 				<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</button>
+				{% if entry.fields['keywords'] %}
+					{% for keyword in entry.fields['keywords'] %}
+						<span class="badge badge-info">{{ keyword }}</span>
+					{%- endfor %}
+				{%- endif %}
 				<div id="abstract_{{entry.fields['key']}}" class="abstract" style="display: none;">
 					{{ entry.fields['abstract'] |escape }}
 				</div>
