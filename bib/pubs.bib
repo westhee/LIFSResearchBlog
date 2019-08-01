@@ -2,14 +2,43 @@
 abstract = {Smart home Internet of Things (IoT) are becoming the mainstream technologies that are being integrated into today society. Recent cyber-attacks and researches on these devices indicate smart home IoT developers do not design and implement data protection solutions comprehensively in the IoT ecosystem. These security weaknesses have different implications for user privacy, safety and digital forensic investigations. This thesis provides an analysis of data protection methods implemented in smart home IoT devices and how the weaknesses can be applied to digital forensic investigation purposes. In this thesis, we included the analysis of four smart home IoT devices (Sen.se Mother, Naver Clova, SKT Nugu and Xiaomi Smart home) user data protection techniques to identify the vulnerabilities that can be exploited to acquire user data for digital forensic investigation purpose. To achieve the goal, we analyzed data security techniques and cloud data acquisition possibilities for the selected smart home IoT devices. The investigation is conducted using a combination of forensic analysis of companion apps on smartphones, network investigation between the app and cloud, between the device and the cloud and security analysis of cloud APIs used between companion apps and the cloud. From the apps data storage security, we showed that all of the apps do not consider data encryption. As a result, if the databases can be extracted from the smartphone, the stored data can be extracted for forensics purposes. Similarly, except one of the devices' companion app, all the apps do not consider data encryption in the shared preference storage. On the other hand, we identified that some of the devices use one-time session tokens for cloud APIs authorization. Based on the research, we were able to acquire artefacts from smartphones and network investigations without security challenges. Moreover, using those artefacts, we were able to acquire user data from the cloud for three of the devices. While using such kind of vulnerabilities helps digital forensics investigations to acquire user data from smart home IoT ecosystem, they also endanger users' privacy and safety if exploited by hackers.},
 annote = {English},
 author = {Birhanu, Addisu Afework},
-keywords = {Forensics,IoT},
+keywords = {App Data Security,Cloud API Security,Cloud Data,Digital Forensic Investigation,Internet of Things,IoT,IoT Security,Network Forensics,Privacy,Smart Home},
 mendeley-groups = {Alum},
-mendeley-tags = {IoT,Forensics},
 pages = {111},
 school = {Hallym University},
 title = {{Smart Home IoT Forensics}},
 type = {Masters of Science},
 url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Addisu-Smart_Home_IoT_Forensics.pdf},
+year = {2019},
+month = {Jul.}
+}
+
+@mastersthesis{Jang2019,
+abstract = {There are previous studies about digital forensics in terms of the Internet of Things (IoT) environment, and cases using IoT device data for crime investigations. However, the acquisition and analysis of data in the IoT environment are still a challenge for digital forensic investigators. In addition, there are no accepted practical and comprehensive digital forensic procedures for investigators and law enforcement agencies to perform digital forensic investigations on IoT-based environments. This work proposes a new model for IoT Forensic specifically for the Data Acquisition procedure from the IoT ecosystem. The model is tested using experiments conducted on IoT devices. The experiment includes the research aspect of investigating the actual IoT devices in order to provide a complete picture of the model. The experiment was divided into Cloud, Network, Client (PC, Mobile) and Device/hub side for each IoT device. The results from the experiments showed that data can be extracted from each category of cloud, network, client, and device, and that the data should be collected as soon as possible with the related devices and collected as much as possible. This is because the data available in the device and in the specified categories can vary depending on the storage and processing capabilities. For example, the device side may have data that the cloud side does not have. The data can be key evidence for a crime scene. And the cloud side includes the more complete update and historical data, while the client and device side include cache data that may be incomplete, outdated, or partially overwritten. Through these test results, this paper also presents the IoT investigation procedure. In order to proceed with data collection from all aspects of IoT ecosystem, it is necessary to analyze data obtained from the client side. Information such as device configuration information and connected devices can be obtained by acquiring and analyzing them. By checking the information of the other connected IoT devices, the investigation can go through the identification step again. The proposed procedure will serve as a guideline from where to start to investigate IoT devices and what the next step is. It will also facilitate investigators and researchers in the digital forensics field to facilitate the data acquisition process and develop data collection tools. This procedure should be tested and verified against a variety of IoT devices until a comprehensive procedure for IoT data acquisition.},
+annote = {English},
+author = {Jang, Subong},
+keywords = {Client-side Acquisition,Cloud Acquisition,Device Acquisition,Internet of things forensic,IoT Forensic,IoT data acquisition,Network Acquisition},
+mendeley-groups = {Alum},
+pages = {92},
+school = {Hallym University},
+title = {{A Study on Internet of Things (IoT) Forensic}},
+type = {Mastes of Science},
+url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Subong-A_Study_on_Internet_of_Things_Forensics.pdf},
+year = {2019},
+month = {Jul.}
+}
+
+@mastersthesis{Brhan2019,
+abstract = {The increasing number of IoT devices used in different application domains is changing the digital forensics landscape by providing a variety of potential data and data sources. However, Current forensic tools and techniques have been slow to adapt to new challenges and demands of collecting and analyzing IoT environment artifacts. Like the traditional forensics, data acquisition is possible from the client-side, network or cloud service in the IoT ecosystem. However, unlike computer forensics, IoT forensics does not normally contain much data on the client-side; since the device's storage is usually limited, the client devices may not save much data except some cache and configuration files. In this case, their cloud service could normally be a great source of potential evidence. Investigators access cloud service data in different ways. They can either attempt to access the cloud service data themselves by authenticating as a user or collaborate with the Cloud Service Provider to collect data. In this thesis, we studied the acquisition and analysis of cloud data from IoT environments to addresses the limitation of client-side acquisition. Specifically, we introduce an acquisition procedure for IoT-related cloud services using Application Programming Interfaces (APIs). Some IoT devices and its cloud services provide APIs for programmers and user while others not. We use both official APIs given by cloud providers and unofficial APIs in which we used different research methods to uncover it. There are previous works that showed and used these official and unofficial APIs for data acquisition purposes. However, every IoT devices and cloud providers have their own API type and structure. Hence, we used the three most popular IoT-related cloud providers - Amazon Alexa, Google Home and SmartThings - to show how to use APIs to acquire cloud-native artifacts from their respective backend cloud service. Using the APIs, we can obtain cloud-centric data from each selected case study cloud services. User command history, user activities, audio files and other additional data obtained from Amazon Alexa cloud. It is also possible to download user activity data, including command issued to the device from Google cloud related to Google Home. From SmartThings cloud, we able to download information, including each device events or action performed on the sensors, user-created locations, Hubs, account detail, rooms information, etc. To help investigators in automating the acquisition process, we designed and developed a python application that connects and retrieve every possible information stored in their respective cloud services. The application is a user interface-based tool with an option to select different filtration parameters, authentication option, data parsing. The tool also provides logging every action and documenting all the downloaded file metadata, including the calculated hash. Further, to evaluate the completeness of the acquired cloud data, we generated data in a controlled environment with specific set of actions and scripts, then compare the API-based acquired data with the generated data.},
+annote = {English},
+author = {Brhan, Yohannes Yemane},
+keywords = {API-based cloud data acquisition,Amazon Alexa forensics,Cloud forensics,Google Assistant forensics,IoT forensics,SmartThings forensics,cloud acquisition tool},
+mendeley-groups = {Alum},
+pages = {95},
+school = {Hallym University},
+title = {{API-Based Cloud Data Acquisition and Analysis from Smart Home IoT Environments}},
+type = {Masters of Science},
+url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Yohannes-API_Based_Cloud_Data_Acquisition_and_Analysis_from_Smart_Home_IoT_Environments.pdf},
 year = {2019},
 month = {Jul.}
 }
@@ -28,18 +57,3 @@ url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Reque
 year = {2019},
 month = {Jul.}
 }
-
-
-@article{son2013study,
-  title={A study of user data integrity during acquisition of Android devices},
-  author={Son, Namheun and Lee, Yunho and Kim, Dohyun and James, Joshua I and Lee, Sangjin and Lee, Kyungho},
-  journal={Digital Investigation},
-  volume={10},
-  pages={S3--S11},
-  year={2013},
-  month={Aug.},
-  publisher={Elsevier},
-  doi={10.1016/j.diin.2013.06.001},
-  url={https://doi.org/10.1016/j.diin.2013.06.001}
-}
-
