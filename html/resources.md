@@ -27,10 +27,12 @@ is prohibited.
 *  [LIFS Logo JPG](/resources/LIFS-logo.jpg)
 *  [LIFS Logo SVG](/resources/LIFS-logo.svg)
 *  [LIFS Logo AI](/resources/LIFS-logo.ai)
-<img src="/resources/LIFS-logo.jpg" />
+<br />
+<img style="width: 100px" src="/resources/LIFS-logo.jpg" />
 
 * **LIFS Reserach Group Logo**
 *  [LIFS Group JPG](/resources/LIFS-group.jpg)
 *  [LIFS Group PNG](/resources/LIFS-group.png)
 *  [LIFS Group AI](/resources/LIFS-group.ai)
-<img src="/resources/LIFS-group.jpg" />
+<br />
+<img style="width: 100px" src="/resources/LIFS-group.jpg" />
