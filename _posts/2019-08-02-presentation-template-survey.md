@@ -4,18 +4,21 @@ title: "LIFS Presentation Template Survey"
 icon: star-o
 ---
 
-[This is a link](http://dfir.science)
+We are running a LIFS presentation template design competition! If your presentation is chosen
+you will recieve a really fancy prize!
 
-<img src="/img/blog/IRONSTONEgroup.jpg" />
+### Rules
+* The presentation file should represent the LIFS Institute
+* It must have a title slide, two content slides, and an ending slide
+* Submit a PPTX (MS Office) and and ODP (Open Document Presentation)
 
-1. This is numbered
-2. This is two
-3. This is three
+### Bonus
+* English and Korean well-mixed
+* Actually a template file
 
-* This is a thing
-* this is another thing
+### Submit
+Submit to Joshua by email my Friday, August 9th. The subject of the email should be
+"LIFS Presentation Template".
 
-
-This is one paragraph. When I type MD with do everything for me.
-
-This is another paragraph. MD makes a new para automatically!
+### Winner(s)
+Winners will get a prize that I've not decided yet, but it will be cool!
