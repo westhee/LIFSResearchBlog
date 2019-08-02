@@ -8,7 +8,7 @@ icon: star-o
 Upcoming events 2019-2020
 
 
-               Conference	              Date	       Location	  Region	  Registration fee
+               Conference	              Date	   Location	    Region	    Registration fee
 
 
 *  Crimes Against Children Conference  	August 12 – 15	Dallas, TX	North America	$600
