@@ -31,3 +31,5 @@ Upcoming events 2019-2020
 *  Emirates International Forensic Conference & Exhibition 	April 9 – 11, 2020 (TBC)	Dubai, UAE	Middle East	AED 1,937
 *  Magnet User Summit 	May 11 – 13, 2020	Nashville, TN	North America	$349
 *  Milipol Qatar	October 26 – 28, 2020	Doha, Qatar	Middle East	free
+
+[Upcoming events 2019-2020](https://blog.atola.com/top-forensic-conferences-2018-2019/)
