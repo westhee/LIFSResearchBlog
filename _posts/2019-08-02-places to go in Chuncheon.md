@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "One of the places to go in Chuncheon"
+title: "Ethiopian Veterans Museum"
 icon: star-o
 ---
-
-Ethiopian Veterans Museum 
+ 
 
 Ethiopian veteran Museum is built for the remembrance of [Ethiopians](https://en.wikipedia.org/wiki/Kagnew_Battalion) participated during the Korean War. 
 The museum is located near the Chuncheon river. The cool thing to do around the museum is to have a coffee in the coffee shops on the river. But if you wanna have the taste of original Ethiopian Coffee, there is a coffee shop named "Ethiopia Bet" right across the Museum. 
