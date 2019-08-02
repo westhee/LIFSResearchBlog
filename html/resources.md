@@ -2,7 +2,7 @@
 layout: default
 title: Resources
 ---
-<span style="text-align: center;">[Links](#links) | [Books](#books) | [Logos](#logos)</span>
+<span style="text-align: center;">[Links](#links) | [Books](#books) | [Directions](#maps) [Logos](#logos)</span>
 
 ## Related Links
 <span class="links"></span>
@@ -14,6 +14,7 @@ title: Resources
 * Mobile Forensic Investigations, Second Edition (2019) Lee Reiber. McGraw Hill.
 
 ### Directions
+<span class="maps"></span>
 * [MAP](https://goo.gl/maps/15pL6ZfhHqr3KksA7): How to get to Chuncheon Station from Hallym University 
 
 ## LIFS Logos
