@@ -1,7 +1,7 @@
 ---
-layout:post
+layout: post
 titel: "Linux sandboxing techniques (Smack vs Chroot)"
-icon:star-o
+icon: star-o
 ---
 
 ## What is 'Sandboxing'
@@ -15,11 +15,11 @@ Moredetails can be found at
 * 'Smack" is the Simplified Mandatory Access Control Kernel.
 * Smack is used in the Tizen operating system on Samsung TV
 * Smack consists of three major components:
-    *The kernel
-    *Basic utilities, which are helpful but not required
-    *Configuration data
+*  The kernel
+*  Basic utilities, which are helpful but not required
+*  Configuration data
     
-* 'Chroot'A chroot is an operation that changes the apparent root directory for the current running process and their children
+* 'Chroot' A chroot is an operation that changes the apparent root directory for the current running process and their children
 Moredetails can be found on
 * http://man7.org/linux/man-pages/man2/chroot.2.html
 * https://lwn.net/Articles/252794/
