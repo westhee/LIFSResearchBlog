@@ -2,7 +2,7 @@
 layout: default
 title: Resources
 ---
-<span style="text-align: center;">[Links](#links) | [Books](#books) | [Directions](#maps) [Logos](#logos)</span>
+<span style="text-align: center;">[Links](#links) | [Books](#books) | [Directions](#maps) | [Logos](#logos)</span>
 
 ## Related Links
 <span class="links"></span>
