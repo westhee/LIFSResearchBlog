@@ -5,12 +5,12 @@ icon: star-o
 ---
 
 We are running a LIFS presentation template design competition! If your presentation is chosen
-you will recieve a really fancy prize!
+you will receive a fancy prize!
 
 ### Rules
 * The presentation file should represent the LIFS Institute
 * It must have a title slide, two content slides, and an ending slide
-* Submit a PPTX (MS Office) and and ODP (Open Document Presentation)
+* Submit a PPTX (MS Office) and ODP (Open Document Presentation)
 
 ### Bonus
 * English and Korean well-mixed
