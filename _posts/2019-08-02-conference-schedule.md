@@ -5,7 +5,7 @@ icon: star-o
 ---
 
 
-Upcoming events 2019-2020
+[Upcoming events 2019-2020](https://blog.atola.com/top-forensic-conferences-2018-2019/)
 
 
                Conference	              Date	   Location	    Region	    Registration fee
@@ -32,4 +32,3 @@ Upcoming events 2019-2020
 *  Magnet User Summit 	May 11 – 13, 2020	Nashville, TN	North America	$349
 *  Milipol Qatar	October 26 – 28, 2020	Doha, Qatar	Middle East	free
 
-[Upcoming events 2019-2020](https://blog.atola.com/top-forensic-conferences-2018-2019/)
