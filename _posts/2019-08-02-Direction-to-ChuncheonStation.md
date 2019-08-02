@@ -1,5 +1,5 @@
 ---
-layoud: post
+layout: post
 title: "Direction to Chuncheon Station"
 icon: star-o
 ---
