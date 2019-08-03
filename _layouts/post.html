@@ -12,8 +12,14 @@ layout: default
     </span>
 </p>
 <p class="author">
-    {% assign person = page.author %}
-    {% include person.html person=person image=include.image %}
+    {% for item in site.data.people %}
+        {% assign person = item[1] %}
+            <h3>{{ person }}</h3>
+            <h2>{{ item[0] }}</h2>
+        {% if item[0] == page.author %}
+            {% include person.html person=person image=include.image %}
+        {% endif %}
+    {% endfor %}
 </p>
 
 <div class="post">
