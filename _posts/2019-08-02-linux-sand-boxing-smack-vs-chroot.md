@@ -7,9 +7,9 @@ tags: [sandbox, research]
 ---
 Sandboxing is a security mechanism used by linux to restrict and provide privilliges to applications and other system files 
 Moredetails can be found at 
-* [https://chromium.googlesource.com/chromium/src/+/HEAD/docs/linux_sandboxing.md]
-* [https://en.wikipedia.org/wiki/Sandbox_(computer_security)]
-* [https://www.comparitech.com/blog/information-security/what-is-sandboxing/]
+* (https://chromium.googlesource.com/chromium/src/+/HEAD/docs/linux_sandboxing.md)
+* (https://en.wikipedia.org/wiki/Sandbox_(computer_security))
+* (https://www.comparitech.com/blog/information-security/what-is-sandboxing/)
 
 ### Chroot vs Smack
 * 'Smack" is the Simplified Mandatory Access Control Kernel.

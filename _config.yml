@@ -46,10 +46,10 @@ navigation:
   - title: People
     link: /#people
   - title: Research
-    link: /pages/research.html
+    link: /research
   - title: Publications
-    link: /pages/publications.html
+    link: /publications
   - title: Resources
-    link: /pages/resources.html
+    link: /resources
   - title: "<span class='fab fa-github fa-lg'></span>"
     link: "https://github.com/LIFSHallym"

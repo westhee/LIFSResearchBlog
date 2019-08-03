@@ -2,7 +2,7 @@
 layout: post
 title: "LIFS Presentation Template Survey"
 icon: star-o
-author: "profJoshua"
+author: "profJames"
 tags: [survey]
 ---
 
