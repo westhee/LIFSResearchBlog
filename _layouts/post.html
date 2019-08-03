@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<p class="date">{{ page.date | date: '%B %d, %Y' }}</p>
+<p class="date">{{ page.date | date: '%B %d, %Y' }}, {% include person.html person=page.author image=include.image %}</p>
 
 <div class="post">
 {{ content }}
