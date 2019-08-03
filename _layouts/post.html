@@ -3,7 +3,7 @@ layout: default
 ---
 <p class="date">{{ page.date | date: '%B %d, %Y' }}</p>
 <p class="author">
-    {% person = page.author %}
+    {% assign person = page.author %}
     {% include person.html person=person image=include.image %}</p>
 <p class="keywords">
     {% if post.tags %}
