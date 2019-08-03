@@ -1,16 +1,19 @@
 ---
 layout: default
 ---
-<p class="date">{{ page.date | date: '%Y-%m-%d' }}</p>
-<p class="author">
-    {% assign person = page.author %}
-    {% include person.html person=person image=include.image %}</p>
-<p class="keywords">
+<p>
+    <span class="date">{{ page.date | date: '%Y-%m-%d' }}</span>
+    <span class="keywords">
     {% if page.tags %}
         {% for tag in page.tags %}
-            <a href="{{ site.base }}/tags#{{ tag }}">{{ tag }}</a></li>
+            <h6><a href="{{ site.base }}/tags#{{ tag }}" class="badge badge-info">{{ tag }}</a></h6>
         {% endfor %}
     {% endif %}
+    </span>
+</p>
+<p class="author">
+    {% assign person = page.author %}
+    {% include person.html person=person image=include.image %}
 </p>
 
 <div class="post">
