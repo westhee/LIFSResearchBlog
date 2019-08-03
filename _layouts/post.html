@@ -6,7 +6,7 @@ layout: default
     <span class="keywords">
     {% if page.tags %}
         {% for tag in page.tags %}
-            <h6><a href="{{ site.base }}/tags#{{ tag }}" class="badge badge-info">{{ tag }}</a></h6>
+            <a href="{{ site.base }}/tags#{{ tag }}" class="badge badge-info">{{ tag }}</a>
         {% endfor %}
     {% endif %}
     </span>
