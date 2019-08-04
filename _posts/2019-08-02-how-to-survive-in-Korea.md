@@ -3,7 +3,7 @@ layout: post
 title: "Student survival tips in Korea"
 icon: star-o
 author: 2019yohannes
-keywords: [student life]
+tags: [student life]
 ---
 
 Do you want to survive in Korea? Here are some "do's and don'ts" to live in this dynamic country.
