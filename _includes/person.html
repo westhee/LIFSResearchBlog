@@ -19,13 +19,13 @@ there by default by Bootstrap columns.
 
 {% endcomment %}
 
-<!--{% if person.webpage %}
+{% if person.webpage %}
     {% capture name %}
         <a href="{{ person.webpage | escape }}"> {{ person.display_name }} </a>
     {% endcapture %}
-{% else %}-->
+{% else %}
     {% assign name = person.display_name %}
-<!--{% endif %}-->
+{% endif %}
 
 {% if include.image %}
     <div class="person person-with-image row align-items-center">
@@ -35,7 +35,7 @@ there by default by Bootstrap columns.
         <div class="col pl-0">
             <h6 class="person-name"> {{ name }} </h6>
             {% if person.webpage %}
-                <a href="{{ person.webpage }}"><span class="fab fa-globe"></span></a>
+                <a href="{{ person.webpage }}"><span class="fas fa-globe"></span></a>
             {% endif %}
             {% if person.linkedin %}
                 <a href="{{ person.linkedin }}"><span class="fab fa-linkedin"></span></a>
@@ -49,7 +49,7 @@ there by default by Bootstrap columns.
     <div class="person person-without-image">
         {{ name }}
         {% if person.webpage %}
-            <a href="{{ person.webpage }}"><span class="fab fa-globe"></span></a>
+            <a href="{{ person.webpage }}"><span class="fas fa-globe"></span></a>
         {% endif %}
         {% if person.linkedin %}
             <a href="{{ person.linkedin }}"><span class="fab fa-linkedin"></span></a>
