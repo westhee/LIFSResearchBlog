@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Directions to Chuncheon Station from Hallym University"
-icon: fa-map-marker-alt
+icon: map-marker-alt
 author: ugradDavid
 tags: [directions, maps]
 ---

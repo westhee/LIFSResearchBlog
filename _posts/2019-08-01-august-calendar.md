@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "August 2019 Grad Student Notice"
-icon: fa-calendar-alt
+icon: calendar-alt
 tags: [events]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Forensic Conference Schedule 2019"
-icon: fa-calendar-alt
+icon: calendar-alt
 author: 2018minjin
 tags: [events]
 ---
