@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Digital Forensic Conference Schedule 2019"
-icon: star-o
+icon: fa-calendar-alt
+author: 2018minjin
+tags: [events]
 ---
 
-### This is the upcoming events for Top forensic conferences and exhibitions
+Upcoming events for Top forensic conferences and exhibitions
 [Upcoming events 2019-2020](https://blog.atola.com/top-forensic-conferences-2018-2019/)
 
-
-               Conference	              Date	   Location	    Region	    Registration fee
-
+* Conference, Date, Location, Region, Registration fee
 
 *  Crimes Against Children Conference  	August 12 – 15	Dallas, TX	North America	$600
 *  114th CACP Annual Conference	August 12 – 15	Halifax, NS, Canada	North America	$895

@@ -124,7 +124,7 @@ ugrad001:
     display_name: "고서정"
     role: ugrad-alum
 
-ugrad002:
+ugradDavid:
     display_name: "김기철"
     role: ugrad
     bio: "Intelligent digital investigation tools"

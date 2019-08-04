@@ -2,6 +2,7 @@
 layout: post
 shortnews: true
 icon: newspaper-o
+tags: [news]
 ---
 
 Major updates to the LIFS Research Group website.

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Direction to Chuncheon Station"
-icon: star-o
+title: "Directions to Chuncheon Station from Hallym University"
+icon: fa-map-marker-alt
+author: ugradDavid
+tags: [directions, maps]
 ---
 
-## This is the route from Doheon Building to Chuncheon Station.
-
-If it is your first time in Hallym University, you might not know how to get to Chuncheon Station, which is the closest train station to Hallym.
+If it is your first time at Hallym University, you might not know how to get to Chuncheon Station; it is the closest train station to Hallym.
 
 If you are walking, it is going to be about 20~30 minute walk, but you can also take bus 12 (takes 5 min) to get there as well.
 
