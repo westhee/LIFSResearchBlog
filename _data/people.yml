@@ -24,6 +24,8 @@ profJames:
     role: faculty
     image: https://0.academia-photos.com/1150202/7548239/8475648/s200_joshua.james.jpg
     bio: "Professor"
+    youtube: "https://www.youtube.com/dfirscience"
+    twitter: "https://twitter.com/dfirscience"
 
 2018minjin:
     display_name: "박민진 (Min Jin Park)"
@@ -70,7 +72,6 @@ profJames:
     role: alum
     bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Yohannes-API_Based_Cloud_Data_Acquisition_and_Analysis_from_Smart_Home_IoT_Environments.pdf'>API-based Cloud Data Acquisition and Analysis from Smart Home IoT Devices</a>"
     image: /img/people/Yohannes.jpg
-    webpage: "https://www.linkedin.com/in/yohannes-yemane-brhan-70433470"
     linkedin: "https://www.linkedin.com/in/yohannes-yemane-brhan-70433470"
 
 2019addisu:
@@ -90,17 +91,15 @@ profJames:
     role: alum
     bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Request_Effectiveness.pdf'>A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria</a>"
     image: /img/people/Betty.jpg
-    webpage: "https://www.linkedin.com/in/betty-bukola-ajayi-9033b99a/"
+    linkedin: "https://www.linkedin.com/in/betty-bukola-ajayi-9033b99a/"
 
 2017Kyoungjae:
     display_name: "박경재 (KyoungJae Park)"
     role: alum
     bio: "MSc, 2020 (Expected)"
     image: /img/people/Kyoungjae.jpg
-    webpage: "https://www.linkedin.com/in/kyoungjae-park-759119aa/"
+    linkedin: "https://www.linkedin.com/in/kyoungjae-park-759119aa/"
 
-     
-    
 HancomGMD:
     display_name: "Hancom GMD"
     role: collab
@@ -128,7 +127,7 @@ ugradDavid:
     display_name: "김기철"
     role: ugrad
     bio: "Intelligent digital investigation tools"
-    webpage: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
+    linkedin: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
     image: /img/people/KeeCheol.jpg
 
 ugrad007:

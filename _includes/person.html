@@ -38,8 +38,23 @@ there by default by Bootstrap columns.
             {% if person.webpage %}
                 <a href="{{ person.webpage }}"><span class="fas fa-globe"></span></a>
             {% endif %}
+            {% if person.github %}
+                <a href="{{ person.github }}"><span class="fab fa-github"></span></a>
+            {% endif %}
             {% if person.linkedin %}
                 <a href="{{ person.linkedin }}"><span class="fab fa-linkedin"></span></a>
+            {% endif %}
+            {% if person.twitter %}
+                <a href="{{ person.twitter }}"><span class="fab fa-twitter"></span></a>
+            {% endif %}
+            {% if person.instagram %}
+                <a href="{{ person.instagram }}"><span class="fab fa-instagram"></span></a>
+            {% endif %}
+            {% if person.youtube %}
+                <a href="{{ person.youtube }}"><span class="fab fa-youtube"></span></a>
+            {% endif %}
+            {% if person.email %}
+                <a href="{{ person.email }}"><span class="fab fa-envelope"></span></a>
             {% endif %}
             {% if person.bio %}
                 <div class="bio">{{person.bio}}</div>
@@ -52,8 +67,23 @@ there by default by Bootstrap columns.
         {% if person.webpage %}
             <a href="{{ person.webpage }}"><span class="fas fa-globe"></span></a>
         {% endif %}
+        {% if person.github %}
+            <a href="{{ person.github }}"><span class="fab fa-github"></span></a>
+        {% endif %}
         {% if person.linkedin %}
             <a href="{{ person.linkedin }}"><span class="fab fa-linkedin"></span></a>
+        {% endif %}
+        {% if person.twitter %}
+            <a href="{{ person.twitter }}"><span class="fab fa-twitter"></span></a>
+        {% endif %}
+        {% if person.instagram %}
+            <a href="{{ person.instagram }}"><span class="fab fa-instagram"></span></a>
+        {% endif %}
+        {% if person.youtube %}
+            <a href="{{ person.youtube }}"><span class="fab fa-youtube"></span></a>
+        {% endif %}
+        {% if person.email %}
+            <a href="{{ person.email }}"><span class="fab fa-envelope"></span></a>
         {% endif %}
         {% if person.bio %}
             <span class="bio">{{person.bio}}</span>
