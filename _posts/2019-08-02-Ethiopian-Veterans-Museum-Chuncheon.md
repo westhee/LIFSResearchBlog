@@ -3,6 +3,7 @@ layout: post
 title: "Ethiopian Veterans Museum"
 icon: star-o
 author: 2019addisu
+tags: [directions, maps]
 ---
 
 Ethiopian veteran Museum is built for the remembrance of [Ethiopians](https://en.wikipedia.org/wiki/Kagnew_Battalion) participated during the Korean War. 
