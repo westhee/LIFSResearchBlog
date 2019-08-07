@@ -11,7 +11,7 @@ The coffee shop serves coffee that made Ethiopian way.
 
 Location of the museum:
 
-<iframe src="https://www.google.com/maps/place/%EC%97%90%ED%8B%B0%EC%98%A4%ED%94%BC%EC%95%84%ED%95%9C%EA%B5%AD%EC%A0%84%EC%B0%B8%EC%A0%84%EA%B8%B0%EB%85%90%EA%B4%80/@37.8737606,127.7095892,17z/data=!3m1!4b1!4m5!3m4!1s0x3562e6881e18a7df:0xa109e845460f76d2!8m2!3d37.8737606!4d127.7117779"
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149.424226170626!2d127.70958921532045!3d37.873760579741564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3562e6881e18a7df%3A0xa109e845460f76d2!2sEthiopian+Korea+War+Memorial!5e0!3m2!1sen!2skr!4v1565151732881!5m2!1sen!2skr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 
