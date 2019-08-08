@@ -4,8 +4,7 @@ title: "List of tools and resources for Android reversing engineering and analys
 icon: star-o
 ---
 
-While I am doing reverse engineer Android apps, I got a lot of useful tools, resources and platforms which helps me a lot.
-I wish to share these tools, resources, and platforms including its links which I came across with respect to reverse enginering and analyzing Android apps.
+I wish to share these tools, resources, and platforms which I came across while I am doing reverse engineer and analysis on Android apps.
 
 1.The primary tools needed to interact with android phones and apps are **SDK Tools** and **SDK Platform-Tools** packages. These packages include **ADB (Android Debugging Bridge)**.
 ADB tools is a command-line tool that makes communication with an Android device possible. The adb command enables a variety of device actions, such as installing/uninstalling apps, pulling and pushing files, debugging apps and so on.
