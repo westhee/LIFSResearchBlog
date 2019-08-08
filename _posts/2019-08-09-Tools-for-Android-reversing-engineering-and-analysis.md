@@ -51,7 +51,7 @@ _[List of libraries for Frida](https://github.com/dweinstein/awesome-frida)_
 
 _[A tutorial to install, configure and use Frida framework](https://www.notsosecure.com/pentesting-android-apps-using-frida/)_
 
-If it is installed and configured successfully, you should be having the output as shown in the image below (the image is taken from the above tutorial link). The command outputs shows all the processes currently running.
+If it is installed and configured successfully, you should be having the output as shown in the image below _(the image is taken from the above tutorial link)_. The command outputs shows all the processes currently running.
 
 ![frida communicating with andoird phone from windows machine](/img/blog/frida.png)
 
