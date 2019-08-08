@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Unpacking South Korea's National Cyber Security Strategy"
+author: TerrenceN
 icon: star-o
 ---
 
@@ -40,7 +41,7 @@ fundamental rights of the people, e.g. privacy.
 Carry out the government's cybersecurity policies and
 activities in a transparent manner and in compliance with the
 domestic and international laws
-3. Build an system of participation and cooperation:
+3. Build a system of participation and cooperation:
 Encourage individuals, businesses, and the government
 to participate in cybersecurity activities, and pursue close
 cooperation with the international community
