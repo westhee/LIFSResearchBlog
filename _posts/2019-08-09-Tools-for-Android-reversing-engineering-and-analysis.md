@@ -6,10 +6,9 @@ icon: star-o
 
 While I am doing reverse engineer Android apps, I got a lot of useful tools, resources and platforms which helps me a lot.
 I wish to share these tools, resources, and platforms including its links which I came across with respect to reverse enginering and analyzing Android apps.
-
 1. The primary tools needed to interact with android phones and apps are **SDK Tools** and **SDK Platform-Tools** packages. These packages include **ADB (Android Debugging Bridge)**.
 ADB tools is a command-line tool that makes communication with an Android device possible. The adb command enables a variety of device actions, such as installing/uninstalling apps, pulling and pushing files, debugging apps and so on.
-_[Here is the link for intalling and configuring SDK tools including ADB]_ (https://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/)
+_[Here is the link for intalling and configuring SDK tools including ADB](https://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/)_
 ![Adb command](/img/blog/adb.png)
 
 2. **[Apktool](https://ibotpeaches.github.io/Apktool/)** is a popular free tool that can extract and disassemble resources directly from the APK archive and disassemble Java bytecode to Smali format (Smali/Baksmali is an assembler/disassembler for the Dex format. It's also Icelandic for "Assembler/Disassembler"). 
@@ -24,25 +23,23 @@ It is possible to open the “.jar” file -- which is decompiled using Dex2Jar 
 
 5. **[Jadx]( https://github.com/skylot/jadx/releases)** is an android decompiler which has capability of decompiling the source code from .apk file & provide human readable java class files. 
 In Jadx, you don't need apktool and Dex2jar tools to view the source which can disassemble and decompile the entire process with just single click. 
-_[Here is a tutorial for configuring and using Jadx]_ (http://nestedif.com/android-security/1-reverse-engineering-android-apk-using-jadx/).
+_[Here is a tutorial for configuring and using Jadx](http://nestedif.com/android-security/1-reverse-engineering-android-apk-using-jadx/)_
 ![jadx gui](/img/blog/jadx.png)
 
-6. **[Xposed] (https://repo.xposed.info/)** is a “dynamic” instrumentation or hooking framework that allows developers or security professionals to replace any method in any Android class.
+6. **[Xposed](https://repo.xposed.info/)** is a “dynamic” instrumentation or hooking framework that allows developers or security professionals to replace any method in any Android class.
 You can change parameters for the method call, modify or change the return value or skip the whole method completely. Some of the things to perform using xposed: byppass securities such as SSL pinning or root detection,
 edit limitation on apps such as twitter's character limit, and so on.
-_[List of already developed modules for xposed]_ (https://repo.xposed.info/module-overview)
-_[Here is blog on how to use, configure and a titorial on developing a module for xposed framework]_ (https://binderfilter.github.io/xposed/)
+_[List of already developed modules for xposed](https://repo.xposed.info/module-overview)_
+_[Here is blog on how to use, configure and a titorial on developing a module for xposed framework](https://binderfilter.github.io/xposed/)_
 Once installed and configured, the framework looks like the following image.
 ![Xposed interface](/img/blog/xposed.png)
 
-7. **[Frida] (https://www.frida.re/docs/home/)** is a dynamic code instrumentation toolkit like xposed. It lets you inject a piece of JavaScript code or your own library into native apps including Android platform. Unlike exposed, it is used on other operating systems such as Windows, macOS, GNU/Linux, iOS, and QNX.
+7. **[Frida](https://www.frida.re/docs/home/)** is a dynamic code instrumentation toolkit like xposed. It lets you inject a piece of JavaScript code or your own library into native apps including Android platform. Unlike exposed, it is used on other operating systems such as Windows, macOS, GNU/Linux, iOS, and QNX.
 Like xposed, it lets to edit or instrument running apps such as hook method calls, trace API calls, intercept http calls, and so on. 
 Both xposed and Frida have an active developers community and have a lot of developed modules and libraries. 
-_[List of libraries for Frida]_ (https://github.com/dweinstein/awesome-frida)
-_[A tutorial to install, configure and use Frida framework]_ (https://www.notsosecure.com/pentesting-android-apps-using-frida/)
-
+_[List of libraries for Frida](https://github.com/dweinstein/awesome-frida)_
+_[A tutorial to install, configure and use Frida framework](https://www.notsosecure.com/pentesting-android-apps-using-frida/)_
 If it is installed and configured successfully, you should be having the output as shown in the image below (the image is taken from the above tutorial link). The command outputs shows all the processes currently running.
-
 ![frida communicating with andoird phone from windows machine](/img/blog/frida.png)
 
 
