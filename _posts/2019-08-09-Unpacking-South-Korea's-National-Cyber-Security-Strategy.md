@@ -49,4 +49,4 @@ This strategy paves the way for South Korea to continue to address the increased
 and the ever-changing environment. Continued review and evaluation of the implementation plans will be critical
 in meeting the set goals and vision. The strategy also seeks to address global and national collaborative aspects in combating cyber threats. They propose elaborations on roles and responsibilities of all stakeholders to create a culture of security practice and awareness.
 
-For further review, please download the [National_Cyber_Security_Strategy] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjvssGvm_PjAhVFZt4KHXrtBIgQFjAAegQIAhAC&url=https%3A%2F%2Fwww.krcert.or.kr%2Ffiledownload.do%3Fattach_file_seq%3D2162%26attach_file_id%3DEpF2162.pdf&usg=AOvVaw2z36hBzJoyI2i5ammCTEei)
+For further review, please download the [National_Cyber_Security_Strategy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjvssGvm_PjAhVFZt4KHXrtBIgQFjAAegQIAhAC&url=https%3A%2F%2Fwww.krcert.or.kr%2Ffiledownload.do%3Fattach_file_seq%3D2162%26attach_file_id%3DEpF2162.pdf&usg=AOvVaw2z36hBzJoyI2i5ammCTEei)
