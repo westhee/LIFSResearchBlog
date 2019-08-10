@@ -17,7 +17,7 @@
 				<span class="language">[{{ entry.fields['annote'] }}] </span>
 			{%- endif %}
 			<span class="pubtitle">
-				<a href="/publications/{{ entry.fields['year'] }}-{{ entry.fields['title']|replace(" ", "_")|replace("{", "")|replace("}", "") }}"><span class="fas fa-globe"></span> Abtract</a>
+				<a href="/publications/{{ entry.fields['year'] }}-{{ entry.fields['title']|replace(" ", "_")|replace("{", "")|replace("}", "") }}"><span class="fas fa-globe"></span> Abstract</a>
 				{%- set url = entry|main_url %}
 				{%- if url %}
 				<img src="/img/pdficon_small.png" width="16"
