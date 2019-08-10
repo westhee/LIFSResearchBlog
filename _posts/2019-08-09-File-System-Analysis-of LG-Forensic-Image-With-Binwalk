@@ -41,8 +41,8 @@ For further read on Squashfs File system, its’ usage, features and the impact 
 
 ### WHAT IS THE IMPLICATION OF SQUASHFS ON OUR FILE
 The LG webos system files are housed in this partition file which when uncompressed is a large file with size 3.7GB. Squashfs filesystem made it possible to compress these files, this is the reason the original size of the entire image file was about 3.64G 
-<img src=" created file and root folder.png" style="float: left; margin-right: 10px;" />
-<img src="rootfolder.png" style="float: left; margin-right: 10px;" />
+![created file and root folder.png](/img/news/created file and root folder.png)
+![rootfolder.png](/img/news/rootfolder.png)
 This shows the uncompressed folder structure for the Squash-root
 
 ### EXT4 LINUX FILESYSTEM
