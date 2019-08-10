@@ -1,7 +1,7 @@
 <table class="table">
 <tbody>
-	{%- set prev_year = 1900 %}
-	{%- for entry in entries %}
+{%- set prev_year = 1900 %}
+{%- for entry in entries %}
 	<tr>
 		<td>
 			<span class="date">
@@ -17,7 +17,6 @@
 				<span class="language">[{{ entry.fields['annote'] }}] </span>
 			{%- endif %}
 			<span class="pubtitle">
-				<a href="/publications/{{ entry.fields['year'] }}-{{ entry.fields['title']|replace(" ", "_")|replace("{", "")|replace("}", "") }}<span class="fas fa-globe"></span>
 				{%- set url = entry|main_url %}
 				{%- if url %}
 				<img src="/img/pdficon_small.png" width="16"
@@ -63,6 +62,6 @@
 			</span>
 		</td>
 	</tr>
-	{%- endfor %}
+	{% endfor %}
 </tbody>
 </table>
