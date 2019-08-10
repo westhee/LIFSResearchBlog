@@ -62,7 +62,7 @@
 			<br />
 			<span class="abstract">
 			{%- if entry.fields['abstract'] %}
-				<div id="abstract_{{entry.fields['key']}}" class="abstract">
+				<div id="abstract_{{entry.fields['key']}}" class="abstract" style="text-align: justify; text-justify: inter-word;">
 					{{ entry.fields['abstract'] |escape }}
 				</div>
 			{%- endif %}
