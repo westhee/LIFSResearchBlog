@@ -25,7 +25,7 @@ for ARTICLE in $(ls | grep "TEMPARTICLE"); do
     echo "---" > ${OUTPATH}/${YEAR}-${TITLEUS}.html
     echo "layout: default" >> ${OUTPATH}/${YEAR}-${TITLEUS}.html
     echo "title: ${TITLE}" >> ${OUTPATH}/${YEAR}-${TITLEUS}.html
-    echo "permalink: /publications/${TITLEUS}" >> ${OUTPATH}/${YEAR}-${TITLEUS}.html
+    echo "permalink: /publications/${YEAR}-${TITLEUS}" >> ${OUTPATH}/${YEAR}-${TITLEUS}.html
     echo "---" >> ${OUTPATH}/${YEAR}-${TITLEUS}.html
     bibble $ARTICLE $TEMPLATE  >> ${OUTPATH}/${YEAR}-${TITLEUS}.html
 done
