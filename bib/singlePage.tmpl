@@ -4,15 +4,11 @@
 {%- for entry in entries %}
     <!-- Metadata for indexing -->
 	<meta name="citation_title" content="{{ entry|title }}">
-	{% for author in entry.persons['author'] %}
-		<meta name="citation_author" content="{{ author }}">
-	{% endfor %}
+	{% for author in entry.persons['author'] %}<meta name="citation_author" content="{{ author }}">{% endfor %}
 	<meta name="citation_publication_date" content="{{ entry.fields['year'] }}">
-	<meta name="citation_pdf_url" content="{{ entry.fields['url'] }}">
-	{% if entry.fields['school'] %}
-		<meta name="citation_dissertation_institution" content="{{ entry.fields['school'] }}">
-	{% endif %}
-
+	{% if entry.fields['school'] %}<meta name="citation_dissertation_institution" content="{{ entry.fields['school'] }}">{% endif %}
+	{% if entry.fields['doi'] %}<meta name="citation_doi" content="{{ entry.fields['doi'] }}">{% endif %}
+	{% if entry.fields['annote'] %}<meta name=""citation_language"" content="{{ entry.fields['annote'] }}">{%- endif %}
 	
 	<tr>
 		<td>

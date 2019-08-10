@@ -17,7 +17,7 @@
 				<span class="language">[{{ entry.fields['annote'] }}] </span>
 			{%- endif %}
 			<span class="pubtitle">
-				<a href="/publications/{{ entry.fields['year'] }}-{{ entry.fields['title']|replace(" ", "_")|replace("{", "")|replace("}", "") }}"><span class="fas fa-globe"></span></a>
+				<a href="/publications/{{ entry.fields['year'] }}-{{ entry.fields['title']|replace(" ", "_")|replace("{", "")|replace("}", "") }}"><span class="fas fa-globe"></span> Abtract</a>
 				{%- set url = entry|main_url %}
 				{%- if url %}
 				<img src="/img/pdficon_small.png" width="16"
@@ -53,14 +53,14 @@
 				{%- endif %}
 			</span>
 			<br />
+			{%- if entry.fields['abstractNOTUSED'] %}
 			<span class="abstract">
-			{%- if entry.fields['abstract'] %}
 				<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</button>
 				<div id="abstract_{{entry.fields['key']}}" class="abstract" style="display: none;">
 					{{ entry.fields['abstract'] |escape }}
 				</div>
-			{%- endif %}
 			</span>
+			{%- endif %}
 		</td>
 	</tr>
 	{%- endfor %}
