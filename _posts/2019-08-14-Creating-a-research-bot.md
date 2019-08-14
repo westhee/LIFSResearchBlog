@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a Telegram bot to support research"
-author: ProfJoshua
+author: profJames
 icon: star-o
 tags: [research, strategy]
 ---
