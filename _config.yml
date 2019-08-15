@@ -1,5 +1,7 @@
 name: Legal Informatics and Forensic Science
 url: http://lifs.hallym.ac.kr
+title: "Legal Informatics and Forensic Science"
+description: "The home of LIFS@Hallym"
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
