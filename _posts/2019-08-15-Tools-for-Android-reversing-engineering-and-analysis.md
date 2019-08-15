@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "List of tools and resources for Android reversing engineering and analysis"
+title: "List of tools for Android reverse engineering and analysis"
 icon: star-o
 author: 2019yohannes
-tags: [reversing, android]
+tags: [reversing, android, tools, resources]
 ---
 
 I wish to share these tools, resources, and platforms which I came across while I am doing reverse engineer and analysis on Android apps.
