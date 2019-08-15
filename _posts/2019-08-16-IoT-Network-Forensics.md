@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "LIFS Presentation Template Survey"
+title: "IoT Network Investigation"
 icon: star-o
+author: 2019addisu
+tags: [iot, network forensics, forenics, investigation]
 ---
-
-## IoT Network Investigation
-
 This blog is a two part series to IoT network forensics procedures. The first part explores the procedures for investigating network between the IoT Companion Apps and the backend cloud. The second part presents network investigation guideline for analyzing traffic between the hub device and the backend cloud.
 
 ### Part 1 - Network investigation between IoT Companion App and Cloud
