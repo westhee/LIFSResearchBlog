@@ -26,7 +26,7 @@ profJames:
     bio: "Professor"
     youtube: "https://www.youtube.com/dfirscience"
     twitter: "https://twitter.com/dfirscience"
-    email: "joshua.i.james+lifspage@hallym.ac.kr"
+    #email: "joshua.i.james+lifspage@hallym.ac.kr"
 
 2018minjin:
     display_name: "박민진 (Min Jin Park)"
