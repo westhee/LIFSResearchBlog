@@ -3,7 +3,7 @@ layout: post
 title: "Guide to Starting Research work with LIFS"
 icon: star-o
 author: TerrenceN
-tags: [Researcher, LIFS, Library ]
+tags: [Researcher, LIFS, Library]
 ---
 
 This guide that has been designed for new students, fellow **Researchers** or anyone who is interested in research. In this modern day, the difference between a academic student and  an "Industry-ready" academic student, is the ability to transfrom education to applied education.
