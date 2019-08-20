@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Crawling with Naver REST APIs.md"
+title: "Crawling with Naver REST APIs"
 author: ugraddavid
 icon: star-o
-tags: [research, OSINT]
+tags: [research, API, OSINT]
 ---
 
 I am currently working on a Crawler using Naver's REST APIs using Python.
