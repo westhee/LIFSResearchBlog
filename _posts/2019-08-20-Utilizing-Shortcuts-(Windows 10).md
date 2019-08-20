@@ -20,4 +20,4 @@ There are some cool tricks that will make you "click" less frequenty, and I have
 
 These tips are usually for Windows 10, so feel free to tune in.
 
-### Up Next: "Creating Personal Run Commands in Windows 10"
+### Up First: "Creating Personal Run Commands in Windows 10"
