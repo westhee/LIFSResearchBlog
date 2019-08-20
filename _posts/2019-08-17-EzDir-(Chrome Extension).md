@@ -3,12 +3,12 @@ layout: post
 title: "EzDir (Chrome Extension)"
 author: ugraddavid
 icon: star-o
-tags: [browser extension]
+tags: [tools]
 ---
 
-This is a real simple Chrome Extension for getting Directions using Google Maps.
+EzDir is simple Chrome Extension for getting Directions using Google Maps.
 
-After playing around with Google Maps page, I learned that the last parts of Google Map URL indicate the From, To, and Via Location that a user types in.
+After playing around with Google Maps page, I learned that the last part of the Google Map URL indicates the From, To, and Via Location that a user types in.
 
 https://www.google.com/maps/dir/FROM/TO/VIA
 
