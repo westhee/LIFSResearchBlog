@@ -6,6 +6,7 @@ author: 2018alex
 tags: [digital forensics, tools, file system]
 ---
 [Binwalk]( https://tools.kali.org/forensics/binwalk) is a simple Linux tool used for analysis of binary image files. Analyzing binary image files may include; reverse engineering, extracting firmware images, file systems, embedded files or executable codes from the binary images.  These binary images could be from firmware of routers, IOT devices or any digital device.
+
 To understand the way the tool works, I ran analysis on a forensic image obtained from 4GB [eMMC]( https://www.datalight.com/solutions/technologies/emmc/what-is-emmc) chip off LG Smart TV. The image was obtained by [chip-off]( https://www.gillware.com/digital-forensics/chip-off-forensics-services/) forensics method and read through HancomGMD product MD-RED. From my analysis using Binwalk, it revealed the following: Squashfs filesystem, Ext4 Linux filesystem, an Ubiquiti partition header and a YAFFS filesystem. 
 
 The steps taken to achieve this is what I would like to share and described below.
