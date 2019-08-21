@@ -25,7 +25,7 @@ A Squash file called KLM4G.sqfs was created which is 3.9GB
 ![runing unsquashfs.png](/img/news/runing unsquashfs.png)
 Showing 451 inodes and 532 blocks
 6.	Outcome of unsquashfs is seen below
-![outcome_of_unsquashfs.png](/img/news/outcome_of_unsquashfs.png)
+![output_of_unsquashfs.png](/img/news/output_of_unsquashfs.png)
 Uncompressed 134 files, 201 directories
 7.	Hexdump of ubiquiti filesystem: to view the partition in hexadecimal at offset 1048792 with the syntax on the screen shot to have a view of what partition contained 
 ![hexdump ubiquiti.png](/img/news/hexdump ubiquiti.png)

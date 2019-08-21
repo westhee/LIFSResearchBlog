@@ -52,7 +52,7 @@ navigation:
   - title: Publications
     link: /publications
   - title: Curriculum
-    link: /curriculum
+    link: /#
   - title: Resources
     link: /resources
   - title: "<span class='fab fa-github fa-lg'></span>"
