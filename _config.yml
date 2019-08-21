@@ -43,7 +43,7 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: Home
+  - title: <span class='fas fa-home fa-lg'></span>
     link: /
   - title: People
     link: /#people
@@ -51,6 +51,8 @@ navigation:
     link: /research
   - title: Publications
     link: /publications
+  - title: Curriculum
+    link: /curriculum
   - title: Resources
     link: /resources
   - title: "<span class='fab fa-github fa-lg'></span>"
