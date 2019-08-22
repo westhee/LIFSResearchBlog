@@ -28,7 +28,7 @@ Most majors at Hallym University have Korean language requirements. However, cou
   * International Affairs and Global Perspectives: 2-1-2
   * Introduction to Computing & Programming: 3-2-2
 
-There are also some elective courses that a student should choose. See the official [general studies curriculum](/resorces/19학번 글로벌학부 교양교과목 커리큘럼.pdf) for more information.
+There are also some elective courses that a student should choose. See the official [general studies curriculum](/resorces/19학번글로벌학부교양교과목커리큘럼.pdf) for more information.
 
 ### LIFS Undergraduate Major Courses
 <span id="LIFSMAJOR"></span>
@@ -70,7 +70,7 @@ Specifically, the LIFS program focuses on Computing and I.T., Law, Criminal Just
     * Capstone Design Seminar: 3-1-4
     * Crime & Investigative Psychology: 3-3-0
 
-There are also some elective courses that a student should choose. See the official [LIFS major curriculum](/resorces/LIFS_Curriculum.pdf) for more information.
+There are also some elective courses that a student should choose. See the official [LIFS major curriculum](/resorces/2019_LIFS_Bachelors_Curriculum.pdf) for more information.
 
 ### LIFS Master's Courses
 <span id="LIFSMASTER"></span>
@@ -99,7 +99,7 @@ Each course is three credits. Students usually take two courses per semester (th
 * Supervised Research for Master I (2nd-to-last semester)
 * Supervised Research for Master II (last semester)
 
-See the official [LIFS Master's curriculum](/resorces/LIFS Curriculum_Master.pdf) for more information.
+See the official [LIFS Master's curriculum](/resorces/2019_LIFS_Masters_Curriculum.pdf) for more information.
 
 ### LIFS PhD Program
 <span id="LIFSPHD"></span>
