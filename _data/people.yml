@@ -151,10 +151,6 @@ ugrad003:
     role: ugrad
     bio: "Expert systems in digital investigations and law"
 
-ugrad004:
-    display_name: "유혜민"
-    role: ugrad-alum
-
 ugrad005:
     display_name: "박현욱"
     role: ugrad

@@ -20,11 +20,11 @@ roles:
 #  - key: postdoc
 #    name: Researchers
   - key: grad
-    name: Graduate Students
+    name: Graduate Lab Members
   - key: ugrad
-    name: Undergraduate Students
+    name: Undergraduate Lab Members
   - key: ugrad-alum
-    name: Past Undergraduate Students
+    name: Past Undergraduate Lab Members
   - key: collab
     name: Collaborators
   - key: alum
