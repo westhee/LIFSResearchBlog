@@ -26,6 +26,7 @@ profJames:
     bio: "Professor"
     youtube: "https://www.youtube.com/dfirscience"
     twitter: "https://twitter.com/dfirscience"
+    linkedin: "https://linkedin.com/in/jijames"
     #email: "joshua.i.james+lifspage@hallym.ac.kr"
 
 2018minjin:
@@ -47,18 +48,21 @@ profJames:
     role: grad
     bio: "Expert systems in digital investigations and law"
     image: /img/people/Sungmi.jpg
+    linkedin: https://www.linkedin.com/in/sungmi-park-5560b0147
 
 2018terrence:
     display_name: "Terrence Nemayire"
     role: grad
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Terrence.png
+    linkedin: https://www.linkedin.com/in/terrence-nemayire-3b944b18b
 
 2018alex:
     display_name: "Alex Ocheme Ogbole"
     role: grad
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Alex.jpg
+    linkedin: https://www.linkedin.com/in/alex-ogbole-8b0b6571
 
 2019jian:
     display_name: "홍지안 (Jian Hong)"
@@ -139,6 +143,8 @@ ugrad007:
     display_name: "유혜민"
     role: ugrad
     bio: "Intelligent digital investigation tools"
+    image: /image/people/Angela.jpg"
+    webpage: "https://brandmyselfdf.blogspot.com/"
 
 ugrad003:
     display_name: "이유나"
