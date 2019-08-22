@@ -6,7 +6,7 @@ permalink: /curriculum
 
 Legal Informatics and Forensic Science (LIFS) is both an institute and a degree program at [Hallym University](https://hallym.ac.kr). We currently offer Bachelor's, Master's and PhD degree programs in Legal Informatics and Forensic Science.
 
-[LIFS General Courses](#LIFSGENERAL) | [LIFS Major Courses](#LIFSMAJOR) | [LIFS Master's Courses](#LIFSGRAD) | [LIFS PhD Program](#LIFSPHD) | [LIFS Scholarships](#LIFSRE)
+<p style="text-align: center;">[LIFS General Courses](#LIFSGENERAL) : [LIFS Major Courses](#LIFSMAJOR) : [LIFS Master's Courses](#LIFSGRAD) : [LIFS PhD Program](#LIFSPHD) : [LIFS Scholarships](#LIFSRE)</p>
 
 If you are interested in admission to Hallym University, please see the admission pages for [undergraduate](https://www.hallym.ac.kr/hallym_univ/sub12/cP1/sCP4.html), [graduate](https://grad.hallym.ac.kr), and [foreign student](https://english.hallym.ac.kr/en/hallym_univ/sub12/cP1/sCP3.html) admission.
 
