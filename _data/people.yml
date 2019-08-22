@@ -33,12 +33,14 @@ profJames:
     role: grad
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Minjin.jpg
+    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2018jiyoon:
     display_name: "함지윤 (Jiyoon Ham)"
     role: grad
     bio: "Intelligent digital investigation tools"
     image: /img/people/Jiyoon.jpg
+    linkedin: https://www.linkedin.com/in/jiyoon-ham-9a41a017a
 
 2019sungmi:
     display_name: "박성미 (Sungmi Park)"
@@ -66,7 +68,7 @@ profJames:
 2019yoonjun:
     display_name: "이윤정 (Yoonjung Lee)"
     role: alum
-    bio: "Ph.D., 2019."
+    bio: "Ph.D., 2019: 형사재판에서 판결전 재범위험성 정보제공이 유무죄 판단에 미치는 영향 - 사이코패스 선별도구 PCL-R 을 중심으로"
 
 2019yohannes:
     display_name: "Yohannes Yemane Brhan"
@@ -80,12 +82,14 @@ profJames:
     role: alum
     bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Addisu-Smart_Home_IoT_Forensics.pdf'>Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition</a>"
     image: /img/people/Addisu.jpg
+    linkedin: https://www.linkedin.com/in/addisu-afework-4434831a
 
 2019subong:
     display_name: "장수봉 (Subong Jang)"
     role: alum
     bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Subong-A_Study_on_Internet_of_Things_Forensics.pdf'>A Study on Internet of Things (IoT) Forensics</a>"
     image: /img/people/Subong.jpg
+    linkedin: https://kr.linkedin.com/in/subong-jang-54779aab
 
 2019betty:
     display_name: "Ajayi Betty Bukola"
