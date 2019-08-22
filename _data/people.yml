@@ -135,15 +135,12 @@ ugrad007:
     display_name: "유혜민"
     role: ugrad
     bio: "Intelligent digital investigation tools"
+    image: /img/people/Angela.jpg
 
 ugrad003:
     display_name: "이유나"
     role: ugrad
     bio: "Expert systems in digital investigations and law"
-
-ugrad004:
-    display_name: "유혜민"
-    role: ugrad-alum
 
 ugrad005:
     display_name: "박현욱"

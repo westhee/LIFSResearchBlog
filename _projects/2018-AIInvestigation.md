@@ -14,7 +14,6 @@ last-updated: 2018-12-31
 status: inactive
 ---
 
-## Research Background
 Artificial Intelligence (AI) is a growing trend in industry and consumer-grade devices. As more companies include some type of AI in their products – from smartphones to toys – AI also becomes more of a vector for abuse by criminals. The manipulation of AI decision processes is a particularly concerning threat. Many AI include learning systems that adapt to input they receive. These AI can change their behavior over time by learning how to respond to new input. Something as simple as a smart lightbulb or a connected-gas meter could be trained by a malicious user to make the “wrong” decision. The wrong decision could result in the billing of a competing company to be extremely high, or the AI “deciding” not to run machinery in a safe way.
 
 ## Goals of Research
