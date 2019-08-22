@@ -2,11 +2,12 @@
 layout: post
 title: "Guide to Starting Research work with LIFS"
 icon: star-o
-author: TerrenceN
-tags: [Researcher, LIFS, Library]
+author: 2018terrence
+tags: [Research, LIFS, Library]
 ---
 
 This guide that has been designed for new students, fellow **Researchers** or anyone who is interested in research. In this modern day, the difference between a academic student and  an "Industry-ready" academic student, is the ability to transfrom education to applied education.
+
 This is one of the key outstanding attributes within the **LIFS** Institute, hence this guide seeks to advice and recommend ways a researcher can initiate and embark on a research project.
 
 ### What is Research
@@ -26,6 +27,7 @@ Please refer to a practical contextual example below, On how to embark/start a r
 
 “Data acquisition from a Samsung Smart TV” – This Research topic can be segmented into 4 (four) various research units, with each unit needing its own respective research papers/material.
 This topic, two or more questions can be made that will need answering through research and data.
+
 1. How can data be acquired from a Samsung Smart TV?
 2. What type of data can be found from the Samsung Smart TV?
 
