@@ -3,7 +3,7 @@ layout: post
 title: "Crawling with Naver REST APIs"
 author: ugradDavid
 icon: star-o
-tags: [research, API, OSINT]
+tags: [research, API, osint]
 ---
 
 I am currently working on a Crawler using Naver's REST APIs using Python.
