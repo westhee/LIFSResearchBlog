@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Creating Personal Run Commands in Windows 10"
-author: ugraddavid
+author: ugradDavid
 icon: star-o
-tags: []
+tags: [windows, tips]
 ---
 
 ## Run Commands
@@ -15,7 +15,7 @@ In a Windows 10 environment, there are many ways to launch an application:
 
 From my experience, the first option could make your Desktop screen quite messy if you keep adding shortcuts there. Second option involves running "pretty" graphic, so there is a delay for Windows start menu popping up, typing in texts, returning search results, and returning start options. <b>*I personally hate this option.</b> As for the last option, I know You don't want to do this.
 
-This is why I prefer to use <b> "Run" function </b> for opening applications.
+This is why I prefer to use **"Run" function** for opening applications.
 
 I know that there are many people who are already utilizing this function to make their lives easier, and directions for using Run function and most-used Run Commands such as chrome, calc, etc. are well explained in this [link](https://www.isumsoft.com/windows-10/most-used-run-commands-for-windows-10-users.html).
 
