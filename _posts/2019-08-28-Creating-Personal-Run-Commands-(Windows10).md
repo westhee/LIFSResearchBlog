@@ -5,15 +5,12 @@ author: ugradDavid
 icon: star-o
 tags: [windows, tips]
 ---
-
-## Run Commands
-
 In a Windows 10 environment, there are many ways to launch an application:
 - Click shortcut files on Desktop
 - Click Windows button and type in the App's name and run
 - If you cannot find the executable file by the means above, Open File Explorer, go to Programs and Files, look for the target application, and run.
 
-From my experience, the first option could make your Desktop screen quite messy if you keep adding shortcuts there. Second option involves running "pretty" graphic, so there is a delay for Windows start menu popping up, typing in texts, returning search results, and returning start options. <b>*I personally hate this option.</b> As for the last option, I know You don't want to do this.
+From my experience, the first option could make your Desktop screen quite messy if you keep adding shortcuts there. Second option involves running "pretty" graphic, so there is a delay for Windows start menu popping up, typing in texts, returning search results, and returning start options. **I personally hate this option.** As for the last option, I know You don't want to do this.
 
 This is why I prefer to use **"Run" function** for opening applications.
 
