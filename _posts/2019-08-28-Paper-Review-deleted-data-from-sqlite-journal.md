@@ -1,12 +1,10 @@
-
-
----
+--
 layout: post
 title: "PAPER REVIEW :  A study on the possibility of recovering deleted data through analysis of sqlite journal in messenger application."
 icon: star-o
 author: 2018jiyoon
 tags: [forensic, research,sqlite]
----
+--
 
 
 
