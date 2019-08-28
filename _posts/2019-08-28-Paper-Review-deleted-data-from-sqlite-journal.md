@@ -81,7 +81,7 @@ Follow the step 1 and 2 in way to recover 'deleted' message in message app.
 If the secure delete is on, then have to focus on 3 whih is 'journaling'. 
 
 
-<img/news/55555.png"/>
+<img src="img/news/55555.png"/>
 
 Based on this paper, below table is summary of there works based on the procedure.
 
