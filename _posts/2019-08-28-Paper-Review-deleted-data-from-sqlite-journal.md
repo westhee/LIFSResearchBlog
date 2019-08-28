@@ -25,12 +25,12 @@ Forensic researchers are mainly focusing on whether the data exist and if so, ho
 way to recover 'deleted' message in message app.
 
 
-1)mainly read through .db .sqlite extention file.
+1 ) mainly read through .db .sqlite extention file.
 
 If there was not enough data exist, then go to the next step.
 
 
-2)analysis the unallocated space .
+2 ) analysis the unallocated space .
 
 if it is posssible then , recover deleted records.
 
@@ -44,7 +44,7 @@ In here, secure delete is not only delete the data but also delete the unallocat
 Since above privious way kind of stucked by 'secure delete', researchers started to look up journaling in DBMS(Data Base Management System).
 
 
-3) look up journaling in DBMS
+3 ) look up journaling in DBMS
 
 
 Journaling
@@ -52,15 +52,15 @@ Journaling
 'journaling' is a feature of each DBMS that maintains a journal or log of all updates to the database.
 journaling in SQLite can be devided into 2.
 
-<img src="img/news/1111111111.png"/>
+<img src="/img/news/1111111111.png"/>
 
 1) roll back journal mode 
 
-<img src="img/news/2222222.png"/>
+<img src="/img/news/2222222.png"/>
 
 2)WAL(Write-Ahead to Log)mode
 
-<img src="img/news/333333333.png"/>
+<img src="/img/news/333333333.png"/>
 
 So when there is every transaction happens, db save in journal to back up the memory. At least there is possibility to find some of the deleted data.  
 
@@ -73,7 +73,7 @@ used rooted phone, did reverse engineering
 
 Reverse Engeneering procedure
 
-<img src="img/news/4444444.png"/>
+<img src="/img/news/4444444.png"/>
 
 In this paper, they checked whether the secure deleted mode is on. 
 This is becasue , if the secure delete mode is not on, there is a possibility to find deleted data faster and easier. 
@@ -81,7 +81,7 @@ Follow the step 1 and 2 in way to recover 'deleted' message in message app.
 If the secure delete is on, then have to focus on 3 whih is 'journaling'. 
 
 
-<img src="img/news/55555.png"/>
+<img src="/img/news/55555.png"/>
 
 Based on this paper, below table is summary of there works based on the procedure.
 
