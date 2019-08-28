@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Google Home Mini Tear down"
+title: "Paper Review: A study on the possibility of recovering deleted data through analysis of sqlite journal in messenger application"
 icon: star -o
-tags: [forensics, IoT]
-author: 2018minjin
+tags: [forensics, Research]
+author: 2018jiyoon
 ---
 
 
