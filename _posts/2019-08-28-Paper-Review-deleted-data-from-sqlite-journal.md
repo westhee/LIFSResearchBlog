@@ -1,11 +1,10 @@
---
+---
 layout: post
-title: "PAPER REVIEW :  A study on the possibility of recovering deleted data through analysis of sqlite journal in messenger application."
-icon: star-o
-author: 2018jiyoon
-tags: [forensic, research,sqlite]
---
-
+title: "Google Home Mini Tear down"
+icon: star -o
+tags: [forensics, IoT]
+author: 2018minjin
+---
 
 
 How many messenger apps do you use? which one? how often do you delete the message in the message apps ? 
