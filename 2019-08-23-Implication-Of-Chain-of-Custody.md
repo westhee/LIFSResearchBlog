@@ -24,23 +24,23 @@ It is important to maintain the chain of custody to preserve the integrity of th
 
 ##Procedure to maintain a proper chain of custody of Digital Evidence 
 These procedures should include entries of:
-•	Location of digital evidence
-•	Time and date of digital evidence recovery
-•	Description of digital evidence
-•	Condition/ State of digital evidence
-•	Unique markings on digital evidence (product, model & configuration)
-•	Tagging & bagging of digital evidence
-•	Identity of the reporting officer
-•	Case identifier or submission number
-•	Case investigator
-•	Identity of the submitting officer
-•	Date of receipt
-•	Descriptive list of items submitted for examination, including serial number, make, and model
-•	Identity and signature of the examiner
-•	Brief description of steps taken during examination, such as string searches, graphics image searches, and recovering erased files
-•	Results/conclusions
-•	Receipt date, time & Identity of receiving officer
-•	Registration/ documentation of device with Custodian 
+* Location of digital evidence
+* Time and date of digital evidence recovery
+* Description of digital evidence
+* Condition/ State of digital evidence
+* Unique markings on digital evidence (product, model & configuration)
+* Tagging & bagging of digital evidence
+* Identity of the reporting officer
+* Case identifier or submission number
+* Case investigator
+* Identity of the submitting officer
+* Date of receipt
+* Descriptive list of items submitted for examination, including serial number, make, and model
+* Identity and signature of the examiner
+* Brief description of steps taken during examination, such as string searches, graphics image searches, and recovering erased files
+* Results/conclusions
+* Receipt date, time & Identity of receiving officer
+* Registration/ documentation of device with Custodian 
 
 ##Several factors can break the chain of custody including:
 •	Investigators waiting too long to collect evidence
