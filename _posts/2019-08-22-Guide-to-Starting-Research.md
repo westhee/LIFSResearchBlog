@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guide to Starting Research work with LIFS"
+title: "Guide to starting research work with LIFS"
 icon: star-o
 author: 2018terrence
 tags: [research, LIFS, library]
