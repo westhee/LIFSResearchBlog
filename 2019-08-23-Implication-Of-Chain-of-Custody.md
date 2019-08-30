@@ -3,7 +3,7 @@ layout: post
 title: "The Implication of Chain of Custody to Digital Forensics Practitioners"
 icon: star-o
 author: 2018alex
-tags: [student life]
+tags: [forensics, chain of custody, law]
 ---
 
 The Implication of Chain of Custody to a Digital Forensics Practitioner
@@ -43,11 +43,11 @@ These procedures should include entries of:
 * Registration/ documentation of device with Custodian 
 
 ##Several factors can break the chain of custody including:
-•	Investigators waiting too long to collect evidence
-•	Improper storage of digital evidence
-•	Mislabelled digital evidence
-•	Alteration of digital evidence
-•	Unauthorized person accesses evidence
+*	Investigators waiting too long to collect evidence
+*	Improper storage of digital evidence
+*	Mislabelled digital evidence
+*	Alteration of digital evidence
+*	Unauthorized person accesses evidence
 
 ##What happens when the chain of custody is broken? 
 The court will dismiss the evidence and if this is the material evidence on which the case is hinged, the defendant can be discharged, or an earlier conviction or Judgement can be appealed and reversed. Below are excerpts of a lost case due to broken chain of custody.
