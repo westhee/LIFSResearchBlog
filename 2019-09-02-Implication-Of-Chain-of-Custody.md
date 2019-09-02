@@ -5,9 +5,6 @@ icon: star-o
 author: 2018alex
 tags: [forensics, chain of custody, law]
 ---
-
-The Implication of Chain of Custody to a Digital Forensics Practitioner
-
 The entire job of a digital forensic examiner is to get to the truth that the digital device under his analysis will reveal. This expertise is what the courts rely on to make conclusion on a case. The weight placed on such evidence how ever good the job done is, can be thrown away if the defence can prove a broken chain of custody. Therefore, it is imperative for a digital forensic practitioner to pay attention to how chain of custody can impact on his job.
 
 ##What is Chain of Custody?
