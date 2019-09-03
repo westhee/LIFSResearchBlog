@@ -49,9 +49,9 @@ These procedures should include entries of:
 ## What happens when the chain of custody is broken? 
 The court will dismiss the evidence and if this is the material evidence on which the case is hinged, the defendant can be discharged, or an earlier conviction or Judgement can be appealed and reversed. Below are excerpts of a lost case due to broken chain of custody.
 
-![coc_law.png](/img/news/coc_law.png)
-![ruling_coc_case.png](/img/news/ruling_coc_case.png)
-![SouthCarolina.png](/img/news/SouthCarolina.png)
+![coc_law.png](img/news/coc_law.png)
+![ruling_coc_case.png](img/news/ruling_coc_case.png)
+![SouthCarolina.png](img/news/SouthCarolina.png)
  
  
  
