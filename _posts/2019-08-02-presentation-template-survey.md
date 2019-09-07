@@ -2,6 +2,8 @@
 layout: post
 title: "LIFS Presentation Template Survey"
 icon: star-o
+author: "profJames"
+tags: [survey]
 ---
 
 We are running a LIFS presentation template design competition! If your presentation is chosen

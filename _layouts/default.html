@@ -4,11 +4,13 @@
         <title>{{ site.name }}: {{ page.title }}</title>
         <!-- OG info -->
         <meta property="og:site_name" content="LIFS@Hallym"/>
-        <meta property="og:image" content="img/LIFSReGroupLogo.png">
+        <meta property="og:image" content="https://lifs.hallym.ac.kr/img/LIFSReGroupLogo.png">
         <meta property="og:type" content="blog"/>
         <meta property="og:title" content="{{ page.title }}"/>
+        <meta property="og:description" content="The homepage for the Legal Informatics and Forensic Science Institute at Hallym University."/>
+        <meta property="og:url" content="https://lifs.hallym.ac.kr{{ page.url }}">
         <!-- Site metadata -->
-        <meda description="The homepage for the Legal Informatics and Forensic Science Institute at Hallym University. We list information about projects, research and students in the laboratory.">
+        <meta description="The homepage for the Legal Informatics and Forensic Science Institute at Hallym University; projects, research and students in the laboratory.">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -87,8 +89,7 @@
             {{ content }}
 
             <div class="footer">
-                <p stlye="padding: 10px;">
-                    <a href="https://github.com/LIFSHallym"><span class='fab fa-github fa-lg'></span></a> | 
+                <p> 
                     <a href="http://lifs.hallym.ac.kr">Legal Informatics and Forensic Science Institute</a>
                     at
                     <a href="https://www.hallym.ac.kr">Hallym University</a>

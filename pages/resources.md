@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resources
+permalink: /resources
 ---
 <span style="text-align: center;">[Links](#links) | [Books](#books) | [Directions](#maps) | [Logos](#logos)</span>
 

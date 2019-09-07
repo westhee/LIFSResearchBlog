@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "August 2019 Grad Student Notice"
-icon: star-o
+icon: calendar-alt
+tags: [events]
 ---
 
 August notice from the [Graduate School](https://grad.hallym.ac.kr/user/indexSub.do?framePath=unknownboard&siteId=grad&dum=dum&boardId=765&page=1&command=view&boardSeq=131758&categoryId=&categoryDepth=) for
 grad students!
 
-<img src="/img/news/2019AugCalendar.jpg">
+![August 2019 Graduate Calendar](/img/news/2019AugCalendar.jpg)
 
 * 8.07(Wed)~10(Fri) Tuition Payment (Newly Admitted Students)
 * 8.15(Thur) National Holiday: Liberation Day(광복절)

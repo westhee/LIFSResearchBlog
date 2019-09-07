@@ -2,12 +2,14 @@
 layout: post
 title: "How to update the LIFS Research Blog"
 icon: star-o
+author: profJames
+tags: [how to]
 ---
 
 Below is a video taking you step-by-step through how to update the LIFS Research Blog on Github.
 The process seems complicated, but once you get used to it, it is very easy. The basic steps are:
 
-1. Fork the research blog repository into your own account
+1. Fork the research blog repository into your account
 2. Clone the forked repository into your local computer
 3. Switch to the *gh-pages* branch (git checkout gh-pages)
 4. Move to the _posts directory
