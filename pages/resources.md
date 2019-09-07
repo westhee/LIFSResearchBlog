@@ -7,7 +7,7 @@ permalink: /resources
 
 ## Important Schedule
 <span class="schedule"></span>
-* [Digital Forensics and IT-related Exam Schedule](/_posts/2019-07-26-test-info.md)
+* [Digital Forensics and IT-related Exam Schedule]({% post_url 2019-07-26-test-info.md %})
 
 
 ## Related Links
