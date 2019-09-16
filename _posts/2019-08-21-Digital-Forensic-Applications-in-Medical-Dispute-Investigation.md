@@ -5,11 +5,11 @@ icon: star-o
 author: HyeminAngela
 tags: [Medical Dispute, Digital Foensic application]
 ---
- ###Summary
+ ### Summary
  
 In medical malpractice, medical records are only evidence for proving evidence. If it can be confirm that the electronic medical records are manipulated by digital forensic application, medical dispute investigation can be concluded rapidly. So, to apply digital forensic system in the investigation, we need to build institutional plan.
  
-###Problem
+### Problem
  
 In medicoegal problem, the only evidence for the patient is the medical record that doctor has prepared and kept. Medical dispute judgement depends on hospital records, so fake records or added and edited records cannot prove mistake of doctors. Especially after 2002 when the electronic medical records became mandatory, it is easy to edit and delete the medical data more easily.
  
@@ -17,7 +17,7 @@ First you have to differentiate a false entry (허위 기재)and a bad entry (�
  
 If false evidence is proven, the damage caused by medical accidents can be quickly and fairly recovered. Now digital forensic is required to prove the electronic medical record is fabricated.
  
-###Procedure
+### Procedure
  
 Electronic Medical Record Procedure is what the doctor wrote and signed on about medical practice. All papers such as medical records, nursing records, doctor's instructions, examination records, and video testing should be completed only by doctors.
 It is recommended that the timing of the record immediately after the care. In some cases, if the writing is delayed, it can lead to suspicions such as false entries. However, in the event of an emergency, the timing of the entry may be delayed considering situations.
@@ -39,5 +39,5 @@ In order to prove false entries by digital forensics procedures, original electr
 
 There may be controversy over what is the original data, and there needs to be clear legislation about it.
 
-###Reference
+### Reference
 권양섭 (2014.10) 의료분쟁 조사과정에서 디지털 포렌식 활용방안(Digital Forensic Applications in Medical Dispute Investigation)
