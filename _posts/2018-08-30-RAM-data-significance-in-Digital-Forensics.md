@@ -21,27 +21,27 @@ Using RAM investigators can figure out information that is more restricted in tr
 
 ### Information and Data that can be found in the RAM
 *	Active processes
--	Processes which were stopped can also be found in RAM would remain in RAM.
+ 	Processes which were stopped can also be found in RAM would remain in RAM.
 *	Open files and “registry handles”
 *	General files
--	All files opened, read, modified
--	Copied and paste feature
--	clipboard
+	  All files opened, read, modified
+	  Copied and paste feature
+	  clipboard
 *	Information on network traffic
--	Open ports
--	Open connections or planted processes
+	  Open ports
+	  Open connections or planted processes
 *	Internet data
--	Very common
--	Downloaded data (Gmail, Yahoo emails, Skype conversation)
--	But no data after shut the computer down
+	  Very common
+	  Downloaded data (Gmail, Yahoo emails, Skype conversation)
+	  But no data after shut the computer down
 *	Passwords and cryptographic keys
--	They have to be stored in RAM and remain stored there until overwritten or the computer is shut down
+   They have to be stored in RAM and remain stored there until overwritten or the computer is shut down
 *	Decrypted content (hidden processes and data)
--	If users decrypt the file, that unencrypted files will remain in RAM
+	  If users decrypt the file, that unencrypted files will remain in RAM
 *	Other data that can be found in RAM (malware, temporary data, portable apps)
--	Which users logged in and what time and what did users do.
--	Retrieve a screenshot of the desktop and all opened windows
--	RAM information in virtualized environment
+	  Which users logged in and what time and what did users do.
+ 	 Retrieve a screenshot of the desktop and all opened windows
+   RAM information in virtualized environment
 
 ### Reference
 K. Hausknecht, D. Foit, J. Buric, “RAM data significance in Digital Forensics”, 2015
