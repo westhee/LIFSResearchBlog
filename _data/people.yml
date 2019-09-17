@@ -69,6 +69,13 @@ profJames:
     role: grad
     bio: "IoT Digital Forensic Investigation"
 
+2019luckson: 
+    display_name: "Luckson Zvirikuzhe"
+    role: grad
+    bio: "IoT Digital Forensic Investigation"
+    image: /img/people/Luckson.jpg
+    linkedin: 
+
 2019yoonjun:
     display_name: "이윤정 (Yoonjung Lee)"
     role: alum
