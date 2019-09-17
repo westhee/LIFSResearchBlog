@@ -42,12 +42,12 @@ bad structures to cooperate across borders.
 
 In conclusion, Zimbabwe’s government should improve on distributed security strategy by involving scattered security networks to consolidate more on transparency and accountability. More-so there should be a general global consensus that accesses to the cyberspace should now have some form of passport or license which I know the private and public sector might qualm over but for the defence and intelligence community it’s a notion to interrogate taking a lesson from the 9\11 attacks which represented a failure in Internet surveillance.
 
-> LIFS study question: The author is arguing for licensing to access the Internet, and it's resources.
-> What do you think? Consider the following questions:
-> How would licensing work?
-> What would the requirements for licensing be?
-> Who would be in charge of licensing?
-> Are there any downsides to licensing?
+#### LIFS study question
+The author is arguing for licensing to access the Internet, and it's resources. What do you think? Consider the following questions:
+* How would licensing work?
+* What would the requirements for licensing be?
+* Who would be in charge of licensing?
+* Are there any downsides to licensing?
 
 ### REFERENCES 
 * qz.com/africa/768868 
