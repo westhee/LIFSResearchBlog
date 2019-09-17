@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cyberspace and the threat to national security - A Zimbabwean Perspective"
-author: "2019Luckson"
+author: "2019luckson"
 icon: star-o
 tags: [National Security, Cyberspace, Zimbabwe, Policy]
 ---
