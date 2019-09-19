@@ -4,10 +4,12 @@ icon: star-o
 title:  "Introduction to Expert Systems"
 author: 2019sungmi
 tags: [expert system, forensics, procedure, CLIPS]
-excerpt_separator: "\n"
+excerpt_separator: <!--more-->
 ---
 
-As one category of intelligent system, the Expert System, uses pre-collected knowledge to imitate the decision making process of an expert. The necessity for Expert System in various fields stems from the surplus of data we find ourselves in, in this era. Using Expert Systems on manually tiring, repeated work can save public and private organizations time and human resources.
+As one category of intelligent system, the Expert System, uses pre-collected knowledge to imitate the decision making process of an expert. The necessity for Expert System in various fields stems from the surplus of data we find ourselves with, in this era. Using Expert Systems on manually tiring, repeated work can save public and private organizations time and human resources. This is equally as true for digital investigations.
+
+<!--more-->
 
 An Expert System can look similar to a decision-support-system(DSS), however, while a DSS is a supporting tool for the _human_ users to make a decision, an Expert System's ultimate goal is to make the decisons by itself. Using the knowledge (mostly in form of _If, Then_ rules), the system goes through the list of facts it has acquired and gives the user a logically sound answer. 
 
