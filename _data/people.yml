@@ -66,6 +66,13 @@ profJames:
     image: /img/people/Alex.jpg
     linkedin: https://www.linkedin.com/in/alex-ogbole-8b0b6571
 
+2019tony:
+    display_name: "Onche Anthony Inalegwu"
+    role: grad
+    bio: "IoT Digital Forensic Investigation"
+    image: /img/people/Tony.jpg
+    linkedin: https://linkedin.com/in/tonyjokeapart
+
 2019jian:
     display_name: "홍지안 (Jian Hong)"
     role: grad
