@@ -59,7 +59,11 @@ The order of the fact in this case, doesn't matter.
 
 2. Knowledge - RULES
 
-Knowledge of experts is represented as defrule constructs in CLIPS. It typically looks like a standard _If...Then_ statement. The difference with the IF-THEN statement in a procedural language and CLIPS is that, with a procedural language the program-flow will be at the statement, while in CLIPS, the built-in inference engine keeps track of the condition satisfied rules so the order does not really matter. It is also understood as the _Whenver...Then_ statement.
+Knowledge of experts is represented as defrule constructs in CLIPS. 
+
+It typically looks like a standard _If...Then_ statement. The difference with the IF-THEN statement in a procedural language and CLIPS is that, with a procedural language the program-flow will be at the statement, while in CLIPS, the built-in inference engine keeps track of the condition satisfied rules so the order does not really matter. 
+
+It is also understood as the _Whenver...Then_ statement.
 
 A rule in CLIPS looks like this:
 
@@ -80,7 +84,7 @@ The inference engine in CLIPS is a mechanism that a) matches rules to the curren
 
 For example, if I had the following fact list:
 
-_(this icode to build a family tree! Just running this will not work properly!)_
+_(this is a part of a program to build a family tree! Just running this will not work properly!)_
 
 ```
 (child-of Lisa Homer)
