@@ -56,6 +56,8 @@ profJames:
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Terrence.png
     linkedin: https://www.linkedin.com/in/terrence-nemayire-3b944b18b
+    twitter: "https://twitter.com/terrynema"
+    github: "https://github.com/terrynema04"
 
 2018alex:
     display_name: "Alex Ocheme Ogbole"
@@ -68,6 +70,20 @@ profJames:
     display_name: "홍지안 (Jian Hong)"
     role: grad
     bio: "IoT Digital Forensic Investigation"
+
+2019luckson: 
+    display_name: "Luckson Zvirikuzhe"
+    role: grad
+    bio: "IoT Digital Forensic Investigation"
+    image: /img/people/Luckson.jpg
+    linkedin: 
+
+2019tony:
+    display_name: "Onche Anthony Inalegwu"
+    role: grad
+    bio: "IoT Digital Forensic Investigation"
+    image: /img/people/Tony.jpg
+    linkedin: https://linkedin.com/in/tonyjokeapart
 
 2019yoonjun:
     display_name: "이윤정 (Yoonjung Lee)"

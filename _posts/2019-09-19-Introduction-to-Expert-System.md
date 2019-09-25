@@ -3,17 +3,20 @@ layout: post
 icon: star-o
 title:  "Introduction to Expert Systems"
 author: 2019sungmi
-tags: [expertsystems, forensics, DFprocedure, CLIPS]
+tags: [expert system, forensics, procedure, CLIPS]
+excerpt_separator: <!--more-->
 ---
 
-### What is an Expert System?
-As one category of intelligent system, the Expert System uses pre-collected knowledge to imitate the decision making process of an expert. The necessity for Expert System in various fields stems from the surplus of data we find ourselves in, in this era. Using Expert Systems on manually tiring, repeated work can save public and private organizations time and human resources.  
+As one category of intelligent system, the Expert System, uses pre-collected knowledge to imitate the decision making process of an expert. The necessity for Expert System in various fields stems from the surplus of data we find ourselves with, in this era. Using Expert Systems on manually tiring, repeated work can save public and private organizations time and human resources. This is equally as true for digital investigations.
+
+<!--more-->
+
 An Expert System can look similar to a decision-support-system(DSS), however, while a DSS is a supporting tool for the _human_ users to make a decision, an Expert System's ultimate goal is to make the decisons by itself. Using the knowledge (mostly in form of _If, Then_ rules), the system goes through the list of facts it has acquired and gives the user a logically sound answer. 
 
 ### An Expert System for Digital Forensics
 In our project [LIFS@DFIExpertSystem](https://lifs.hallym.ac.kr/projects/2018-ExpertSysteminDF.html), we are attempting to bring automation in some specific digital forensic cases. The goal of this project is to support investigators by giving back a solution (or hypothesis) that has been logically inferred. Below is the framework of our expert system:
 
-![expert_system_structure](/img/exsys_structure.png)
+![expert_system_structure](/img/blog/exsys_structure.png)
 
 In this framework, the process starts with a question by the user. 
 
