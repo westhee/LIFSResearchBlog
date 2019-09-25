@@ -22,38 +22,38 @@ In CLIPS, working memory is represented as a fact or fact-list. A fact is unders
 
 An example of ordered fact:
 
-'''
+```
 (child-of Lisa Homer)
-'''
+```
 
 meaning that Lisa is Homer's child (_Lisa is child-of Homer_). Note that if you change this fact to (child-of Homer Lisa), it has an entirely different meaning (_Lisa is Homer's mother...?_). 
 
 An example of non-ordered fact can be made using the deftemplate construct.
 
-'''
+```
 (deftemplate person 
 (slot name)
 (slot car)
 )
-'''
+```
 
 In this case we made a construct called _person_, which takes name and car values. So if I want to write information about a person called _Batman_ who drives a car called _Batmobile_, in CLIPS it would look like this:
 
-'''
+```
 (person 
 (name Batman)
 (car Batmobile)
 )
-'''
+```
 
 or,
 
-'''
+```
 (person
 (car Batmobile)
 (name Batman)
 )
-'''
+```
 
 The order of the fact in this case, doesn't matter. 
 
@@ -63,14 +63,14 @@ Knowledge of experts is represented as defrule constructs in CLIPS. It typically
 
 A rule in CLIPS looks like this:
 
-'''
+```
 (defrule daughter
 (child-of Lisa Homer) ;IF-1:Lisa is child-of Homer
 (female Lisa) ;IF-2:Lisa is female
 => ;THEN
 (assert (daugher-of Lisa Homer)) ;assert fact Lisa is daughter-of Homer
 )
-'''
+```
 
 The IF-side is also called the Left-Hand-Side(LHS) while the THEN-part is called Right-Hand-Side(RHS).
 
@@ -82,31 +82,31 @@ For example, if I had the following fact list:
 
 _(this icode to build a family tree! Just running this will not work properly!)_
 
-'''
+```
 (child-of Lisa Homer)
 (child-of Bart Homer)
-'''
+```
 and a rule that tells me when two people are siblings:
 
-'''
+```
 (defrule sibling
 (child-of ?p1 ?parent)
 (child-of ?p2&~?p1 ?parent) ;p2 is not the same person as p1
 =>
 (assert (sibling ?p1 ?p2)) ;assert fact p1 and p2 are siblings
 ) 
-'''
+```
 
 When CLIPS matches the rule with the current fact-list, it would look like this;
 
-'''
+```
 (defrule sibling
 (child-of Lisa Homer)
 (child-of Bart Homer) ;parent name is the same as fact above
 =>
 (assert (sibling Lisa Bart)) ;Lisa and Bart are siblings
 ) 
-'''
+```
 
 So, although we started with 2 simple facts:Lisa's parent is Homer and Bart's parent is Homer, using the knowledge: IF people have the same parent, THEN they are siblings, we were able to infer that: Lisa and Bart are siblings.
 
