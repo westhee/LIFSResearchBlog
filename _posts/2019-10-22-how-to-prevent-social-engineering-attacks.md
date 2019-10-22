@@ -82,11 +82,11 @@ Social engineering attacks are closely tied to a general lack of cyber security 
 
 <img src="/img/news/phising_attacks.png">
 
-One solution acclaimed I am yet to try out is real-time anti-phishing technology. 
-**How does this work?** 
+One acclaimed solution I am yet to try out is real-time anti-phishing technology. <br>
+**How does this work?** <br>
 It uses advanced machine learning and real-time URL validation to spot zero-hour phishing sites in milliseconds, instead of relying on static, outdated lists. 
 
-It helps in phishing prevention by keeping your employees away from phishing sites even if they click on malicious links in emails they are outrightly unable to visit this sites.
+It helps in phishing prevention by keeping your employees away from phishing sites even if they click on malicious links in emails they are outrightly unable to visit this sites. [See phishprotection.com](https://www.phishprotection.com)
 
 Another solution is to carry out deliberate attacks on employees to test their security awareness strength and proffer further trainings where they fail.
 
