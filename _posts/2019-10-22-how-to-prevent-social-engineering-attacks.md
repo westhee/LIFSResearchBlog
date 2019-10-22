@@ -2,16 +2,21 @@
 layout: post
 title: "How to Mitigate Social Engineering attacks: A general cyber security culture"
 icon: star-o
-author: tony
+author: Onche Anthony
 tags: [how to]
 ---
 — All it takes is clicking on a suspicious link to cost yourself or your company tens of thousands of dollars.
 
 ### WHAT IS SOCIAL ENGINEERING?
 
-Social engineering attacks usually exploit human psychology and susceptibility to manipulation to trick victims into uncovering sensitive information or breach security protocols that will allow an attacker access to the network.
+Social engineering is the exploit of human psychology and susceptibility to manipulation to trick victims into uncovering sensitive information or breach security protocols that allow an attacker access to a network.<br/>
 
-##### EXAMPLES OF SOCIAL ENGINEERING ATTACKS
+<img src="/img/news/most_phished_sites.png">
+
+
+Image-Source: [Webroot](https://www-cdn.webroot.com/4215/0956/5734/QTT_0917_Phishing_is_the_New_Black_Infographic_F.pdf)
+
+#### EXAMPLES OF SOCIAL ENGINEERING ATTACKS
 A technical social engineering attack involves an attacker visiting an organization’s  website and retrieves specific emails mostly created with employees full names and searching social media accounts that matches those. Then checks their profiles if they had listed the target organization as a work place and sends a friend request to builds up an unsuspecting serious relationship in exchange for information sensitive enough to have access to the organization’s computer/network. 
 
 
@@ -64,23 +69,26 @@ Social engineering attacks are quite simple with serious consequences on the org
 
 3. Prioritize your infrastructure: all your networks should to be protected from data theft and loss but infrastructure dedicated to financial transactions and other key information deserve extra security.
 
-4. Keep private information private: open source intelligence is often used to guess probable security question and passwords. Do not discuss private business in public. An example of this is when Mcfee accused Binance to have been supposedly hacked, they publicly shared the exchange Bitcoin storage address with thousand of BTC in it to prove it wasn’t hacked. This information as little as it is will lead trace of unmasking illegal crypto spenders back to the exchange as seen [here] https://www.bellingcat.com/resources/how-tos/2019/03/26/how-to-track-illegal-funding-campaigns-via-cryptocurrency/
+4. Keep private information private: open source intelligence is often used to guess probable security question and passwords. Do not discuss private business in public. An example of this is when Mcfee accused Binance to have been supposedly hacked, they publicly shared the exchange Bitcoin storage address with thousand of BTC in it to prove it wasn’t hacked. This information as little as it is will lead trace of unmasking illegal crypto spenders back to the exchange as seen [here](https://www.bellingcat.com/resources/how-tos/2019/03/26/how-to-track-illegal-funding-campaigns-via-cryptocurrency/)
 
 5. Carry out pen test: employ external qualified specialists to conduct social engineering attacks to double check your employees, policies, and physical security infrastructure.
 
 
 ### CONCLUSION
 
-[According to Webroot]https://www.webroot.com/us/en/business/threat-intelligence/internet/real-time-anti-phishing phishing is the number one cause of breaches for organizations around the world. A recent Webroot sponsored survey of influencers found that 63% have experienced a phishing attack in the last 2 years, 35% expect to suffer more phishing attacks in the next 2 years, 43% plan to invest in new threat technology as a result .
-
-One way claimed to prevent this is  with real-time anti-phishing technology that uses advanced machine learning and real-time URL validation to spot zero-hour phishing sites in milliseconds, instead of relying on static, outdated lists. 
-How does this work? The best way to get phishing prevention is to keep your employees away from phishing sites even if they click on malicious links in emails. They are outrightly unable to visit this sites.
-[https://www.phishprotection.com]
-
- 
 Social engineering attacks are closely tied to a general lack of cyber security culture. The solution would require a bespoke cyber security education for your organization’s topmost leadership to the least employee.
 
-Carry out deliberate attacks on employees to test their security  awareness strength and proffer further trainings where they fail.
+[According to Webroot](https://www.webroot.com/us/en/business/threat-intelligence/internet/real-time-anti-phishing) phishing is the number one cause of breaches for organizations around the world. A recent Webroot sponsored survey of influencers found that 63% have experienced a phishing attack in the last 2 years, 35% expect to suffer more phishing attacks in the next 2 years, 43% plan to invest in new threat technology as a result .
+
+<img src="/img/news/phising_attacks.png">
+
+One solution acclaimed I am yet to try out is real-time anti-phishing technology. 
+**How does this work?** 
+It uses advanced machine learning and real-time URL validation to spot zero-hour phishing sites in milliseconds, instead of relying on static, outdated lists. 
+
+It helps in phishing prevention by keeping your employees away from phishing sites even if they click on malicious links in emails they are outrightly unable to visit this sites.
+
+Another solution is to carry out deliberate attacks on employees to test their security awareness strength and proffer further trainings where they fail.
 
 Having spent millions on highly-complex infrastructure – if you don’t also train your employees, you’ll might be a victim of loss.
-Because human error will always be the greatest security risk to your organization’s  data A phishing email, an infected USB drive, a malicious download, a scam phone call…are only a few tactics most often used to break in and compromise data and someone inside always opens the door for these attacks.
+Because human error will always be the greatest security risk to your organization’s  data, phishing emails, an infected USB drive, a malicious download, a scam phone call etc. are only a few tactics most often used to break in and compromise data and someone inside always opens the door for these attacks.
