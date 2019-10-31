@@ -9,7 +9,7 @@ tags: [research, API, osint, naver]
 When crawling webpages, it is prevalent to want to find links on the web page to use as the next candidate for crawling. Below is a python script for extracting URLs from the links returned as search results for the crawler using Naver REST APIs. 
 
 
-'''
+```
 import urllib.request
 from bs4 import BeautifulSoup
 
@@ -19,4 +19,4 @@ soup = BeautifulSoup(r,'html.parser')
 
 for a in soup.find_all('a', href=True):
     print(a['href'])
-'''
+```
