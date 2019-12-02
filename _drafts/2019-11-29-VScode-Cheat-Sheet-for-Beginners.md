@@ -126,8 +126,11 @@ Simply add this to your settings.json file and you will be good to go! (If you a
 ### Python
 
 - indent-rainbow
+
   ![indent rainbow](/img/blog/vscode/vscode_ext_indet.png)
+  
 - Python Preview
+
   ![python preview](/img/blog/vscode/vscode_ext_pyprev.png)
 
 ### Markdown
