@@ -22,7 +22,7 @@ In CLIPS, working memory is represented as a fact or fact-list. A fact is unders
 
 An example of ordered fact:
 
-```
+```CLIPS
 (child-of Lisa Homer)
 ```
 
@@ -30,7 +30,7 @@ meaning that Lisa is Homer's child (_Lisa is child-of Homer_). Note that if you 
 
 An example of non-ordered fact can be made using the deftemplate construct.
 
-```
+```CLIPS
 (deftemplate person 
 (slot name)
 (slot car)
@@ -39,7 +39,7 @@ An example of non-ordered fact can be made using the deftemplate construct.
 
 In this case we made a construct called _person_, which takes name and car values. So if I want to write information about a person called _Batman_ who drives a car called _Batmobile_, in CLIPS it would look like this:
 
-```
+```CLIPS
 (person 
 (name Batman)
 (car Batmobile)
@@ -48,7 +48,7 @@ In this case we made a construct called _person_, which takes name and car value
 
 or,
 
-```
+```CLIPS
 (person
 (car Batmobile)
 (name Batman)
@@ -67,7 +67,7 @@ It is also understood as the _Whenver...Then_ statement.
 
 A rule in CLIPS looks like this:
 
-```
+```CLIPS
 (defrule daughter
 (child-of Lisa Homer) ;IF-1:Lisa is child-of Homer
 (female Lisa) ;IF-2:Lisa is female
@@ -86,13 +86,13 @@ For example, if I had the following fact list:
 
 _(this is a part of a program to build a family tree! Just running this will not work properly!)_
 
-```
+```CLIPS
 (child-of Lisa Homer)
 (child-of Bart Homer)
 ```
 and a rule that tells me when two people are siblings:
 
-```
+```CLIPS
 (defrule sibling
 (child-of ?p1 ?parent)
 (child-of ?p2&~?p1 ?parent) ;p2 is not the same person as p1
@@ -103,7 +103,7 @@ and a rule that tells me when two people are siblings:
 
 When CLIPS matches the rule with the current fact-list, it would look like this;
 
-```
+```CLIPS
 (defrule sibling
 (child-of Lisa Homer)
 (child-of Bart Homer) ;parent name is the same as fact above
@@ -117,9 +117,6 @@ So, although we started with 2 simple facts:Lisa's parent is Homer and Bart's pa
 This was a brief introduction to the concept of Expert System with CLIPS. If you want to know more about CLIPS, visit the developers site [here](http://www.clipsrules.net). 
 
 
-_Reference_
+### Reference
 
 - Riley, G. CLIPS Reference Manual - Volume I Basic Programming Guide (version 6.24). 2006 June. Available at : http://www.clipsrules.net
-
-
-

@@ -86,7 +86,7 @@ My custom setting looks like this:
             "icon": "issue-opened",
             "type": "line"
         },
-        "HELPME": {
+        "FIXME": {
             "foreground": "#2f3542",
             "background": "#e55039",
             "iconColour": "#e55039",
@@ -110,7 +110,7 @@ My custom setting looks like this:
     },
     "todo-tree.general.tags": [
         "TODO",
-        "HELPME",
+        "FIXME",
         "REVIEW",
         "NOTE"
     ]
@@ -133,13 +133,17 @@ Simply add this to your settings.json file and you will be good to go! (If you a
 ### Markdown
 
 - Markdown Preview Github Styling
+  
   ![md preview github style](../img/blog/vscode/vscode_ext_md-git.png)
 - Markdown Shortcut
+  
   ![md shortcut ](../img/blog/vscode/vscode_ext_mdshort.png)
 
 ### Javascript
 
 - Turbo Console Log
+  
   ![turbo console log](../img/blog/vscode/vscode_ext_jsturbo.png)
 - Prettier
+  
   ![prettier](../img/blog/vscode/vscode_ext_prettier.png)
