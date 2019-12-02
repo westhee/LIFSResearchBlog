@@ -5,8 +5,8 @@ author: 2018jiyoon
 icon: star-o
 tags: [research, conference, review]
 ---
-
-Recently MinJin and I went to conference : 5th Secuirty World. 
+i
+Recently MinJin and I went to conference : 5th Security World. 
 The conference mainly focused on Zero Trust, AI, Cloud. 
 
 Conference was mainly talking about the how corperates and the national government agency should react to the hyper connected society. 
