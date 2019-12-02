@@ -21,7 +21,7 @@ Stream data of error messages (e.g. "Permission denied") or diagnostics. The fil
 
 The entire process would look like this:
 
-![std_flow](../img/blog/std_flow.jpg)
+![std_flow](/img/blog/std_flow.jpg)
 
 There are two data stream outputs in this process, stdout (the round things that are piped to the monitor) and stderr(the long, long list of errors and warnings). Sometimes you want both output, sometimes you want to save only one of them. Sometimes you want to see the output on the terminal, sometimes you want it to be silent. So how do we do that?
 
@@ -29,7 +29,7 @@ By using commands such as ">" or "tee" we can easily redirect the result of our 
 
 A well summarized table of the possible commands and their output format can be found below.
 
-![std_table](../img/blog/std_table.png)
+![std_table](/img/blog/std_table.png)
 
 _This is a recreated version of the answer in this post [here](https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file) by the user ByteCommander._
 

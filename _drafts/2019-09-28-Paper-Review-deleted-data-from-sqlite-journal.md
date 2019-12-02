@@ -38,16 +38,16 @@ Since above privious way kind of stucked by 'secure delete', researchers started
 'journaling' is a feature of each DBMS that maintains a journal or log of all updates to the database.
 journaling in SQLite can be devided into 2.
 
-![journaling table](../img/news/1111111111.png)
+![journaling table](/img/news/1111111111.png)
 
 
 1. roll back journal mode 
 
-![rollback journal mode](../img/news/2222222.png)
+![rollback journal mode](/img/news/2222222.png)
 
 2. WAL(Write-Ahead to Log)mode
 
-![WAL mode](../img/news/333333333.png)
+![WAL mode](/img/news/333333333.png)
 
 So when there is every transaction happens, db save in journal to back up the memory. At least there is possibility to find some of the deleted data.  
 
@@ -57,14 +57,14 @@ used rooted phone, did reverse engineering
 
 Reverse Engeneering procedure
 
-![Reverse engineering procedure](../img/news/4444444.png)
+![Reverse engineering procedure](/img/news/4444444.png)
 
 In this paper, they checked whether the secure deleted mode is on. 
 This is becasue , if the secure delete mode is not on, there is a possibility to find deleted data faster and easier. 
 Follow the step 1 and 2 in way to recover 'deleted' message in message app. 
 If the secure delete is on, then have to focus on 3 which is 'journaling'. 
 
-![message app table](../img/news/55555.png)
+![message app table](/img/news/55555.png)
 
 Based on this paper, below table is summary of there works based on the procedure.
 

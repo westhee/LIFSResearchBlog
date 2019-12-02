@@ -12,14 +12,14 @@ I recently got some time to organize my VScode extensions and wanted to share my
 
 ### 1. **Toggle command _( Ctrl + / )_**
 
-![toggle command](../img/blog/vscode/vscode_short_comment.png)
+![toggle command](/img/blog/vscode/vscode_short_comment.png)
 
 - THE MOST IMPORTANT SHORTCUT OF ALL
 - You can easily toggle comment codeblocks!
 
 ### 2. **Same word selector _( Ctrl + D )_**
 
-![same word select](../img/blog/vscode/vscode_short_same.png)
+![same word select](/img/blog/vscode/vscode_short_same.png)
 
 - Select the word and press ctrl+D.
 - For multiple words, use ctrl+D multiple times.
@@ -27,14 +27,14 @@ I recently got some time to organize my VScode extensions and wanted to share my
 
 ### 3. **Insert multi cursor _( Alt + Click )_**
 
-![multi cursor](../img/blog/vscode/vscode_short_mulitcursor.png)
+![multi cursor](/img/blog/vscode/vscode_short_mulitcursor.png)
 
 - Insert cursor and edit multiple lines at the same time
 
 ### 4. **Move code line up and down _( Alt + Arrowkey )_**
 
-![move code up1](../img/blog/vscode/vscode_short_move1.png)
-![move code up2](../img/blog/vscode/vscode_short_move2.png)
+![move code up1](/img/blog/vscode/vscode_short_move1.png)
+![move code up2](/img/blog/vscode/vscode_short_move2.png)
 
 - No more copy paste when you have to move your code line!
 
@@ -48,14 +48,14 @@ All extensions can be found and downloaded from the Vscode extension tab.
 
 ### Material Theme
 
-![material theme](../img/blog/vscode/vscode_ext_materialtheme.png)
+![material theme](/img/blog/vscode/vscode_ext_materialtheme.png)
 
 Set a theme for your vscode.
 Better looking environment, better workflow!
 
 ### Bracket Pair Colorizer 2
 
-![bracket pair](../img/blog/vscode/vscode_ext_bracket.png)
+![bracket pair](/img/blog/vscode/vscode_ext_bracket.png)
 
 Ever got stressed because you got sick of matching the end brackets to the start brackets?
 With Bracket Pair it's easy to see mistakes!
@@ -64,7 +64,7 @@ With Bracket Pair it's easy to see mistakes!
 
 _Screenshot shows my custom settings for Todo Tree!_
 
-![todo tree](../img/blog/vscode/vscode_ext_todotree.png)
+![todo tree](/img/blog/vscode/vscode_ext_todotree.png)
 
 This is an awesome in-code todo list manager. Just write TODO: or FIXME: (default tags) in your code and Todo tree will automatically update your todo list!
 
@@ -126,24 +126,24 @@ Simply add this to your settings.json file and you will be good to go! (If you a
 ### Python
 
 - indent-rainbow
-  ![indent rainbow](../img/blog/vscode/vscode_ext_indet.png)
+  ![indent rainbow](/img/blog/vscode/vscode_ext_indet.png)
 - Python Preview
-  ![python preview](../img/blog/vscode/vscode_ext_pyprev.png)
+  ![python preview](/img/blog/vscode/vscode_ext_pyprev.png)
 
 ### Markdown
 
 - Markdown Preview Github Styling
   
-  ![md preview github style](../img/blog/vscode/vscode_ext_md-git.png)
+  ![md preview github style](/img/blog/vscode/vscode_ext_md-git.png)
 - Markdown Shortcut
   
-  ![md shortcut ](../img/blog/vscode/vscode_ext_mdshort.png)
+  ![md shortcut ](/img/blog/vscode/vscode_ext_mdshort.png)
 
 ### Javascript
 
 - Turbo Console Log
   
-  ![turbo console log](../img/blog/vscode/vscode_ext_jsturbo.png)
+  ![turbo console log](/img/blog/vscode/vscode_ext_jsturbo.png)
 - Prettier
   
-  ![prettier](../img/blog/vscode/vscode_ext_prettier.png)
+  ![prettier](/img/blog/vscode/vscode_ext_prettier.png)
