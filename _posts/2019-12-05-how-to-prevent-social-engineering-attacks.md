@@ -1,7 +1,7 @@
 ---
 layout: post
-title: “How to Mitigate Social Engineering attacks: A general cybersecurity culture”
-icon: star-o
+title: “How to Mitigate Social Engineering attacks A general cybersecurity culture”
+icon: star -o
 author: 2019tony
 tags: [how to, social engineering, cybersecurity]
 ---
