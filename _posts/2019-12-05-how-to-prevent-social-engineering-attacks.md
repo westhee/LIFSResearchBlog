@@ -1,16 +1,16 @@
 ---
 layout: post
-title: “How to Mitigate Social Engineering attacks A general cybersecurity culture”
+title: "How to Mitigate Social Engineering attacks A general cybersecurity culture"
 icon: star -o
 author: 2019tony
 tags: [how to, social engineering, cybersecurity]
 ---
 
-All it takes is clicking on a suspicious link to cost yourself or your company tens of thousands of dollars.
+All it takes is clicking on a suspicious link to cost yourself or your company tens of thousands of dollars. In this post we will discuss basic concepts related to social engineering attacks.
 
 ### WHAT IS SOCIAL ENGINEERING?
 
-Social engineering is the exploit of human psychology and susceptibility to manipulation to trick victims into uncovering sensitive information or breach security protocols that allow an attacker access to a network.<br/>
+Social engineering is the exploit of human psychology and susceptibility to manipulation to trick victims into uncovering sensitive information or breach security protocols that allow an attacker access to a network.
 
 <img src="/img/news/most_phished_sites.png">
 
