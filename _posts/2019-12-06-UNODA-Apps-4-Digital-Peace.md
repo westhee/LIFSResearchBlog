@@ -2,7 +2,7 @@
 layout: post
 title: "UNODA and Cybersecurity Tech Accord Apps 4 Digital Peace Contest"
 icon: info-circle
-author: ProfJames
+author: profJames
 tags: [contest]
 ---
 
