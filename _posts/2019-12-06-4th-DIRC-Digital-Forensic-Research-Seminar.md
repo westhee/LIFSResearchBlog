@@ -31,8 +31,7 @@ Time | Event | Speaker
 13:30 | Open Source License Guide | Hyemin Yoo LIFS
 13:50 | Forensic tool development using API | Donggeun Jang HM
 14:10 | Break Time |
-14:30 | Research on IoT device vulnerability with IoT
-Dynamic Honeypot | MinJin Park LIFS
+14:30 | Research on IoT device vulnerability with IoT Dynamic Honeypot | MinJin Park LIFS
 14:50 | Response plan to regulatory agencies using Nuix | Jaehyun Oh HM
 15:10 | Expert System development using CLIPS | SungMi Park LIFS
 15:30 | Analysis of subject behavior before imaging | Sumin Lee HM
