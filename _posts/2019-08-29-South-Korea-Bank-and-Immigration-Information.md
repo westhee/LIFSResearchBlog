@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to make a Korean bank account and alien registration number for university students"
-icon: star -o
+icon: star-o
 tag: [administration, student life]
 author: 2018minjin
 ---

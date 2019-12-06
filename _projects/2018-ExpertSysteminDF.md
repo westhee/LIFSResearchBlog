@@ -13,8 +13,8 @@ people:
 
 layout: project
 image:
-last-updated: 2019-08-29
-status: active
+last-updated: 2019-12-06
+status: inactive
 ---
 
 This short-term project seeks to automate some of the observation and reasoning phases in

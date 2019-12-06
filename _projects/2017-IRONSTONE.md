@@ -19,8 +19,8 @@ people:
 
 layout: project
 image:
-last-updated: 2019-07-30
-status: active
+last-updated: 2019-12-06
+status: inactive
 ---
 
 A project to investigate the implications of IoT on Digital Forensic Investigaitons.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Home Mini Nmap scanning"
-icon: star -o
+icon: star-o
 tag: [IoT, Network, Digital Forensic]
 author: 2018minjin
 ---

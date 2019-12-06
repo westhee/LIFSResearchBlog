@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Mitigate Social Engineering attacks A general cybersecurity culture"
-icon: star -o
+icon: star-o
 author: 2019tony
 tags: [how to, social engineering, cybersecurity]
 ---
@@ -12,7 +12,7 @@ All it takes is clicking on a suspicious link to cost yourself or your company t
 
 Social engineering is the exploit of human psychology and susceptibility to manipulation to trick victims into uncovering sensitive information or breach security protocols that allow an attacker access to a network.
 
-<img src="/img/news/most_phished_sites.png">
+![Spearfishing](/img/news/most_phished_sites.png)
 
 Image-Source: [Webroot](https://www-cdn.webroot.com/4215/0956/5734/QTT_0917_Phishing_is_the_New_Black_Infographic_F.pdf)
 
@@ -70,7 +70,7 @@ Social engineering attacks are quite simple with severe consequences for the org
 
 [According to Webroot](https://www.webroot.com/us/en/business/threat-intelligence/internet/real-time-anti-phishing), phishing is the number one cause of breaches for organizations around the world. A recent Webroot sponsored survey of influencers found that 63% have experienced a phishing attack in the last two years, 35% expect to suffer more phishing attacks in the next two years, 43% plan to invest in new threat technology as a result.
 
-<img src="/img/news/phising_attacks.png">
+![phishing](/img/news/phising_attacks.png)
 
 One acclaimed solution I am yet to try out is real-time anti-phishing technology.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RAM data significance in Digital Forensics"
-icon: star -o
+icon: star-o
 tag: [RAM, Memory Forensics, Volatile]
 author: ugrad007
 ---

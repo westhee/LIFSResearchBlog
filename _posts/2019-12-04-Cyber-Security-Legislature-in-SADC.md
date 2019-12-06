@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Discussing Cyber Security and Cyber Crime in the SADC region (Africa)"
-icon: star -o
+icon: star-o
 tags: [ITU, SADC, Cybersecurity, Cybercrime, INTERPOL, KOREA, CIRT]
 author: "2018Terrence"
 ---

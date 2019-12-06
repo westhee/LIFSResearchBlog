@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What are artifacts in digital forensic investigations?"
-icon: star -o
+icon: star-o
 tags: [forensics, research, artifacts]
 author: 2018jiyoon
 ---
