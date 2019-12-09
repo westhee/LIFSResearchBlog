@@ -6,7 +6,7 @@ author: 2019sungmi
 tags: [vscode, settings, cheatsheet, coding]
 ---
 
-I recently got some time to organize my VScode extensions and wanted to share my settings - as well as some shortcuts I find very useful.
+I recently had some time to organize my VScode extensions and wanted to share my settings and shortcuts I find very useful.
 
 ## VScode commands (for Windows)
 
