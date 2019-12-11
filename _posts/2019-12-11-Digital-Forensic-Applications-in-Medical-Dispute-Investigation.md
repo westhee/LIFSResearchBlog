@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Digital Forensic Applications in Medical Dispute Investigation (Korea)"
+title: "Digital Forensic Applications in a Korean Medical Dispute Investigation"
 icon: star-o
-author: HyeminAngela
-tags: [Medical Dispute, Digital Forensic application]
+author: ugrad007
+tags: [medical, digital foreniscs, investigation]
 ---
-### Summary
-
 In medical malpractice, medical records are only evidence for proving evidence. If it can be confirm that the electronic medical records are manipulated by digital forensic application, medical dispute investigation can be concluded rapidly. So, to apply digital forensic system in the investigation, we need to build institutional plan.
 
 ### Problem
@@ -23,23 +21,25 @@ Electronic Medical Record Procedure is what the doctor wrote and signed on about
 It is recommended that the timing of the record immediately after the care. In some cases, if the writing is delayed, it can lead to suspicions such as false entries. However, in the event of an emergency, the timing of the entry may be delayed considering situations.
 According to Article 22 paragraph 1 of the Medical Service Act, medical personnel are required to record their respective medical records "in detail" and to what extent they should be recorded. However, the criteria for detailed records are controversial. There are no objective standards, so the judgement depends on the judges.
 
-Institutional Measure to apply Digital Forensic in Investigation of Electronic Medical Record
+Institutional Measure to apply Digital Forensic in Investigation of Electronic Medical Record.
 
-1. Standardization of Electronic Medical Record
+#### Standardization of Electronic Medical Record
+
 So far, there are on standardization of electronic medical record. So, each hospital has different forms of system. And there are no regulations for electronic medical records, storage patterns or storage methods in law. To prove a false entry of medical records using digital forensic, the form should be standardization to optimize the investigation.
 
 Specific legislative proposals are as follows.
-A legislative bill of medical law
-Part of article 23 says that the electronic medical record system should use a system certified by the health and welfare minister. The Minister of Health and Welfare can set up and announce a certificate.
+> A legislative bill of medical law Part of article 23 says that the electronic medical record system should use a system certified by the health and welfare minister. The Minister of Health and Welfare can set up and announce a certificate.
 
-2. Enactment of the obligation to keep log records and the provision of punishment for deletion
+#### Enactment of the obligation to keep log records and the provision of punishment for deletion
+
 Analysis of log records is essential for proof of conduct for digital forensics. If log records are not preserved, it may be difficult to prove needed evidences. It is necessary to make it mandatory for log records to be kept for a certain period and make a bill to impose criminal penalties in case of violation.
 
-3. Imposing obligation to submit electronic records when investigating arbitration committee
+#### Imposing obligation to submit electronic records when investigating arbitration committee
+
 In order to prove false entries by digital forensics procedures, original electronic medical records data must be obtained. In the law, investigators can access or copy related documents or objects by entering hospitals. In the digital forensics, the original evidence should be preserved as it was at the time of the evidence. Otherwise, it goes against the principle of integrity.
 
 There may be controversy over what is the original data, and there needs to be clear legislation about it.
 
-### Reference
+### References
 
 권양섭 (2014.10) 의료분쟁 조사과정에서 디지털 포렌식 활용방안(Digital Forensic Applications in Medical Dispute Investigation)
