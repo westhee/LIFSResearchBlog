@@ -23,24 +23,26 @@ This article demonstrates how to install goewf and libewf librarys and read an E
  
 ## INSTALL GOLANG
 Skip if you already have golang installed.
+
 I will assume you are using linux. Other wise google how to install golang <for your specific operating system>
-#Update to apply latest ubuntu security
-    sudo apt-get update
-#Upgrade to apply latest ubuntu security
-    sudo apt-get -y upgrade 
-#Download the go binary archive
-    wget https://dl.google.com/go/go1.11.linux-amd64.tar.gz 
-#Extract the file archive
-    sudo tar -xvf go1.11.linux-amd64.tar.gz 
-#move the binary to local folder
-    sudo mv go /usr/local   
-#Open bash profile file
-    sudo nano ~/.zshrc or sudo nano ~/.bashrc 
-#copy the next 3lines below and save it into you zshrc or bashrc file.
+	
+    #Update to apply latest ubuntu security
+    	sudo apt-get update
+    #Upgrade to apply latest ubuntu security
+    	sudo apt-get -y upgrade 
+    #Download the go binary archive
+    	wget https://dl.google.com/go/go1.11.linux-amd64.tar.gz 
+    #Extract the file archive
+    	sudo tar -xvf go1.11.linux-amd64.tar.gz 
+    #move the binary to local folder
+    	sudo mv go /usr/local   
+    #Open bash profile file
+    	sudo nano ~/.zshrc or sudo nano ~/.bashrc 
+    #copy the next 3lines below and save it into you zshrc or bashrc file.
         export GOROOT=/usr/local/go
         export GOPATH=$HOME/go
         export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
-#displays the version of go installed. Run this command in a new terminal window.
+    #displays the version of go installed. Run this command in a new terminal window.
     go version 
 
     #Bonus
