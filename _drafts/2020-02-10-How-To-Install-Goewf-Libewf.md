@@ -26,26 +26,41 @@ Skip if you already have golang installed.
 
 I will assume you are using linux. Other wise google how to install golang <for your specific operating system>
 	
-    #Update to apply latest ubuntu security
+   #Update to apply latest ubuntu security
+    
     	sudo apt-get update
-    #Upgrade to apply latest ubuntu security
+	
+   #Upgrade to apply latest ubuntu security
+    
     	sudo apt-get -y upgrade 
-    #Download the go binary archive
+	
+   #Download the go binary archive
+   
     	wget https://dl.google.com/go/go1.11.linux-amd64.tar.gz 
-    #Extract the file archive
+	
+   #Extract the file archive
+   
     	sudo tar -xvf go1.11.linux-amd64.tar.gz 
-    #move the binary to local folder
+	
+   #move the binary to local folder
+    
     	sudo mv go /usr/local   
-    #Open bash profile file
+	
+   #Open bash profile file
+    
     	sudo nano ~/.zshrc or sudo nano ~/.bashrc 
-    #copy the next 3lines below and save it into you zshrc or bashrc file.
+	
+   #copy the next 3lines below and save it into you zshrc or bashrc file.
+   
         export GOROOT=/usr/local/go
         export GOPATH=$HOME/go
         export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
-    #displays the version of go installed. Run this command in a new terminal window.
+	
+   #displays the version of go installed. Run this command in a new terminal window.
+   
     go version 
 
-    #Bonus
+   #Bonus
     How to install go on mac os catalina with homebrew.
     #If you are trying to install go on Catalina  with home-brew, here is what work for me.
     
@@ -76,21 +91,26 @@ sudo apt install autoconf automake autopoint libtool pkg-config bison flex
 # INSTALL (RUN THE COMMANDS BELOW TO INSTALL AND BUILD THE PROGRAM)
 go get github.com/vitaminwater/cgo.wchar
 
-#Navigate to sydp/goewf/libewf
-cd libewf/
-
-./synclibs.sh
-./autogen.sh
-./configure
-make
+   #Navigate to sydp/goewf/libewf
+    
+    cd libewf/
+    
+    ./synclibs.sh
+    ./autogen.sh
+    ./configure
+    make
+    
 #Navigate to sydp/goewf/
-cd .. 
+
+    cd .. 
+    
 #Build the source
-go build -o goewf cmd/goewf/main.go
+
+    go build -o goewf cmd/goewf/main.go
 
 
 # READ THE FIRST 512 BYTES FROM AN EWF FILE NAMED image.E01
-goewf image.E01 512 #image.E01 should correspond to the path to an ewf file you want to read. 
+    goewf image.E01 512 #image.E01 should correspond to the path to an ewf file you want to read. 
 
 
 ### REFERENCE
