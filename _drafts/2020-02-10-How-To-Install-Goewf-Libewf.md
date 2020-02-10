@@ -7,17 +7,17 @@ tags: [Expert Witness File Format, Digital Foensic, Disk Imaging]
 ---
  ### SUMMARY
  
-Expert Witness File format allows specific advantage like compression and headers information (specific meta-data included in an image) for data authenticity and more. Libewf is C library that allows the read/write of ewf format. On the other hand we have golang library called goewf which extend the functions of Libewf so that we carry out ewf task. This is called software binding.
+Expert Witness File format allows specific advantage like compression and headers information (specific meta-data included in an image) for data authenticity and more. Libewf is a C library that allows read/write of ewf format. On the other hand there is a golang library (goewf) which extends the functions of Libewf so that one can carry out ewf task using golang. This is called software binding.
 
-the written in "C" and does not currently have the advantage of concurrency.
  
 ### PROBLEM
  
-We want to be able to use "C" code in golang, otherwise called software binding. This will enable use reuse code that carry out EWF task instead of writing all new functions in golang. 
-Also this enables access to both software advantages of "C" and in golang. For example, the Libewf library does not currently support cuncurrency. Binding the library with goewf library gives us the ability to utilize concurrency in golang and increase efficiency.
+We want to be able to use "C" code in golang, otherwise called software binding. This has already been done in the goewf library. It reuses the "C" code in Libewf to carry out EWF task instead of writing all new functions in golang. 
+This enables access to both software advantages of "C" and in golang at the same time. For example, the Libewf library does not currently support cuncurrency. Binding the library with goewf library gives us the ability to utilize concurrency in golang and possibly increase efficiency.
 
-The goewf library currently has implemented the read access function in  the Libewf library. No warranty offerred or implied, please validate if using in an evidentiary context.
+The goewf library currently has only implemented the read access function in  the Libewf library. No warranty offerred or implied, please validate if using in an evidentiary context.
 
+This article demonstrates how to install goewf and libewf librarys and read an EWF file.
  
 ### PROCEDURE
  
