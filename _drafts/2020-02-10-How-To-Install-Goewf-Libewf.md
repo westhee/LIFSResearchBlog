@@ -24,7 +24,7 @@ This article demonstrates how to install goewf and libewf librarys and read an E
 ## INSTALL GOLANG
 Skip if you already have golang installed.
 
-I will assume you are using linux. Other wise google how to install golang <for your specific operating system>
+I will assume you are using linux. Otherwise google how to install golang <for your specific operating system>
 	
    #Update to apply latest ubuntu security
     
