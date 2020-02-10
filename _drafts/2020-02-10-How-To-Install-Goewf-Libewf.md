@@ -7,7 +7,7 @@ tags: [Expert Witness File Format, Digital Foensic, Disk Imaging]
 ---
  ### SUMMARY
  
-Expert Witness File format allows specific advantage like compression and headers information (specific meta-data included in an image) for data authenticity and speed. Libewf is C library that allows the read/write of ewf format. On the other hand we have golang library called goewf which extend the functions of Libewf so that we carry out ewf task. This is called software binding.
+Expert Witness File format allows specific advantage like compression and headers information (specific meta-data included in an image) for data authenticity and more. Libewf is C library that allows the read/write of ewf format. On the other hand we have golang library called goewf which extend the functions of Libewf so that we carry out ewf task. This is called software binding.
 
 the written in "C" and does not currently have the advantage of concurrency.
  
