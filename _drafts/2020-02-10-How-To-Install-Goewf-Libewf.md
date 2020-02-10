@@ -89,7 +89,7 @@ I will assume you are using linux. Otherwise google how to install golang <for y
 sudo apt install autoconf automake autopoint libtool pkg-config bison flex
 
 # INSTALL (RUN THE COMMANDS BELOW TO INSTALL AND BUILD THE PROGRAM)
-go get github.com/vitaminwater/cgo.wchar
+    go get github.com/vitaminwater/cgo.wchar
 
    #Navigate to sydp/goewf/libewf
     
