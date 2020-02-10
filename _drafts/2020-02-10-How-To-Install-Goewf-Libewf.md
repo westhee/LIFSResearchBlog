@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Install Goewf With Libewf"
+title: "How to install Goewf which extends Libewf to read expert witness file"
 icon: star-o
 author: Onche Anthony
 tags: [Expert Witness File Format, Digital Foensic, Disk Imaging]
