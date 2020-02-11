@@ -2,29 +2,24 @@
 layout: post
 title: "How to install Goewf which extends Libewf to read expert witness file"
 icon: star-o
-author: Onche Anthony
+author: 2019tony
 tags: [Expert Witness File Format, Digital Foensic, Disk Imaging]
 ---
- ### SUMMARY
- 
-Expert Witness File format allows specific advantage like compression and headers information (specific meta-data included in an image) for data authenticity and more. Libewf is a C library that allows read/write of ewf format. On the other hand there is a golang library (goewf) which extends the functions of Libewf so that one can carry out ewf task using golang. This is called software binding.
 
- 
-### PROBLEM
- 
-We want to be able to use "C" code in golang, otherwise called software binding. This has already been done in the goewf library. It reuses the "C" code in Libewf to carry out EWF task instead of writing all new functions in golang. 
-This enables access to both software advantages of "C" and in golang at the same time. For example, the Libewf library does not currently support cuncurrency. Binding the library with goewf library gives us the ability to utilize concurrency in golang and possibly increase efficiency.
+Expert Witness File (EWF) format allows specific advantages like compression and headers information (specific meta-data included in an image) for data authenticity and more. Libewf is a C library that allows read/write of ewf format. On the other hand, there is a golang library (goewf) that extends the functions of Libewf so that one can carry out ewf task using golang. This is called software binding.
 
-The goewf library currently has only implemented the read access function in  the Libewf library. No warranty offerred or implied, please validate if using in an evidentiary context.
+## PROBLEM
 
-This article demonstrates how to install goewf and libewf librarys and read an EWF file.
- 
-### PROCEDURE
- 
+We want to be able to use "C" code in golang, otherwise called software binding. This has already been done in the goewf library. It reuses the "C" code in Libewf to carry out EWF task instead of writing all new functions in golang. This enables access to both software advantages of "C" and in golang at the same time. For example, the Libewf library does not currently support concurrency. Binding the library with goewf library gives us the ability to utilize concurrency in golang and possibly increase efficiency.
+
+The goewf library currently has only implemented the read access function in the Libewf library. No warranty offered or implied, please validate if using in an evidentiary context.
+
+This article demonstrates how to install goewf and libewf libraries and read an EWF file.
+
 ## INSTALL GOLANG
 Skip if you already have golang installed.
 
-I will assume you are using linux. Otherwise google how to install golang <for your specific operating system>
+I will assume you are using Linux. Otherwise see the [Golang](https://golang.org/) offical website for details on installing in your OS.
 	
    #Update to apply latest ubuntu security
     
@@ -82,13 +77,13 @@ I will assume you are using linux. Otherwise google how to install golang <for y
     #Check go version installed
 	    go version
 
-# CLONE THE GOEWF REPO FROM GITHUB TO DESIRED LOCATION ON YOUR SYSTEM
+### CLONE THE GOEWF REPO FROM GITHUB TO DESIRED LOCATION ON YOUR SYSTEM
     git clone https://github.com/sydp/goewf.git #Clone the goewf repo
 
-# INSTALL BUILD TOOLS
+### INSTALL BUILD TOOLS
 sudo apt install autoconf automake autopoint libtool pkg-config bison flex
 
-# INSTALL (RUN THE COMMANDS BELOW TO INSTALL AND BUILD THE PROGRAM)
+#### INSTALL (RUN THE COMMANDS BELOW TO INSTALL AND BUILD THE PROGRAM)
     go get github.com/vitaminwater/cgo.wchar
 
    #Navigate to sydp/goewf/libewf
@@ -109,9 +104,8 @@ sudo apt install autoconf automake autopoint libtool pkg-config bison flex
     go build -o goewf cmd/goewf/main.go
 
 
-# READ THE FIRST 512 BYTES FROM AN EWF FILE NAMED image.E01
+### READ THE FIRST 512 BYTES FROM AN EWF FILE NAMED image.E01
     goewf image.E01 512 #image.E01 should correspond to the path to an ewf file you want to read. 
 
-
-### REFERENCE
+## REFERENCE
 https://github.com/sydp/goewf
