@@ -11,7 +11,7 @@ person.display_name %} {% endif %} {% if include.image %}
 	<div class="col-auto">{% include person-image.html person=person %}</div>
 	<div class="col pl-0">
 		<h6 class="person-name">{{ name }}</h6>
-		{% if person.webpage %}
+		<!-- {% if person.webpage %}
 		<a href="{{ person.webpage }}"><span class="fas fa-globe"></span></a>
 		{% endif %} {% if person.github %}
 		<a href="{{ person.github }}"><span class="fab fa-github"></span></a>
@@ -24,8 +24,9 @@ person.display_name %} {% endif %} {% if include.image %}
 		{% endif %} {% if person.youtube %}
 		<a href="{{ person.youtube }}"><span class="fab fa-youtube"></span></a>
 		{% endif %} {% if person.email %}
-		<a href="{{ person.email }}"><span class="fab fa-envelope"></span></a>
-		{% endif %} {% if person.course %}
+		<a href="{{ person.email }}"><span class="fab fa-envelope"></span></a> -->
+		<!-- {% endif %}-->
+		{% if person.course %}
 		<div class="course">{{person.course}}</div>
 		{% endif %} {% if person.bio %}
 		<div class="bio">{{person.bio}}</div>
@@ -34,7 +35,8 @@ person.display_name %} {% endif %} {% if include.image %}
 </div>
 {% else %}
 <div class="person person-without-image">
-	{{ name }} {% if person.webpage %}
+	{{ name }}
+	<!-- {% if person.webpage %}
 	<a href="{{ person.webpage }}"><span class="fas fa-globe"></span></a>
 	{% endif %} {% if person.github %}
 	<a href="{{ person.github }}"><span class="fab fa-github"></span></a>
@@ -48,7 +50,8 @@ person.display_name %} {% endif %} {% if include.image %}
 	<a href="{{ person.youtube }}"><span class="fab fa-youtube"></span></a>
 	{% endif %} {% if person.email %}
 	<a href="{{ person.email }}"><span class="fas fa-envelope"></span></a>
-	{% endif %} {% if person.bio %}
+	{% endif %}  -->
+	{% if person.bio %}
 	<span class="bio">{{person.bio}}</span>
 	{% endif %}
 </div>
