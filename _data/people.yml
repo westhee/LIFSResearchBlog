@@ -8,13 +8,13 @@ profPark:
 profAhn:
     display_name: "Jung Mihn Jamie, Ahn"
     role: faculty
-    image: https://english.hallym.ac.kr/dam/jcr:8b34ae98-47a1-47fd-81ab-a9429a6bfa54/%EC%95%88%EC%A0%95%EB%AF%BC.png
+    image: /img/people/Jungmihn.png
     bio: "Professor"
 
 profJang:
     display_name: "Yun Sik, Jang"
     role: faculty
-    image: https://english.hallym.ac.kr/dam/jcr:59382055-0b7a-472a-a5a9-d41a982e06e5/%EC%9E%A5%EC%9C%A4%EC%8B%9D.png
+    image: /img/people/Yunsik.png
     bio: "Professor"
 
 # profJames:
@@ -40,36 +40,30 @@ profJang:
     role: grad
     bio: "AI-based Crime Investigation System"
     image: /img/people/Minjin.jpg
-    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2021ari:
     display_name: "최아리 (A Ri Choi)"
     role: grad
     bio: "AI-based Crime Investigation System"
     image: /img/people/Minjin.jpg
-    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2021yeri:
     display_name: "구예리 (Ye Ri Gu)"
     role: grad
     bio: "AI-based Crime Investigation System"
     image: /img/people/Yeri.jpg
-    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2022yeri:
     display_name: "박지원 (Ji Won Park)"
     role: grad
     bio: "AI-based Crime Investigation System"
     image: /img/people/Yeri.jpg
-    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
-
 
 2022yerin:
     display_name: "박예린 (Ye Rin Park)"
     role: grad
     bio: "AI-based Crime Investigation System"
     image: /img/people/Yerin.jpg
-    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2023keecheol:
     display_name: "김기철 (Kee Cheol Kim)"
@@ -82,7 +76,6 @@ profJang:
     display_name: "이진헌 (Jin Heon Lee)"
     role: grad
     bio: "AI-based Crime Investigation System"
-    linkedin: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
     image: /img/people/KeeCheol.jpg
 
 
