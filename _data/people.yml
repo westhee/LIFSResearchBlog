@@ -71,15 +71,14 @@ profJang:
     image: /img/people/Yerin.jpg
     linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
-
 2023keecheol:
     display_name: "김기철 (Kee Cheol Kim)"
     role: grad
     bio: "AI-based Crime Investigation System"
-    linkedin: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
     image: /img/people/KeeCheol.jpg
+    linkedin: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
 
-2023keecheol:
+2023jinheon:
     display_name: "이진헌 (Jin Heon Lee)"
     role: grad
     bio: "AI-based Crime Investigation System"
