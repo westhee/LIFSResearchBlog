@@ -4,9 +4,9 @@ notitle: false
 description: |
   A project to understand methods of investigation of artificially-intelligent systems.
 
-people:
-  - 2019sungmi
-  - profJames
+# people:
+#   - 2019sungmi
+#   - profJames
 
 layout: project
 image:

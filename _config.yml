@@ -21,10 +21,10 @@ roles:
 #    name: Researchers
   - key: grad
     name: Graduate Lab Members
-  - key: ugrad
-    name: Undergraduate Lab Members
-  - key: ugrad-alum
-    name: Past Undergraduate Lab Members
+  # - key: ugrad
+  #   name: Undergraduate Lab Members
+  # - key: ugrad-alum
+  #   name: Past Undergraduate Lab Members
   - key: collab
     name: Collaborators
   - key: alum

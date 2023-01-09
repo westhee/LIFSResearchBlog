@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crawling with Naver REST APIs"
-author: ugradDavid
+author: 2023Keecheol
 icon: star-o
 tags: [research, API, osint]
 ---
