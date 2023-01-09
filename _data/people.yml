@@ -17,42 +17,69 @@ profJang:
     image: https://english.hallym.ac.kr/dam/jcr:59382055-0b7a-472a-a5a9-d41a982e06e5/%EC%9E%A5%EC%9C%A4%EC%8B%9D.png
     bio: "Professor"
 
-profJames:
-    display_name: "Joshua I. James (조슈아)"
-    webpage: "https://dfir.science"
-    github: jijames
-    role: faculty
-    image: https://0.academia-photos.com/1150202/7548239/8475648/s200_joshua.james.jpg
-    bio: "Professor"
-    youtube: "https://www.youtube.com/dfirscience"
-    twitter: "https://twitter.com/dfirscience"
-    linkedin: "https://linkedin.com/in/jijames"
+# profJames:
+#     display_name: "Joshua I. James (조슈아)"
+#     webpage: "https://dfir.science"
+#     github: jijames
+#     role: faculty
+#     image: https://0.academia-photos.com/1150202/7548239/8475648/s200_joshua.james.jpg
+#     bio: "Professor"
+#     youtube: "https://www.youtube.com/dfirscience"
+#     twitter: "https://twitter.com/dfirscience"
+#     linkedin: "https://linkedin.com/in/jijames"
     #email: "joshua.i.james+lifspage@hallym.ac.kr"
+2022gwangjae:
+    display_name: "원광재 (Gwang Jae Won)"
+    role: grad
+    bio: "AI-based Crime Investigation System"
+    image: /img/people/Minjin.jpg
+    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
+
+2022yuna:
+    display_name: "이유나 (Yu Na Lee)"
+    role: grad
+    bio: "AI-based Crime Investigation System"
+    image: /img/people/Minjin.jpg
+    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
+
+2022ari:
+    display_name: "최아리 (A Ri Choi)"
+    role: grad
+    bio: "AI-based Crime Investigation System"
+    image: /img/people/Minjin.jpg
+    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
+
+2023keecheol:
+    display_name: "김기철 (Kee Cheol Kim)"
+    role: grad
+    bio: "AI-based Crime Investigation System"
+    linkedin: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
+    image: /img/people/KeeCheol.jpg
 
 2018minjin:
     display_name: "박민진 (Min Jin Park)"
-    role: grad
+    role: alum
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Minjin.jpg
     linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2018jiyoon:
     display_name: "함지윤 (Jiyoon Ham)"
-    role: grad
+    role: alum
     bio: "Intelligent digital investigation tools"
     image: /img/people/Jiyoon.jpg
     linkedin: https://www.linkedin.com/in/jiyoon-ham-9a41a017a
 
 2019sungmi:
     display_name: "박성미 (Sungmi Park)"
-    role: grad
+    role: alum
     bio: "Expert systems in digital investigations and law"
     image: /img/people/Sungmi.jpg
     linkedin: https://www.linkedin.com/in/sungmi-park-5560b0147
 
 2018terrence:
     display_name: "Terrence Nemayire"
-    role: grad
+    role: alum
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Terrence.png
     linkedin: https://www.linkedin.com/in/terrence-nemayire-3b944b18b
@@ -61,26 +88,21 @@ profJames:
 
 2018alex:
     display_name: "Alex Ocheme Ogbole"
-    role: grad
+    role: alum
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Alex.jpg
     linkedin: https://www.linkedin.com/in/alex-ogbole-8b0b6571
 
-2019jian:
-    display_name: "홍지안 (Jian Hong)"
-    role: grad
-    bio: "IoT Digital Forensic Investigation"
-
 2019luckson: 
     display_name: "Luckson Zvirikuzhe"
-    role: grad
+    role: alum
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Luckson.jpg
     linkedin: 
 
 2019tony:
     display_name: "Onche Anthony Inalegwu"
-    role: grad
+    role: alum
     bio: "IoT Digital Forensic Investigation"
     image: /img/people/Tony.jpg
     linkedin: https://linkedin.com/in/tonyjokeapart
@@ -144,35 +166,4 @@ VUTBR:
     webpage: "https://www.vutbr.cz/en"
     image: "/img/people/vutbr.jpg"
 
-ugrad001:
-    display_name: "고서정"
-    role: ugrad-alum
 
-ugradDavid:
-    display_name: "김기철"
-    role: ugrad
-    bio: "Intelligent digital investigation tools"
-    linkedin: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
-    image: /img/people/KeeCheol.jpg
-
-ugrad007:
-    display_name: "유혜민"
-    role: ugrad
-    bio: "Intelligent digital investigation tools"
-    image: /img/people/Angela.jpg"
-    webpage: "https://brandmyselfdf.blogspot.com/"
-
-ugrad003:
-    display_name: "이유나"
-    role: ugrad
-    bio: "Expert systems in digital investigations and law"
-
-ugrad005:
-    display_name: "박현욱"
-    role: ugrad
-    bio: "Expert systems in digital investigations and law"
-
-ugrad006:
-    display_name: "백승민"
-    role: ugrad
-    bio: "Expert systems in digital investigations and law"
