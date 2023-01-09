@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating Personal Run Commands in Windows 10"
-author: ugradDavid
+author: 2023Keecheol
 icon: star-o
 tags: [windows, tips]
 ---

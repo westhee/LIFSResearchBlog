@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "URL Extraction after crawling web pages"
-author: ugradDavid
+author: 2023Keecheol
 icon: star-o
 tags: [research, API, osint, naver]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EzDir (Chrome Extension)"
-author: ugradDavid
+author: 2023Keecheol
 icon: star-o
 tags: [tools]
 ---

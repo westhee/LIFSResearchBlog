@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stateless Attribution: Towards International Accountability in Cyberspace by RAND Corporation"
-author: ugradDavid
+author: 2023Keecheol
 icon: star-o
 tags: [research, paper, cybercrime]
 ---
