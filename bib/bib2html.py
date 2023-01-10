@@ -68,7 +68,7 @@ def _title(entry):
     """Format a title field for HTML display."""
     title = entry['title']
     # remove curlies from titles -- useful in TeX, not here
-    title = re.sub(r"[^a-zA-Z가-힣0-9 ,_-]","",title)
+    title = re.sub(r"[^\(\)a-zA-Z가-힣0-9 ,_-]","",title)
     return title
 
 
@@ -144,6 +144,7 @@ def convert_bib_to_html(bib_file):
     # Parse the bib file
     with open(bib_file,"r",encoding="utf8") as bibtex_file:
         bib_database = bibtexparser.load(bibtex_file)
+    
     build_pubs_html(bib_database, '../_includes')
     build_single_html(bib_database, "../pubs/html")
 
