@@ -132,7 +132,7 @@ def build_single_html(db,out_path):
         title = re.sub(r"[^a-zA-Z가-힣0-9 ]","",entry['title'])
         titleus = title.replace(" ","_")
         year = entry['year']
-        holders = ["---","layout:default",f"title:{title}",f"permalink: /publications/{year}-{titleus}","---"]
+        holders = ["---","layout: default",f"title: {title}",f"permalink: /publications/{year}-{titleus}","---"]
         place_holder = "\n".join(holders)
         with open(f"{out_path}/{year}-{titleus}.html","w",encoding="utf8") as fw:
             fw.write(place_holder + "\n")
