@@ -3,7 +3,7 @@ layout: default
 title: Resources
 permalink: /resources
 ---
-# Resources
+
 <span style="text-align: center;"> [Contact](#contact) | [Directions](#maps) | [Logos](#logos)</span>
 
 ### Contact Us
