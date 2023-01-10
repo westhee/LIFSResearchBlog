@@ -1,4 +1,3 @@
-
 profPark:
     display_name: "Ro Seop, Park"
     role: faculty
@@ -7,16 +6,16 @@ profPark:
     email: "rspark@hallym.ac.kr"
 
 profAhn:
-    display_name: "Jung Mihn Jamie, Ahn"
-    role: faculty
-    image: /img/people/Jungmihn.png
-    bio: "Professor"
+  display_name: "Jung Mihn Jamie, Ahn"
+  role: faculty
+  image: /img/people/Jungmihn.png
+  bio: "Professor"
 
 profJang:
-    display_name: "Yun Sik, Jang"
-    role: faculty
-    image: /img/people/Yunsik.png
-    bio: "Professor"
+  display_name: "Yun Sik, Jang"
+  role: faculty
+  image: /img/people/Yunsik.png
+  bio: "Professor"
 
 # profJames:
 #     display_name: "Joshua I. James (조슈아)"
@@ -28,167 +27,171 @@ profJang:
 #     youtube: "https://www.youtube.com/dfirscience"
 #     twitter: "https://twitter.com/dfirscience"
 #     linkedin: "https://linkedin.com/in/jijames"
-    #email: "joshua.i.james+lifspage@hallym.ac.kr"
+#email: "joshua.i.james+lifspage@hallym.ac.kr"
 2022gwangjae:
-    display_name: "원광재 (Gwang Jae Won)"
-    role: grad
-    bio: "AI-based Crime Investigation System"
-    image: /img/people/Gwangjae.jpg
-    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
+  display_name: "원광재 (Gwang Jae, Won)"
+  role: grad
+  course: PhD Course
+  bio: "AI-based Crime Investigation System"
+  image: /img/people/Gwangjae.jpg
+  linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2020yuna:
-    display_name: "이유나 (Yu Na Lee)"
-    role: grad
-    bio: "AI-based Crime Investigation System"
-    image: /img/people/Minjin.jpg
+  display_name: "이유나 (Yu Na, Lee)"
+  role: grad
+  course: PhD Course
+  bio: "AI-based Crime Investigation System"
+  image: /img/people/Minjin.jpg
 
 2021ari:
-    display_name: "최아리 (A Ri Choi)"
-    role: grad
-    bio: "AI-based Crime Investigation System"
-    image: /img/people/Minjin.jpg
+  display_name: "최아리 (A Ri, Choi)"
+  role: grad
+  course: PhD Course
+  bio: "AI-based Crime Investigation System"
+  image: /img/people/Minjin.jpg
 
 2021yeri:
-    display_name: "구예리 (Ye Ri Gu)"
-    role: grad
-    bio: "AI-based Crime Investigation System"
-    image: /img/people/Yeri.jpg
+  display_name: "구예리 (Ye Ri, Gu)"
+  role: grad
+  course: PhD Course
+  bio: "AI-based Crime Investigation System"
+  image: /img/people/Yeri.jpg
 
 2022yeri:
-    display_name: "박지원 (Ji Won Park)"
-    role: grad
-    bio: "AI-based Crime Investigation System"
-    image: /img/people/Yeri.jpg
+  display_name: "박지원 (Ji Won, Park)"
+  role: grad
+  course: MSc Course
+  bio: "AI-based Crime Investigation System"
+  image: /img/people/Yeri.jpg
 
 2022yerin:
-    display_name: "박예린 (Ye Rin Park)"
-    role: grad
-    bio: "AI-based Crime Investigation System"
-    image: /img/people/Yerin.jpg
+  display_name: "박예린 (Ye Rin, Park)"
+  role: grad
+  course: MSc Course
+  bio: "AI-based Crime Investigation System"
+  image: /img/people/Yerin.jpg
 
 2023keecheol:
-    display_name: "김기철 (Kee Cheol Kim)"
-    role: grad
-    bio: "AI-based Crime Investigation System"
-    image: /img/people/KeeCheol.jpg
-    linkedin: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
+  display_name: "김기철 (Kee Cheol, Kim)"
+  role: grad
+  course: MSc Course
+  bio: "AI-based Crime Investigation System"
+  image: /img/people/KeeCheol.jpg
+  linkedin: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
 
 2023jinheon:
-    display_name: "이진헌 (Jin Heon Lee)"
-    role: grad
-    bio: "AI-based Crime Investigation System"
-    image: /img/people/KeeCheol.jpg
-
+  display_name: "이진헌 (Jin Heon, Lee)"
+  role: grad
+  course: MSc Course
+  bio: "AI-based Crime Investigation System"
+  image: /img/people/Jinheon.jpg
 
 2019yoonjun:
-    display_name: "이윤정 (Yoonjung Lee)"
-    role: alum
-    bio: "Ph.D., 2019: 형사재판에서 판결전 재범위험성 정보제공이 유무죄 판단에 미치는 영향 - 사이코패스 선별도구 PCL-R 을 중심으로"
+  display_name: "이윤정 (Yoonjung, Lee)"
+  role: alum
+  bio: "Ph.D., 2019: 형사재판에서 판결전 재범위험성 정보제공이 유무죄 판단에 미치는 영향 - 사이코패스 선별도구 PCL-R 을 중심으로"
 
 2019yohannes:
-    display_name: "Yohannes Yemane Brhan"
-    role: alum
-    bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Yohannes-API_Based_Cloud_Data_Acquisition_and_Analysis_from_Smart_Home_IoT_Environments.pdf'>API-based Cloud Data Acquisition and Analysis from Smart Home IoT Devices</a>"
-    image: /img/people/Yohannes.jpg
-    linkedin: "https://www.linkedin.com/in/yohannes-yemane-brhan-70433470"
+  display_name: "Yohannes Yemane Brhan"
+  role: alum
+  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Yohannes-API_Based_Cloud_Data_Acquisition_and_Analysis_from_Smart_Home_IoT_Environments.pdf'>API-based Cloud Data Acquisition and Analysis from Smart Home IoT Devices</a>"
+  image: /img/people/Yohannes.jpg
+  linkedin: "https://www.linkedin.com/in/yohannes-yemane-brhan-70433470"
 
 2019addisu:
-    display_name: "Birhanu Addisu Afework"
-    role: alum
-    bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Addisu-Smart_Home_IoT_Forensics.pdf'>Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition</a>"
-    image: /img/people/Addisu.jpg
-    linkedin: https://www.linkedin.com/in/addisu-afework-4434831a
+  display_name: "Birhanu Addisu Afework"
+  role: alum
+  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Addisu-Smart_Home_IoT_Forensics.pdf'>Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition</a>"
+  image: /img/people/Addisu.jpg
+  linkedin: https://www.linkedin.com/in/addisu-afework-4434831a
 
 2019subong:
-    display_name: "장수봉 (Subong Jang)"
-    role: alum
-    bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Subong-A_Study_on_Internet_of_Things_Forensics.pdf'>A Study on Internet of Things (IoT) Forensics</a>"
-    image: /img/people/Subong.jpg
-    linkedin: https://kr.linkedin.com/in/subong-jang-54779aab
+  display_name: "장수봉 (Subong, Jang)"
+  role: alum
+  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Subong-A_Study_on_Internet_of_Things_Forensics.pdf'>A Study on Internet of Things (IoT) Forensics</a>"
+  image: /img/people/Subong.jpg
+  linkedin: https://kr.linkedin.com/in/subong-jang-54779aab
 
 2019betty:
-    display_name: "Ajayi Betty Bukola"
-    role: alum
-    bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Request_Effectiveness.pdf'>A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria</a>"
-    image: /img/people/Betty.jpg
-    linkedin: "https://www.linkedin.com/in/betty-bukola-ajayi-9033b99a/"
+  display_name: "Ajayi Betty Bukola"
+  role: alum
+  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Request_Effectiveness.pdf'>A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria</a>"
+  image: /img/people/Betty.jpg
+  linkedin: "https://www.linkedin.com/in/betty-bukola-ajayi-9033b99a/"
 
 2017Kyoungjae:
-    display_name: "박경재 (KyoungJae Park)"
-    role: alum
-    bio: "MSc, 2020 (Expected)"
-    image: /img/people/Kyoungjae.jpg
-    linkedin: "https://www.linkedin.com/in/kyoungjae-park-759119aa/"
+  display_name: "박경재 (KyoungJae, Park)"
+  role: alum
+  bio: "MSc, 2020 (Expected)"
+  image: /img/people/Kyoungjae.jpg
+  linkedin: "https://www.linkedin.com/in/kyoungjae-park-759119aa/"
 
 2018minjin:
-    display_name: "박민진 (Min Jin Park)"
-    role: alum
-    bio: "IoT Digital Forensic Investigation"
-    image: /img/people/Minjin.jpg
-    linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
+  display_name: "박민진 (Min Jin, Park)"
+  role: alum
+  bio: "IoT Digital Forensic Investigation"
+  image: /img/people/Minjin.jpg
+  linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2018jiyoon:
-    display_name: "함지윤 (Jiyoon Ham)"
-    role: alum
-    bio: "Intelligent digital investigation tools"
-    image: /img/people/Jiyoon.jpg
-    linkedin: https://www.linkedin.com/in/jiyoon-ham-9a41a017a
+  display_name: "함지윤 (Jiyoon, Ham)"
+  role: alum
+  bio: "Intelligent digital investigation tools"
+  image: /img/people/Jiyoon.jpg
+  linkedin: https://www.linkedin.com/in/jiyoon-ham-9a41a017a
 
 2019sungmi:
-    display_name: "박성미 (Sungmi Park)"
-    role: alum
-    bio: "Expert systems in digital investigations and law"
-    image: /img/people/Sungmi.jpg
-    linkedin: https://www.linkedin.com/in/sungmi-park-5560b0147
+  display_name: "박성미 (Sungmi, Park)"
+  role: alum
+  bio: "Expert systems in digital investigations and law"
+  image: /img/people/Sungmi.jpg
+  linkedin: https://www.linkedin.com/in/sungmi-park-5560b0147
 
 2018terrence:
-    display_name: "Terrence Nemayire"
-    role: alum
-    bio: "IoT Digital Forensic Investigation"
-    image: /img/people/Terrence.png
-    linkedin: https://www.linkedin.com/in/terrence-nemayire-3b944b18b
-    twitter: "https://twitter.com/terrynema"
-    github: "https://github.com/terrynema04"
+  display_name: "Terrence Nemayire"
+  role: alum
+  bio: "IoT Digital Forensic Investigation"
+  image: /img/people/Terrence.png
+  linkedin: https://www.linkedin.com/in/terrence-nemayire-3b944b18b
+  twitter: "https://twitter.com/terrynema"
+  github: "https://github.com/terrynema04"
 
 2018alex:
-    display_name: "Alex Ocheme Ogbole"
-    role: alum
-    bio: "IoT Digital Forensic Investigation"
-    image: /img/people/Alex.jpg
-    linkedin: https://www.linkedin.com/in/alex-ogbole-8b0b6571
+  display_name: "Alex Ocheme Ogbole"
+  role: alum
+  bio: "IoT Digital Forensic Investigation"
+  image: /img/people/Alex.jpg
+  linkedin: https://www.linkedin.com/in/alex-ogbole-8b0b6571
 
-2019luckson: 
-    display_name: "Luckson Zvirikuzhe"
-    role: alum
-    bio: "IoT Digital Forensic Investigation"
-    image: /img/people/Luckson.jpg
-    linkedin: 
+2019luckson:
+  display_name: "Luckson Zvirikuzhe"
+  role: alum
+  bio: "IoT Digital Forensic Investigation"
+  image: /img/people/Luckson.jpg
+  linkedin:
 
 2019tony:
-    display_name: "Onche Anthony Inalegwu"
-    role: alum
-    bio: "IoT Digital Forensic Investigation"
-    image: /img/people/Tony.jpg
-    linkedin: https://linkedin.com/in/tonyjokeapart
-
+  display_name: "Onche Anthony Inalegwu"
+  role: alum
+  bio: "IoT Digital Forensic Investigation"
+  image: /img/people/Tony.jpg
+  linkedin: https://linkedin.com/in/tonyjokeapart
 
 HancomGMD:
-    display_name: "Hancom GMD"
-    role: collab
-    webpage: "https://www.hancomgmd.com"
-    image: /img/people/GMD.png
+  display_name: "Hancom GMD"
+  role: collab
+  webpage: "https://www.hancomgmd.com"
+  image: /img/people/GMD.png
 
 HappyMaru:
-    display_name: "행복마루컨설팅 (Happy Maru Consulting, Inc.)"
-    role: collab
-    webpage: "http://hmconsulting.co.kr"
-    bio: "Digital Investigation Research and Development Center (DIRC)"
-    image: /img/people/HMConsulting.png
+  display_name: "에이치엠컴퍼니 (HM Company, Inc.)"
+  role: collab
+  webpage: "http://hmconsulting.co.kr"
+  bio: "Digital Investigation Research and Development Center (DIRC)"
+  image: /img/people/HMConsulting.png
 
 VUTBR:
-    display_name: "Brno University of Technology"
-    role: collab
-    webpage: "https://www.vutbr.cz/en"
-    image: "/img/people/vutbr.jpg"
-
-
+  display_name: "Brno University of Technology"
+  role: collab
+  webpage: "https://www.vutbr.cz/en"
+  image: "/img/people/vutbr.jpg"
