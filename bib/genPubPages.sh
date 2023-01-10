@@ -11,8 +11,8 @@ OUTPATH="../pubs/html"
 BIBFILE="pubs.bib"
 TEMPLATE="singlePage.tmpl"
 
-sed -i 's/^[ \t]*//' pubs.bib
-sed -i 's/\r$//' pubs.bib
+sed -i 's/^[ \t]*//' ${BIBFILE}
+sed -i 's/\r$//' ${BIBFILE}
 TDIR="$(mktemp -d)"
 # # Split the bibs into single files
 awk -v RS= '{print > ("TEMPARTICLE-" NR ".bib")}' ${BIBFILE}
