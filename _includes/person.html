@@ -28,12 +28,12 @@ person.display_name %} {% endif %} {% if include.image %}
 		<a href="{{ person.email }}"><span class="fab fa-envelope"></span></a> 
 		{% endif %} -->
 		{% if person.email %}
-		<span class="far fa-envelope">{{person.email}}</span>
+		<span class="far fa-envelope desc"> {{person.email}}</span>
 		{% endif %}
 		{% if person.course %}
-		<div class="course">{{person.course}}</div>
+		<div class="desc">{{person.course}}</div>
 		{% endif %} {% if person.bio %}
-		<div class="bio">{{person.bio}}</div>
+		<div class="desc">{{person.bio}}</div>
 		{% endif %}
 	</div>
 </div>
@@ -54,7 +54,7 @@ person.display_name %} {% endif %} {% if include.image %}
 	{% endif %} {% if person.email %}
 	<a href="{{ person.email }}"><span class="fas fa-envelope"></span></a>
 	{% endif %} {% if person.bio %}
-	<span class="bio">{{person.bio}}</span>
+	<span class="desc">{{person.bio}}</span>
 	{% endif %}
 </div>
 {% endif %}
