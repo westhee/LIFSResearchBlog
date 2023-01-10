@@ -29,7 +29,7 @@ profJang:
 #     linkedin: "https://linkedin.com/in/jijames"
 #email: "joshua.i.james+lifspage@hallym.ac.kr"
 2022gwangjae:
-  display_name: "원광재 (Gwang Jae, Won)"
+  display_name: "원광재 (Gwang-Jae, Won)"
   role: grad
   course: PhD Course
   bio: "AI-based Crime Investigation System"
@@ -37,42 +37,42 @@ profJang:
   linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2020yuna:
-  display_name: "이유나 (Yu Na, Lee)"
+  display_name: "이유나 (Yuna, Lee)"
   role: grad
   course: PhD Course
   bio: "AI-based Crime Investigation System"
-  image: /img/people/Minjin.jpg
+  image: /img/people/Yuna.jpg
 
 2021ari:
-  display_name: "최아리 (A Ri, Choi)"
+  display_name: "최아리 (Ari, Choi)"
   role: grad
   course: PhD Course
   bio: "AI-based Crime Investigation System"
   image: /img/people/Minjin.jpg
 
 2021yeri:
-  display_name: "구예리 (Ye Ri, Gu)"
+  display_name: "구예리 (Yeri, Gu)"
   role: grad
   course: PhD Course
   bio: "AI-based Crime Investigation System"
   image: /img/people/Yeri.jpg
 
 2022yeri:
-  display_name: "박지원 (Ji Won, Park)"
+  display_name: "박지원 (Jiwon, Park)"
   role: grad
   course: MSc Course
   bio: "AI-based Crime Investigation System"
-  image: /img/people/Yeri.jpg
+  image: /img/people/Jiwon.jpg
 
 2022yerin:
-  display_name: "박예린 (Ye Rin, Park)"
+  display_name: "박예린 (Yerin, Park)"
   role: grad
   course: MSc Course
   bio: "AI-based Crime Investigation System"
   image: /img/people/Yerin.jpg
 
 2023keecheol:
-  display_name: "김기철 (Kee Cheol, Kim)"
+  display_name: "김기철 (Kee-Cheol, Kim)"
   role: grad
   course: MSc Course
   bio: "AI-based Crime Investigation System"
@@ -80,14 +80,14 @@ profJang:
   linkedin: "https://www.linkedin.com/in/kee-cheol-kim-682212120/"
 
 2023jinheon:
-  display_name: "이진헌 (Jin Heon, Lee)"
+  display_name: "이진헌 (Jin-Heon, Lee)"
   role: grad
   course: MSc Course
   bio: "AI-based Crime Investigation System"
   image: /img/people/Jinheon.jpg
 
 2019yoonjun:
-  display_name: "이윤정 (Yoonjung, Lee)"
+  display_name: "이윤정 (Yoon-Jung, Lee)"
   role: alum
   bio: "Ph.D., 2019: 형사재판에서 판결전 재범위험성 정보제공이 유무죄 판단에 미치는 영향 - 사이코패스 선별도구 PCL-R 을 중심으로"
 
@@ -120,14 +120,14 @@ profJang:
   linkedin: "https://www.linkedin.com/in/betty-bukola-ajayi-9033b99a/"
 
 2017Kyoungjae:
-  display_name: "박경재 (KyoungJae, Park)"
+  display_name: "박경재 (Kyoung-Jae, Park)"
   role: alum
   bio: "MSc, 2020 (Expected)"
   image: /img/people/Kyoungjae.jpg
   linkedin: "https://www.linkedin.com/in/kyoungjae-park-759119aa/"
 
 2018minjin:
-  display_name: "박민진 (Min Jin, Park)"
+  display_name: "박민진 (Minjin, Park)"
   role: alum
   bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Minjin-A_Study_on_the_malicious_targeting_of_IoT_devices.pdf</a>"
   image: /img/people/Minjin.jpg
@@ -136,7 +136,7 @@ profJang:
 2018jiyoon:
   display_name: "함지윤 (Jiyoon, Ham)"
   role: alum
-  bio: "MSc, 2019: <a href='/pubs/2019-A_Study_on_Digital_Forensic_Data_Acquisition_Tools.pdf</a>"
+  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Jiyoon-A_Study_on_Digital_Forensic_Data_Acquisition_Tools.pdf</a>"
   image: /img/people/Jiyoon.jpg
   linkedin: https://www.linkedin.com/in/jiyoon-ham-9a41a017a
 
