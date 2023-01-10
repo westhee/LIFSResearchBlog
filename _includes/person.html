@@ -24,8 +24,11 @@ person.display_name %} {% endif %} {% if include.image %}
 		{% endif %} {% if person.youtube %}
 		<a href="{{ person.youtube }}"><span class="fab fa-youtube"></span></a>
 		{% endif %} -->
-		{% if person.email %}
+		<!-- {% if person.email %}
 		<a href="{{ person.email }}"><span class="fab fa-envelope"></span></a> 
+		{% endif %} -->
+		{% if person.email %}
+		<span class="far fa-envelope">{{person.email}}</span>
 		{% endif %}
 		{% if person.course %}
 		<div class="course">{{person.course}}</div>
