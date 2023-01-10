@@ -94,28 +94,28 @@ profJang:
 2019yohannes:
   display_name: "Yohannes Yemane Brhan"
   role: alum
-  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Yohannes-API_Based_Cloud_Data_Acquisition_and_Analysis_from_Smart_Home_IoT_Environments.pdf'>API-based Cloud Data Acquisition and Analysis from Smart Home IoT Devices</a>"
+  bio: "MSc, 2019: <a href='/pubs/brhan_apibasedcloud_2019.pdf'>API-based Cloud Data Acquisition and Analysis from Smart Home IoT Devices</a>"
   image: /img/people/Yohannes.jpg
   linkedin: "https://www.linkedin.com/in/yohannes-yemane-brhan-70433470"
 
 2019addisu:
   display_name: "Birhanu Addisu Afework"
   role: alum
-  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Addisu-Smart_Home_IoT_Forensics.pdf'>Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition</a>"
+  bio: "MSc, 2019: <a href='/pubs/birhanu_smarthome_2019.pdf'>Smart Home IoT Forensics: Study on Data Security and Challenges to Data Acquisition</a>"
   image: /img/people/Addisu.jpg
   linkedin: https://www.linkedin.com/in/addisu-afework-4434831a
 
 2019subong:
   display_name: "장수봉 (Subong, Jang)"
   role: alum
-  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Subong-A_Study_on_Internet_of_Things_Forensics.pdf'>A Study on Internet of Things (IoT) Forensics</a>"
+  bio: "MSc, 2019: <a href='/pubs/jang_studyinternet_2019.pdf'>A Study on Internet of Things (IoT) Forensics</a>"
   image: /img/people/Subong.jpg
   linkedin: https://kr.linkedin.com/in/subong-jang-54779aab
 
 2019betty:
   display_name: "Ajayi Betty Bukola"
   role: alum
-  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Request_Effectiveness.pdf'>A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria</a>"
+  bio: "MSc, 2019: <a href='/pubs/bukola_studymla_2019.pdf'>A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria</a>"
   image: /img/people/Betty.jpg
   linkedin: "https://www.linkedin.com/in/betty-bukola-ajayi-9033b99a/"
 
@@ -129,21 +129,21 @@ profJang:
 2018minjin:
   display_name: "박민진 (Minjin, Park)"
   role: alum
-  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Minjin-A_Study_on_the_malicious_targeting_of_IoT_devices.pdf'>A Study on the malicious targeting of IoT devices</a>"
+  bio: "MSc, 2019: <a href='/pubs/park_studymalicious_2019.pdf'>A Study on the malicious targeting of IoT devices</a>"
   image: /img/people/Minjin.jpg
   linkedin: https://www.linkedin.com/in/min-jin-park-07719917a/
 
 2018jiyoon:
   display_name: "함지윤 (Jiyoon, Ham)"
   role: alum
-  bio: "MSc, 2019: <a href='/pubs/2019-Thesis-MSc-Jiyoon-A_Study_on_Digital_Forensic_Data_Acquisition_Tools.pdf'>A Study on Digital Forensic Data Acquisition Tools</a>"
+  bio: "MSc, 2019: <a href='/pubs/ham_studydigital_2019.pdf'>A Study on Digital Forensic Data Acquisition Tools</a>"
   image: /img/people/Jiyoon.jpg
   linkedin: https://www.linkedin.com/in/jiyoon-ham-9a41a017a
 
 2019sungmi:
   display_name: "박성미 (Sungmi, Park)"
   role: alum
-  bio: "MSc, 2021: <a href='/pubs/2021-Thesis-MSc-Sungmi-Alternative_Hypothesis_Retrieval_Model_for_Crime_Investigation_Analysis_Using_Argument_Mining.pdf'>Alternative Hypothesis Retrieval Model for Crime Investigation Analysis Using Argument Mining</a>"
+  bio: "MSc, 2021: <a href='/pubs/park_alternativehypothesis_2020.pdf'>Alternative Hypothesis Retrieval Model for Crime Investigation Analysis Using Argument Mining</a>"
   image: /img/people/Sungmi.jpg
   linkedin: https://www.linkedin.com/in/sungmi-park-5560b0147
 
