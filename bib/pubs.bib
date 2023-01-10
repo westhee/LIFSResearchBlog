@@ -1,199 +1,69 @@
-@article{ham_FeatureComparison_2019,
- abstract = {Abstract Fundamental processes in digital forensic investigation such as disk imaging were developed when digital investigation was relatively young. As digital forensic processes and procedures matured, www.earticle.net these fundamental tools, that are the pillars of the reset of the data processing and analysis phases of an investigation, largely stayed the same. This work is a study of modern digital forensic imaging software tools. Specifically, we will examine the feature sets of modern digital forensic imaging tools, as well as their development and release cycles to understand patterns of fundamental tool development. Based on this survey, we show the weakness in current digital investigation fundamental software development and maintenance over time. We also provide recommendations on how to improve fundamental tools.},
- author = {Ham, Jiyoon and James, Joshua},
- doi = {10.7236/JIIBC.2019.19.6.15},
- file = {G\:\\내 드라이브\\Zotero\\lifs_publications\\ham_featurecomparison_2019.pdf},
- journal = {The Journal of The Institute of Internet, Broadcasting and Communication},
- keywords = {Digital forensics,Digital forensics software features,Disk Imaging,Forensic Tool Testing,ISO 17025},
- language = {en},
- month = {December},
- number = {6},
- pages = {15--20},
- title = {A {{Feature Comparison}} of {{Modern Digital Forensic Imaging Software}}},
- url = {https://lifs.ac.kr/pubs/ham_FeatureComparison_2019.pdf},
- volume = {19},
- year = {2019}
+@phdthesis{birhanu_smarthome_2019,
+  type = {Masters of Science},
+  title = {Smart Home {{IoT}} Forensics},
+  author = {Birhanu, Addisu Afework},
+  year = {2019},
+  month = jul,
+  pages = {111},
+  url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Addisu-Smart_Home_IoT_Forensics.pdf},
+  abstract = {Smart home Internet of Things (IoT) are becoming the mainstream technologies that are being integrated into today society. Recent cyber-attacks and researches on these devices indicate smart home IoT developers do not design and implement data protection solutions comprehensively in the IoT ecosystem. These security weaknesses have different implications for user privacy, safety and digital forensic investigations. This thesis provides an analysis of data protection methods implemented in smart home IoT devices and how the weaknesses can be applied to digital forensic investigation purposes. In this thesis, we included the analysis of four smart home IoT devices (Sen.se Mother, Naver Clova, SKT Nugu and Xiaomi Smart home) user data protection techniques to identify the vulnerabilities that can be exploited to acquire user data for digital forensic investigation purpose. To achieve the goal, we analyzed data security techniques and cloud data acquisition possibilities for the selected smart home IoT devices. The investigation is conducted using a combination of forensic analysis of companion apps on smartphones, network investigation between the app and cloud, between the device and the cloud and security analysis of cloud APIs used between companion apps and the cloud. From the apps data storage security, we showed that all of the apps do not consider data encryption. As a result, if the databases can be extracted from the smartphone, the stored data can be extracted for forensics purposes. Similarly, except one of the devices' companion app, all the apps do not consider data encryption in the shared preference storage. On the other hand, we identified that some of the devices use one-time session tokens for cloud APIs authorization. Based on the research, we were able to acquire artefacts from smartphones and network investigations without security challenges. Moreover, using those artefacts, we were able to acquire user data from the cloud for three of the devices. While using such kind of vulnerabilities helps digital forensics investigations to acquire user data from smart home IoT ecosystem, they also endanger users' privacy and safety if exploited by hackers.},
+  language = {en},
+  mendeley-groups = {Alum},
+  school = {Hallym University},
+  keywords = {App Data Security,Cloud API Security,Cloud Data,Digital Forensic Investigation,Internet of Things,IoT,IoT Security,Network Forensics,Privacy,Smart Home},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\birhanu_smarthome_2019.pdf}
 }
 
-@inproceedings{lee_StudyElements_2022,
- abstract = {Recently, as intelligent legal services have been provided to the judicial field, the importance of judgments as learning data is increasing.  Among them, criminal facts are similar to investigative data and serve as valuable data for criminal investigations. But due to the subject being omitted or the form of long sentences, it can be difficult to extract constituent requirements and grasp the causal relationship of an event, so a considerable amount of time and manpower is inevitably consumed in analyzing them. Therefore, in this paper, we propose a methodology that can improve the overall understanding of the event flow by simplifying and visually expressing key event extraction by applying entity name recognition and morpheme analysis-based event extraction techniques using pre-trained model to criminal case reconstruction.},
- address = {{Chuncheon, Korea}},
- author = {Lee, Yuna and Park, Sungmi and Park, Roseop},
- booktitle = {{Annual Conference of KIPS}},
- file = {G\:\\내 드라이브\\Zotero\\lifs_publications\\lee_studyelements_2022.pdf},
- keywords = {Crime Domain Text,Crime Investigation,Event extraction,Named Entitiy Recognition,Timeline Visualization},
- language = {ko},
- title = {{A Study on Elements of Crime Facts and Visualizing the Storyline through Named Entity Recognition and Event Extraction}},
- url = {https://lifs.ac.kr/pubs/lee_StudyElements_2022.pdf},
- volume = {29(2)},
- year = {2022}
+@phdthesis{brhan_apibasedcloud_2019,
+  type = {Masters of Science},
+  title = {{{API-Based}} Cloud Data Acquisition and Analysis from Smart Home {{IoT}} Environments},
+  author = {Brhan, Yohannes Yemane},
+  year = {2019},
+  month = jul,
+  pages = {95},
+  url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Yohannes-API_Based_Cloud_Data_Acquisition_and_Analysis_from_Smart_Home_IoT_Environments.pdf},
+  abstract = {The increasing number of IoT devices used in different application domains is changing the digital forensics landscape by providing a variety of potential data and data sources. However, Current forensic tools and techniques have been slow to adapt to new challenges and demands of collecting and analyzing IoT environment artifacts. Like the traditional forensics, data acquisition is possible from the client-side, network or cloud service in the IoT ecosystem. However, unlike computer forensics, IoT forensics does not normally contain much data on the client-side; since the device's storage is usually limited, the client devices may not save much data except some cache and configuration files. In this case, their cloud service could normally be a great source of potential evidence. Investigators access cloud service data in different ways. They can either attempt to access the cloud service data themselves by authenticating as a user or collaborate with the Cloud Service Provider to collect data. In this thesis, we studied the acquisition and analysis of cloud data from IoT environments to addresses the limitation of client-side acquisition. Specifically, we introduce an acquisition procedure for IoT-related cloud services using Application Programming Interfaces (APIs). Some IoT devices and its cloud services provide APIs for programmers and user while others not. We use both official APIs given by cloud providers and unofficial APIs in which we used different research methods to uncover it. There are previous works that showed and used these official and unofficial APIs for data acquisition purposes. However, every IoT devices and cloud providers have their own API type and structure. Hence, we used the three most popular IoT-related cloud providers - Amazon Alexa, Google Home and SmartThings - to show how to use APIs to acquire cloud-native artifacts from their respective backend cloud service. Using the APIs, we can obtain cloud-centric data from each selected case study cloud services. User command history, user activities, audio files and other additional data obtained from Amazon Alexa cloud. It is also possible to download user activity data, including command issued to the device from Google cloud related to Google Home. From SmartThings cloud, we able to download information, including each device events or action performed on the sensors, user-created locations, Hubs, account detail, rooms information, etc. To help investigators in automating the acquisition process, we designed and developed a python application that connects and retrieve every possible information stored in their respective cloud services. The application is a user interface-based tool with an option to select different filtration parameters, authentication option, data parsing. The tool also provides logging every action and documenting all the downloaded file metadata, including the calculated hash. Further, to evaluate the completeness of the acquired cloud data, we generated data in a controlled environment with specific set of actions and scripts, then compare the API-based acquired data with the generated data.},
+  language = {en},
+  mendeley-groups = {Alum},
+  school = {Hallym University},
+  keywords = {Amazon Alexa forensics,API-based cloud data acquisition,cloud acquisition tool,Cloud forensics,Google Assistant forensics,IoT forensics,SmartThings forensics},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\brhan_apibasedcloud_2019.pdf}
 }
 
-@article{nemayire_2018Samsung_2019,
- abstract = {Internet of Things (IoT) has brought a fair share of challenges for Digital forensics and Law Enforcement Agencies in carrying out their investigative duties. The authors of this paper studied the current trends and noticed an increase in crimes that require digital evidence from Smart TVs. Smart TVs are not only a probable source for digital evidence, but have become an integral part in most digital investigations, since they have the ability to connect to the Internet, store digital materials and are able to be synced with various user cloud accounts. This paper marks out the changes in results when using past well-known acquisition methods on the recent Smart TV device and proposes a general investigation procedure model for data acquisition and probable digital evidence for Smart TVs using Chip-Off methods. Regarding the lack of generally applicable methods for Smart TV forensics, this work for a new model will contribute to collective efforts as a whole.},
- author = {Nemayire, Terrence and Ogbole, Alex and Park, Sungmi and Kim, Keecheol and Jeong, Yeonseok and Jang, Yunsik},
- file = {G\:\\내 드라이브\\Zotero\\lifs_publications\\nemayire_2018samsung_2019.pdf},
- journal = {Journal of Digital Forensics},
- keywords = {IoT Analysis,Samsung TV,Smart TV,Tizen,VDFS},
- language = {en},
- number = {3},
- title = {A 2018 {{Samsung Smart}} {{TV Data Acquisition Method Analysis}}},
- url = {https://lifs.ac.kr/pubs/nemayire_2018Samsung_2019.pdf},
- volume = {13},
- year = {2019}
+@phdthesis{bukola_studymla_2019,
+  type = {Masters of Science},
+  title = {A Study on {{MLA}} Request Effectiveness on Cybercrime Investigation in Nigeria},
+  author = {Bukola, Ajayi Betty},
+  year = {2019},
+  month = jul,
+  pages = {102},
+  url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Request_Effectiveness.pdf},
+  abstract = {Cybercrime is a type of transnational crime which investigation is rarely straightforward because of the support it gets from the ever-developing technology. Most cybercrime somehow involves more than one country, and to come about a successful investigation, international cooperation between law enforcement agencies of the relevant countries is essential. MLA between countries is supported usually by international cooperation. INTERPOL is a communication route between law enforcement agencies in different countries, and international treaties like the Budapest Convention, UNODC and some other regional cooperation like ECOWAS bring countries together to support harmonized laws and guidelines to request for help from different countries. With these in place, MLA appears not to be very effective, and ineffectiveness of this formal cooperation is due to some challenges encountered with received requests and making requests to other countries. This research addressed these challenges encountered with MLA requests alongside how knowledgeable law enforcement officers are regarding MLA matters. A survey was conducted to obtain law enforcement officers' take on the subject matter. The result obtained was then used to determine the relationship between officers' knowledge of MLA request (independent variable) and the response time of MLA requests, challenges encountered and the effectiveness of MLA (dependent variables). The responses received were divided into two groups; the Nigerian respondents [40\% (21)] and Other countries respondents [60\% (31)], the two groups were analyzed separately. The results showed that 38.1\% of Nigerian respondents and 45.1\% of other countries respondents said their legal provision(s) in terms of requesting information from other countries are moderately effective. MLAT and Interpol were found to be the main channel for asking for assistance from countries. Bureaucracy was found to be one of the noted challenges with sending an MLA request for Nigerian respondents, and a delayed response was the significant challenge with making a request to Nigeria for respondents from other countries. Insufficient information was the noted challenge faced when a request is received from another country for all the respondents. The data revealed that it took 6-12 months on average to process an MLA request and that most of the respondents have an average knowledge on how to make an MLA request. The correlation analysis done between variables in the study revealed that; * The more knowledgeable law enforcement agents are with making requests, the fewer challenges they will encounter with received MLA requests from other countries. * Increased knowledge of how to make an MLA request reduces the length of time it takes to respond to an MLA request. * Knowledge of how to make MLA requests does not affect with regards to the effectiveness of MLA on cybercrime investigations. Policy recommendations that can increase the effectiveness of mutual legal assistance were also explicitly discussed, how they could be carried out, and their advantages and disadvantages were also included.},
+  language = {en},
+  mendeley-groups = {Alum},
+  school = {Hallym University},
+  keywords = {Cybercrime,Cybercrime Investigations,Enforcement.,Law,MLA,MLAT,Transnational Crime},
+  file = {C\:\\Users\\user\\Zotero\\storage\\TEPXW6SJ\\Bukola - 2019 - A study on MLA request effectiveness on cybercrime.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\bukola_studymla_2019.pdf}
 }
 
-@article{park_ComparativeStudy_2018,
- abstract = {Many data breaches happened due to poor implementation or complete absence of security controls in private companies as well as in government organizations. Many countries work on improvement of security requirements and implementing them in their legislation. However, most of the security frameworks are reactive and do not address relevant threats. The existing research suggests Digital Forensic Readiness as proactive measures, but there is only one example of its implementation as a policy. Our work surveys the current state of data protection legislation in the selected countries and their initiatives for the implementation of Digital Forensic Readiness. Then we discuss if Digital Forensic Readiness as a mandatory requirement can improve data protection state in both public and private sectors, evaluating possible challenges. We contribute suggestions for the adoption of Digital Forensic Readiness as a mandatory requirement for private companies and government organizations.},
- author = {Park, Sungmi and Akatyev, Nikolay and Jang, Yunsik and Hwang, Jisoo and Kim, Donghyun and Yu, Woonseon and Shin, Hyunwoo and Han, Changhee and Kim, Jonghyun},
- doi = {10.1016/j.diin.2018.01.012},
- file = {G\:\\내 드라이브\\Zotero\\lifs_publications\\park_comparativestudy_2018.pdf},
- issn = {17422876},
- journal = {Digital Investigation},
- keywords = {Data protection legislation,Digital forensic investigation,Digital forensic readiness,Incident Response,Minimum Security Standards},
- language = {en},
- month = {March},
- pages = {S93-S100},
- title = {A Comparative Study on Data Protection Legislations and Government Standards to Implement {{Digital Forensic Readiness}} as Mandatory Requirement},
- url = {https://lifs.ac.kr/pubs/park_ComparativeStudy_2018.pdf},
- volume = {24},
- year = {2018}
+@article{ham_featurecomparison_2019,
+  title = {A {{Feature Comparison}} of {{Modern Digital Forensic Imaging Software}}},
+  author = {Ham, Jiyoon and James, Joshua},
+  year = {2019},
+  month = dec,
+  journal = {The Journal of The Institute of Internet, Broadcasting and Communication},
+  volume = {19},
+  number = {6},
+  pages = {15--20},
+  doi = {10.7236/JIIBC.2019.19.6.15},
+  abstract = {Abstract Fundamental processes in digital forensic investigation such as disk imaging were developed when digital investigation was relatively young. As digital forensic processes and procedures matured, www.earticle.net these fundamental tools, that are the pillars of the reset of the data processing and analysis phases of an investigation, largely stayed the same. This work is a study of modern digital forensic imaging software tools. Specifically, we will examine the feature sets of modern digital forensic imaging tools, as well as their development and release cycles to understand patterns of fundamental tool development. Based on this survey, we show the weakness in current digital investigation fundamental software development and maintenance over time. We also provide recommendations on how to improve fundamental tools.},
+  language = {en},
+  keywords = {Digital forensics,Digital forensics software features,Disk Imaging,Forensic Tool Testing,ISO 17025},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\ham_featurecomparison_2019.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\ham_featurecomparison_22.pdf}
 }
 
-@article{park_OnlineAccess_2021,
- abstract = {Over the past few years, the government has increased investment in artificial intelligence and big data by promoting the complete digitization of public agencies. This digitization along with digital transformation has brought more attention to accessing court documents particularly the judgments and opinions. It has been announced that as of 2023, all civil cases will be available to the general public in machine-readable format. However, there is no special plan announced for the criminal judgments and lower courts'decisions which had always been hard to obtain. Acquiring lower courts decisions is crucial to building AI-powered criminal law systems, as those decisions focus on disputed facts. Compared to other legal search systems in the private sector and other countries, Korean`Online Access to Judgment' holds a relatively extensive database. However, the usage has been very restricted due to technical limitations and not providing machine-readable file has made it difficult to use this court judgment data to train artificial intelligence. This study analyzes the systematic structure of the online access to judgment service to see if it is feasible to produce data in machinereadable format. And the paper compares legal database of the United States and Germany to show what aspects of Korean system needs to be improved. By suggesting how the current technical limitations can be fixed to accommodate a better user experience and to increase user convenience, we hope to open up opportunities for legal AI service in Korea.},
- author = {Park, Sungmi and Lee, Yuna and Choi, Ari and Ahn, Jung Mihn Jamie},
- file = {G\:\\내 드라이브\\Zotero\\lifs_publications\\park_onlineaccess_2021.pdf},
- journal = {Journal of Police and Law},
- keywords = {Artificial Intelligence,Court records,Legal Tech,Online Access to Written Judgments,Text mining},
- language = {ko},
- number = {3},
- title = {{The 'Online Access to Judgment' Service in Korea: A Study on Improving Judgment Data for the Development of Legal AI(Artificial Intelligence)}},
- url = {https://lifs.ac.kr/pubs/park_OnlineAccess_2021.pdf},
- volume = {19},
- year = {2021}
-}
-
-@article{park_PreliminaryStudy_2019,
- abstract = {Many artificial intelligence (AI) speakers have recently come to market. Beginning with Amazon Echo, many companies producing their own speaker technologies. Due to the limitations of technology, most speakers have similar functions, but the way of handling the data of each speaker is different. In the case of Amazon echo, the API of the cloud is open for any developers to develop their API. The Amazon Echo has been around for a while, and much research has been done on it. However, not much research has been done on Google Home Mini analysis for digital investigations. In this paper, we will conduct some initial research on the data storing and security methods of Google Home Mini.},
- author = {Park, Minjin and James, Joshua I.},
- file = {G\:\\내 드라이브\\Zotero\\lifs_publications\\park_preliminarystudy_2019.pdf},
- journal = {Journal of Digital Forensics},
- keywords = {Digital forensic investigation,Google Home Mini,IoT,IoT Analysis,Smart Speaker},
- language = {en},
- number = {3},
- title = {Preliminary {{Study}} of a {{Google Home Mini}}},
- url = {https://lifs.ac.kr/pubs/park_PreliminaryStudy_2019.pdf},
- volume = {13},
- year = {2019}
-}
-
-@article{park_StudyImplementing_2020,
- abstract = {With the recent revision of the Criminal Procedure Act and the Prosecutors' Office Act, the Korean police have been able to conduct responsible investigations, such as exercising their investigative powers as the primary investigative agency and the right to end the investigation when there is no criminal charge. However, if a suspect or a victim challenges the validity of the investigation, the case is sent to the prosecution. In such cases, the objectivity of the investigation is directly relevant to the credibility of the investigation. Also, as the admissibility of the prosecution's suspect interrogation records as evidence became limited, lawyers are likely to attack logical vulnerabilities in the argument structure of the investigation results at the trial. Therefore, the police must develop a method to secure the validity of the investigation results objectively. This study systematically analyzes the reasoning methods used in criminal investigations and their issues to proactively respond to changes in the environment of criminal proceedings. It also suggests the necessity of introducing a new paradigm that divides the police investigation process into Crime Reconstruction and Crime Verification. Further, the study introduces visualization as a verification method to improve the crime verification process before forwarding the case to the prosecution. Proving one's innocence or guilt in court relies on the ability of the general judge or civil judge to follow the logic and evidence presented. Therefore, it is necessary to present the results of crime reasoning in a way the general public can understand easily, and one of the most effective methods is to visualize the investigation process. Investigation reasoning and verification based on the visualization verification model can prevent or prepare for counterattacks or logical attacks by lawyers, improving the overall police investigation, and ensure the court fully recognizes that police investigation results. Also, event verification through visualization can be an effective means of preparing for the future testimony of investigators. A systematic and standardized verification system for investigation results can develop to an AI-based investigation verification program that can verify all events in the future.},
- author = {Park, Roseop and Kim, Jion and Kim, Changsik and Park, Sungmi},
- doi = {10.22826/JPL.2020.18.2.143},
- file = {G\:\\내 드라이브\\Zotero\\lifs_publications\\park_studyimplementing_2020.pdf},
- journal = {Journal of Police and Law},
- keywords = {Abduct Reasoning,Artificial Intelligence,Crime Reconstruction,Crime Verification,Visualization},
- language = {ko},
- month = {June},
- number = {2},
- pages = {143--175},
- title = {{A Study on Implementing a Criminal Investigation Verification Model Using Visualization}},
- url = {https://lifs.ac.kr/pubs/park_StudyImplementing_2020.pdf},
- volume = {18},
- year = {2020}
-}
-
-@article{park_StudyUtilization_2022,
- abstract = {As the interest in big data and artificial intelligence(AI) grows, the field of "Smart Policing" has received increased attention. However, the information collected during the criminal justice process inevitably contains a lot of personal information, and thus its usage for machine learning datasets is limited. The Korean Personal Data Protection Laws have recently adopted major amendments to free up the use of pseudonymized data and ease the way for the expansion of Big Data-driven services. Contrary to this, the strict privacy protection compliance by the police remains the same - causing passive usage of the Criminal Justice Information. This study seeks ways to utilize data on the Korea Information System of Criminal Justice Services(KICS), an electronic work system that the police and three other criminal agencies jointly use to perform investigations. The National Police Agency is implementing various RandD tasks to converge high-tech and public security sites. However, it is having difficulties providing this usable Criminal Justice Information due to the strict interpretation and application of vague legal provisions. By examining the Criminal Justice Information produced during the criminal justice process and the current status of domestic and overseas use of criminal justice information, this study finds and suggests alternative solutions such as data classification, data-oriented personal information policy, and ways to establish a privacy-compliant environment as countermeasures to pursue both privacy protection and innovative policing development.},
- author = {Park, Sungmi and Ahn, Jung Mihn Jamie},
- file = {G\:\\내 드라이브\\Zotero\\lifs_publications\\park_studyutilization_2022.pdf},
- issn = {2466-1236},
- journal = {Criminal Investigation Studies},
- keywords = {criminal justice information,de-identification,personal information,police data,smart policing},
- language = {ko},
- number = {2},
- title = {{A Study on Utilization of Criminal Justice Information for Smart Policing with a Focus on Personal Information Protection}},
- url = {https://lifs.ac.kr/pubs/park_StudyUtilization_2022.pdf},
- volume = {8},
- year = {2022}
-}
-
-@mastersthesis{won_ReasoningVisualization_2018,
- abstract = {A judge and an investigator use reasoning to investigate a criminal fact in a criminal case. However, reasoning always contains errors due to limitation of their cognitive abilities and restrictions in working. Purpose of this study is to detect an error of reasoning occurring in fact finding of a criminal fact and to suggest a visualization model to find a reasonable fact discovery. This study aimed to apply reasoning visualization model to an actual case and then, to review whether it was possible for a visualization model to clearly reveal reasoning part of fact judgment to detect an error. The case used in this study was a murder case which actually happened as follows; the defendant (husband) came back home and found a victim (wife) who lay in a bathroom with an unusual position, and the defendant reported it to the police. The Issues of this case is cause and time of death. Cause of death was the issue whether the victim was dead by manual strangulation or by positional asphyxia; and, time of death was the issue whether the victim was dead before the defendant went to the office. Issues on the cause of death used in this study were 10 while issues on the time of death were 3. Considering possible manual strangulation, quarrel, and others, the court made a comprehensive judgment on the cause of death while it made a comprehensive presumption by taking into circumstantial evidence, trustworthiness of testimony of the defendant, and others. This study summarized evidence and reasoning part specified in the written judgment (first trial) as a theme of one sentence, and it visually expressed the theme by applying the model of this study. And - 89 it closely reviewed reasoning and evidence used in fact finding. According to analysis of written judgment, it seemed that 9 out of 10 causes of death adopted by the court as evidence of guilt had room for doubt about judgment of guilt. Furthermore, with respect to 3 evidences among 9, the court dismissed defendant's claim through common sense or simple claim but acknowledged them as evidence of guilt. The court dismissed claims of guilt regarding 2 issues of death time issues pursuant to objective reasons; it acknowledged 1 issue of guilty claim but it is thought that there still remains room of doubt. Result of this study implies that visualization model of the study clearly expresses reasoning used in fact finding of fact finder so that it can help detection of reasoning error. Finally, it discussed subsequent researches on meaning and limitations of this study and development of visualization model.},
- author = {Won, Gwangjae},
- file = {G\:\\내 드라이브\\Zotero\\lifs_publications\\won_reasoningvisualization_2018.pdf},
- keywords = {Crime Reconstruction,Fact finding,Reasoning,Reasoning error,Visualization},
- language = {ko},
- school = {Hallym University}
- title = {{The Reasoning Visualization Model for Rational Crime Analysis and Fact Finding - A Study on Error Detection of Reasoning in Fact Finding}},
- url = {https://lifs.ac.kr/pubs/won_ReasoningVisualization_2018.pdf},
- year = {2018}
-}
-
-@mastersthesis{Birhanu2019,
-abstract = {Smart home Internet of Things (IoT) are becoming the mainstream technologies that are being integrated into today society. Recent cyber-attacks and researches on these devices indicate smart home IoT developers do not design and implement data protection solutions comprehensively in the IoT ecosystem. These security weaknesses have different implications for user privacy, safety and digital forensic investigations. This thesis provides an analysis of data protection methods implemented in smart home IoT devices and how the weaknesses can be applied to digital forensic investigation purposes. In this thesis, we included the analysis of four smart home IoT devices (Sen.se Mother, Naver Clova, SKT Nugu and Xiaomi Smart home) user data protection techniques to identify the vulnerabilities that can be exploited to acquire user data for digital forensic investigation purpose. To achieve the goal, we analyzed data security techniques and cloud data acquisition possibilities for the selected smart home IoT devices. The investigation is conducted using a combination of forensic analysis of companion apps on smartphones, network investigation between the app and cloud, between the device and the cloud and security analysis of cloud APIs used between companion apps and the cloud. From the apps data storage security, we showed that all of the apps do not consider data encryption. As a result, if the databases can be extracted from the smartphone, the stored data can be extracted for forensics purposes. Similarly, except one of the devices' companion app, all the apps do not consider data encryption in the shared preference storage. On the other hand, we identified that some of the devices use one-time session tokens for cloud APIs authorization. Based on the research, we were able to acquire artefacts from smartphones and network investigations without security challenges. Moreover, using those artefacts, we were able to acquire user data from the cloud for three of the devices. While using such kind of vulnerabilities helps digital forensics investigations to acquire user data from smart home IoT ecosystem, they also endanger users' privacy and safety if exploited by hackers.},
-language = {en},
-author = {Birhanu, Addisu Afework},
-keywords = {App Data Security,Cloud API Security,Cloud Data,Digital Forensic Investigation,Internet of Things,IoT,IoT Security,Network Forensics,Privacy,Smart Home},
-mendeley-groups = {Alum},
-pages = {111},
-school = {Hallym University},
-title = {{Smart Home IoT Forensics}},
-type = {Masters of Science},
-url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Addisu-Smart_Home_IoT_Forensics.pdf},
-year = {2019},
-month = {Jul.}
-}
-
-@mastersthesis{Jang2019,
-abstract = {There are previous studies about digital forensics in terms of the Internet of Things (IoT) environment, and cases using IoT device data for crime investigations. However, the acquisition and analysis of data in the IoT environment are still a challenge for digital forensic investigators. In addition, there are no accepted practical and comprehensive digital forensic procedures for investigators and law enforcement agencies to perform digital forensic investigations on IoT-based environments. This work proposes a new model for IoT Forensic specifically for the Data Acquisition procedure from the IoT ecosystem. The model is tested using experiments conducted on IoT devices. The experiment includes the research aspect of investigating the actual IoT devices in order to provide a complete picture of the model. The experiment was divided into Cloud, Network, Client (PC, Mobile) and Device/hub side for each IoT device. The results from the experiments showed that data can be extracted from each category of cloud, network, client, and device, and that the data should be collected as soon as possible with the related devices and collected as much as possible. This is because the data available in the device and in the specified categories can vary depending on the storage and processing capabilities. For example, the device side may have data that the cloud side does not have. The data can be key evidence for a crime scene. And the cloud side includes the more complete update and historical data, while the client and device side include cache data that may be incomplete, outdated, or partially overwritten. Through these test results, this paper also presents the IoT investigation procedure. In order to proceed with data collection from all aspects of IoT ecosystem, it is necessary to analyze data obtained from the client side. Information such as device configuration information and connected devices can be obtained by acquiring and analyzing them. By checking the information of the other connected IoT devices, the investigation can go through the identification step again. The proposed procedure will serve as a guideline from where to start to investigate IoT devices and what the next step is. It will also facilitate investigators and researchers in the digital forensics field to facilitate the data acquisition process and develop data collection tools. This procedure should be tested and verified against a variety of IoT devices until a comprehensive procedure for IoT data acquisition.},
-language = {en},
-author = {Jang, Subong},
-keywords = {Client-side Acquisition,Cloud Acquisition,Device Acquisition,Internet of things forensic,IoT Forensic,IoT data acquisition,Network Acquisition},
-mendeley-groups = {Alum},
-pages = {92},
-school = {Hallym University},
-title = {{A Study on Internet of Things (IoT) Forensic}},
-type = {Mastes of Science},
-url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Subong-A_Study_on_Internet_of_Things_Forensics.pdf},
-year = {2019},
-month = {Jul.}
-}
-
-@mastersthesis{Brhan2019,
-abstract = {The increasing number of IoT devices used in different application domains is changing the digital forensics landscape by providing a variety of potential data and data sources. However, Current forensic tools and techniques have been slow to adapt to new challenges and demands of collecting and analyzing IoT environment artifacts. Like the traditional forensics, data acquisition is possible from the client-side, network or cloud service in the IoT ecosystem. However, unlike computer forensics, IoT forensics does not normally contain much data on the client-side; since the device's storage is usually limited, the client devices may not save much data except some cache and configuration files. In this case, their cloud service could normally be a great source of potential evidence. Investigators access cloud service data in different ways. They can either attempt to access the cloud service data themselves by authenticating as a user or collaborate with the Cloud Service Provider to collect data. In this thesis, we studied the acquisition and analysis of cloud data from IoT environments to addresses the limitation of client-side acquisition. Specifically, we introduce an acquisition procedure for IoT-related cloud services using Application Programming Interfaces (APIs). Some IoT devices and its cloud services provide APIs for programmers and user while others not. We use both official APIs given by cloud providers and unofficial APIs in which we used different research methods to uncover it. There are previous works that showed and used these official and unofficial APIs for data acquisition purposes. However, every IoT devices and cloud providers have their own API type and structure. Hence, we used the three most popular IoT-related cloud providers - Amazon Alexa, Google Home and SmartThings - to show how to use APIs to acquire cloud-native artifacts from their respective backend cloud service. Using the APIs, we can obtain cloud-centric data from each selected case study cloud services. User command history, user activities, audio files and other additional data obtained from Amazon Alexa cloud. It is also possible to download user activity data, including command issued to the device from Google cloud related to Google Home. From SmartThings cloud, we able to download information, including each device events or action performed on the sensors, user-created locations, Hubs, account detail, rooms information, etc. To help investigators in automating the acquisition process, we designed and developed a python application that connects and retrieve every possible information stored in their respective cloud services. The application is a user interface-based tool with an option to select different filtration parameters, authentication option, data parsing. The tool also provides logging every action and documenting all the downloaded file metadata, including the calculated hash. Further, to evaluate the completeness of the acquired cloud data, we generated data in a controlled environment with specific set of actions and scripts, then compare the API-based acquired data with the generated data.},
-language = {en},
-author = {Brhan, Yohannes Yemane},
-keywords = {API-based cloud data acquisition,Amazon Alexa forensics,Cloud forensics,Google Assistant forensics,IoT forensics,SmartThings forensics,cloud acquisition tool},
-mendeley-groups = {Alum},
-pages = {95},
-school = {Hallym University},
-title = {{API-Based Cloud Data Acquisition and Analysis from Smart Home IoT Environments}},
-type = {Masters of Science},
-url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Yohannes-API_Based_Cloud_Data_Acquisition_and_Analysis_from_Smart_Home_IoT_Environments.pdf},
-year = {2019},
-month = {Jul.}
-}
-
-@mastersthesis{Bukola2019,
-abstract = {Cybercrime is a type of transnational crime which investigation is rarely straightforward because of the support it gets from the ever-developing technology. Most cybercrime somehow involves more than one country, and to come about a successful investigation, international cooperation between law enforcement agencies of the relevant countries is essential. MLA between countries is supported usually by international cooperation. INTERPOL is a communication route between law enforcement agencies in different countries, and international treaties like the Budapest Convention, UNODC and some other regional cooperation like ECOWAS bring countries together to support harmonized laws and guidelines to request for help from different countries. With these in place, MLA appears not to be very effective, and ineffectiveness of this formal cooperation is due to some challenges encountered with received requests and making requests to other countries. This research addressed these challenges encountered with MLA requests alongside how knowledgeable law enforcement officers are regarding MLA matters. A survey was conducted to obtain law enforcement officers' take on the subject matter. The result obtained was then used to determine the relationship between officers' knowledge of MLA request (independent variable) and the response time of MLA requests, challenges encountered and the effectiveness of MLA (dependent variables). The responses received were divided into two groups; the Nigerian respondents [40{\%} (21)] and Other countries respondents [60{\%} (31)], the two groups were analyzed separately. The results showed that 38.1{\%} of Nigerian respondents and 45.1{\%} of other countries respondents said their legal provision(s) in terms of requesting information from other countries are moderately effective. MLAT and Interpol were found to be the main channel for asking for assistance from countries. Bureaucracy was found to be one of the noted challenges with sending an MLA request for Nigerian respondents, and a delayed response was the significant challenge with making a request to Nigeria for respondents from other countries. Insufficient information was the noted challenge faced when a request is received from another country for all the respondents. The data revealed that it took 6-12 months on average to process an MLA request and that most of the respondents have an average knowledge on how to make an MLA request. The correlation analysis done between variables in the study revealed that; * The more knowledgeable law enforcement agents are with making requests, the fewer challenges they will encounter with received MLA requests from other countries. * Increased knowledge of how to make an MLA request reduces the length of time it takes to respond to an MLA request. * Knowledge of how to make MLA requests does not affect with regards to the effectiveness of MLA on cybercrime investigations. Policy recommendations that can increase the effectiveness of mutual legal assistance were also explicitly discussed, how they could be carried out, and their advantages and disadvantages were also included.},
-language = {en},
-author = {Bukola, Ajayi Betty},
-keywords = {Cybercrime,Cybercrime Investigations,Law,MLA,MLAT,Transnational Crime,Enforcement.},
-mendeley-groups = {Alum},
-pages = {102},
-school = {Hallym University},
-title = {{A Study on MLA Request Effectiveness on Cybercrime Investigation in Nigeria}},
-type = {Masters of Science},
-url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Betty-A_Study_on_MLA_Request_Effectiveness.pdf},
-year = {2019},
-month = {Jul.}
-}
-
-@mastersthesis{ham_StudyDigitalForensic_2019,
-  title = {{A Study on Digital Forensic Data Acquisition Tools}},
+@phdthesis{ham_studydigital_2019,
+  title = {A Study on Digital Forensic Data Acquisition Tools},
   author = {Ham, Ji Yoon},
   year = {2019},
   address = {{Chuncheon}},
@@ -201,11 +71,56 @@ month = {Jul.}
   abstract = {Digital forensic Imaging is vital in digital forensic investigation process. As time changes, the number of digital devices increase in the forensic imaging filed and the spec of digital devices gets advance. However, the imaging methods and procedure have largely stayed the same. The most hard and important point of improving the digital forensic acquisition tool is that it should be fast and forensically sound. Moreover, it should supportthe features that other forensic acquisition on market. While maintain this point, this paper will develop and improve the digital forensic tool by adding more features through survey.},
   language = {en},
   school = {Hallym University},
-  keywords = {Disk Imaging,Forensic Disk Imaging,Imaging Features}
+  keywords = {Disk Imaging,Forensic Disk Imaging,Imaging Features},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\ham_studydigital_2019.pdf}
 }
 
-@mastersthesis{park_AlternativeHypothesisRetrieval_2020,
-  title = {{Alternative Hypothesis Retrieval Model for Crime Investigation Analysis Using Argument Mining}},
+@phdthesis{jang_studyinternet_2019,
+  type = {Mastes of Science},
+  title = {A Study on Internet of Things ({{IoT}}) Forensic},
+  author = {Jang, Subong},
+  year = {2019},
+  month = jul,
+  pages = {92},
+  url = {https://lifs.hallym.ac.kr/pubs/2019-Thesis-MSc-Subong-A_Study_on_Internet_of_Things_Forensics.pdf},
+  abstract = {There are previous studies about digital forensics in terms of the Internet of Things (IoT) environment, and cases using IoT device data for crime investigations. However, the acquisition and analysis of data in the IoT environment are still a challenge for digital forensic investigators. In addition, there are no accepted practical and comprehensive digital forensic procedures for investigators and law enforcement agencies to perform digital forensic investigations on IoT-based environments. This work proposes a new model for IoT Forensic specifically for the Data Acquisition procedure from the IoT ecosystem. The model is tested using experiments conducted on IoT devices. The experiment includes the research aspect of investigating the actual IoT devices in order to provide a complete picture of the model. The experiment was divided into Cloud, Network, Client (PC, Mobile) and Device/hub side for each IoT device. The results from the experiments showed that data can be extracted from each category of cloud, network, client, and device, and that the data should be collected as soon as possible with the related devices and collected as much as possible. This is because the data available in the device and in the specified categories can vary depending on the storage and processing capabilities. For example, the device side may have data that the cloud side does not have. The data can be key evidence for a crime scene. And the cloud side includes the more complete update and historical data, while the client and device side include cache data that may be incomplete, outdated, or partially overwritten. Through these test results, this paper also presents the IoT investigation procedure. In order to proceed with data collection from all aspects of IoT ecosystem, it is necessary to analyze data obtained from the client side. Information such as device configuration information and connected devices can be obtained by acquiring and analyzing them. By checking the information of the other connected IoT devices, the investigation can go through the identification step again. The proposed procedure will serve as a guideline from where to start to investigate IoT devices and what the next step is. It will also facilitate investigators and researchers in the digital forensics field to facilitate the data acquisition process and develop data collection tools. This procedure should be tested and verified against a variety of IoT devices until a comprehensive procedure for IoT data acquisition.},
+  language = {en},
+  mendeley-groups = {Alum},
+  school = {Hallym University},
+  keywords = {Client-side Acquisition,Cloud Acquisition,Device Acquisition,Internet of things forensic,IoT data acquisition,IoT Forensic,Network Acquisition},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\jang_studyinternet_2019.pdf}
+}
+
+@inproceedings{lee_studyelements_2022,
+  title = {{A Study on Elements of Crime Facts and Visualizing the Storyline through Named Entity Recognition and Event Extraction}},
+  booktitle = {{Annual Conference of KIPS}},
+  author = {Lee, Yuna and Park, Sungmi and Park, Roseop},
+  year = {2022},
+  volume = {29(2)},
+  address = {{Chuncheon, Korea}},
+  url = {https://lifs.ac.kr/pubs/lee_StudyElements_2022.pdf},
+  abstract = {Recently, as intelligent legal services have been provided to the judicial field, the importance of judgments as learning data is increasing. Among them, criminal facts are similar to investigative data and serve as valuable data for criminal investigations. But due to the subject being omitted or the form of long sentences, it can be difficult to extract constituent requirements and grasp the causal relationship of an event, so a considerable amount of time and manpower is inevitably consumed in analyzing them. Therefore, in this paper, we propose a methodology that can improve the overall understanding of the event flow by simplifying and visually expressing key event extraction by applying entity name recognition and morpheme analysis-based event extraction techniques using pre-trained model to criminal case reconstruction.},
+  language = {ko},
+  keywords = {⛔ No DOI found,Crime Domain Text,Crime Investigation,Event extraction,Named Entitiy Recognition,Timeline Visualization},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\lee_studyelements_2022.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\lee_studyelements_22.pdf}
+}
+
+@article{nemayire_2018samsung_2019,
+  title = {A 2018 {{Samsung Smart TV Data Acquisition Method Analysis}}},
+  author = {Nemayire, Terrence and Ogbole, Alex and Park, Sungmi and Kim, Keecheol and Jeong, Yeonseok and Jang, Yunsik},
+  year = {2019},
+  journal = {Journal of Digital Forensics},
+  volume = {13},
+  number = {3},
+  url = {https://lifs.ac.kr/pubs/nemayire_2018Samsung_2019.pdf},
+  abstract = {Internet of Things (IoT) has brought a fair share of challenges for Digital forensics and Law Enforcement Agencies in carrying out their investigative duties. The authors of this paper studied the current trends and noticed an increase in crimes that require digital evidence from Smart TVs. Smart TVs are not only a probable source for digital evidence, but have become an integral part in most digital investigations, since they have the ability to connect to the Internet, store digital materials and are able to be synced with various user cloud accounts. This paper marks out the changes in results when using past well-known acquisition methods on the recent Smart TV device and proposes a general investigation procedure model for data acquisition and probable digital evidence for Smart TVs using Chip-Off methods. Regarding the lack of generally applicable methods for Smart TV forensics, this work for a new model will contribute to collective efforts as a whole.},
+  language = {en},
+  keywords = {⛔ No DOI found,IoT Analysis,Samsung TV,Smart TV,Tizen,VDFS},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\nemayire_2018samsung_2019.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\nemayire_2018samsung_22.pdf}
+}
+
+@phdthesis{park_alternativehypothesis_2020,
+  title = {Alternative Hypothesis Retrieval Model for Crime Investigation Analysis Using Argument Mining},
   author = {Park, Sungmi},
   year = {2020},
   address = {{Chuncheon}},
@@ -213,11 +128,72 @@ month = {Jul.}
   abstract = {The Korean National Police became authorized to perform independent investigations due to the revision of the Korean Criminal Procedure Act in 2020. As a result, unprecedented importance was placed on the review process of cases investigated by police. However, existing case analysis support tools do not focus on logical verification, tending instead to focus on collecting and analyzing evidence. This fundamental gap in the review and analysis of cases necessitates a support system for argument analysis. The purpose of this study is to (1) automatically extract and classify elements of arguments found in related case documents, (2) group these elements, and (3) retrieve potential alternative hypotheses from a repository of these elements. Argument[ation] Mining is defined as a technology that identifies arguments and evidence and analyzes arguments' structure. To our knowledge, there is no appropriate corpus for argumentation mining available in Korean. We have collected 73 Korean first instance criminal cases, which we analyzed using a modified Toulmin model. We have selected features based on previous research in argument mining to classify the elements of arguments, especially for the legal domain. However, instead of the usual two- to three types of arguments (premise, claim, the main claim), we have attempted to classify the sentences into six types of arguments based on the modified Toulmin model (datum, warrant, backing, claim, rebuttal and rebuttal support). We have used K-means and Fuzzy c-means clustering algorithms to group the argumentative sentences. K-means is a popular clustering method for documents, while a previous research clustering legal arguments proposed fuzzy c-means. Our alternative hypothesis retrieval model assumes that a new document has been analyzed using the technology stated above. Instead of just finding the most similar sentence to an argument, we use a set of rules to determine the potential alternative hypotheses and use sentence similarity to find a related argument group from the argument repository. Then, we use similarity measurements between the argument nodes and relationships (edge) to retrieve the most relevant alternative hypotheses. Using a new argument from a court decision not included in the initial dataset, we found our model successfully identified relevant alternative hypotheses. In the future, we hope to develop our model further and enhance the scope and accuracy of the potential hypotheses generation, and ultimately serve as a stepping stone towards developing an Artificial-Intelligence-driven investigation system.},
   language = {en},
   school = {Hallym University},
-  keywords = {Alternative Hypothesis Retrieval Model,Argument Mining,Automatic Argument Element Extraction,Crime Investigation,Investigation Verification}
+  keywords = {Alternative Hypothesis Retrieval Model,Argument Mining,Automatic Argument Element Extraction,Crime Investigation,Investigation Verification},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_alternativehypothesis_2020.pdf}
 }
 
-@mastersthesis{park_StudyMaliciousTargeting_2019,
-  title = {{A Study on the Malicious Targeting of IoT Devices}},
+@article{park_comparativestudy_2018,
+  title = {A Comparative Study on Data Protection Legislations and Government Standards to Implement {{Digital Forensic Readiness}} as Mandatory Requirement},
+  author = {Park, Sungmi and Akatyev, Nikolay and Jang, Yunsik and Hwang, Jisoo and Kim, Donghyun and Yu, Woonseon and Shin, Hyunwoo and Han, Changhee and Kim, Jonghyun},
+  year = {2018},
+  month = mar,
+  journal = {Digital Investigation},
+  volume = {24},
+  pages = {S93-S100},
+  issn = {17422876},
+  doi = {10.1016/j.diin.2018.01.012},
+  abstract = {Many data breaches happened due to poor implementation or complete absence of security controls in private companies as well as in government organizations. Many countries work on improvement of security requirements and implementing them in their legislation. However, most of the security frameworks are reactive and do not address relevant threats. The existing research suggests Digital Forensic Readiness as proactive measures, but there is only one example of its implementation as a policy. Our work surveys the current state of data protection legislation in the selected countries and their initiatives for the implementation of Digital Forensic Readiness. Then we discuss if Digital Forensic Readiness as a mandatory requirement can improve data protection state in both public and private sectors, evaluating possible challenges. We contribute suggestions for the adoption of Digital Forensic Readiness as a mandatory requirement for private companies and government organizations.},
+  language = {en},
+  keywords = {Data protection legislation,Digital forensic investigation,Digital forensic readiness,Incident Response,Minimum Security Standards},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_comparativestudy_2018.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_comparativestudy_22.pdf}
+}
+
+@article{park_onlineaccess_2021,
+  title = {{The 'Online Access to Judgment' Service in Korea: A Study on Improving Judgment Data for the Development of Legal AI}},
+  author = {Park, Sungmi and Lee, Yuna and Choi, Ari and Ahn, Jung Mihn Jamie},
+  year = {2021},
+  journal = {Journal of Police and Law},
+  volume = {19},
+  number = {3},
+  url = {https://lifs.ac.kr/pubs/park_OnlineAccess_2021.pdf},
+  abstract = {Over the past few years, the government has increased investment in artificial intelligence and big data by promoting the complete digitization of public agencies. This digitization along with digital transformation has brought more attention to accessing court documents particularly the judgments and opinions. It has been announced that as of 2023, all civil cases will be available to the general public in machine-readable format. However, there is no special plan announced for the criminal judgments and lower courts'decisions which had always been hard to obtain. Acquiring lower courts decisions is crucial to building AI-powered criminal law systems, as those decisions focus on disputed facts. Compared to other legal search systems in the private sector and other countries, Korean`Online Access to Judgment' holds a relatively extensive database. However, the usage has been very restricted due to technical limitations and not providing machine-readable file has made it difficult to use this court judgment data to train artificial intelligence. This study analyzes the systematic structure of the online access to judgment service to see if it is feasible to produce data in machinereadable format. And the paper compares legal database of the United States and Germany to show what aspects of Korean system needs to be improved. By suggesting how the current technical limitations can be fixed to accommodate a better user experience and to increase user convenience, we hope to open up opportunities for legal AI service in Korea.},
+  language = {ko},
+  keywords = {⛔ No DOI found,Artificial Intelligence,Court records,Legal Tech,Online Access to Written Judgments,Text mining},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_onlineaccess_2021.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_onlineaccess_22.pdf}
+}
+
+@article{park_preliminarystudy_2019,
+  title = {Preliminary {{Study}} of a {{Google Home Mini}}},
+  author = {Park, Minjin and James, Joshua I.},
+  year = {2019},
+  journal = {Journal of Digital Forensics},
+  volume = {13},
+  number = {3},
+  url = {https://lifs.ac.kr/pubs/park_PreliminaryStudy_2019.pdf},
+  abstract = {Many artificial intelligence (AI) speakers have recently come to market. Beginning with Amazon Echo, many companies producing their own speaker technologies. Due to the limitations of technology, most speakers have similar functions, but the way of handling the data of each speaker is different. In the case of Amazon echo, the API of the cloud is open for any developers to develop their API. The Amazon Echo has been around for a while, and much research has been done on it. However, not much research has been done on Google Home Mini analysis for digital investigations. In this paper, we will conduct some initial research on the data storing and security methods of Google Home Mini.},
+  language = {en},
+  keywords = {⛔ No DOI found,Digital forensic investigation,Google Home Mini,IoT,IoT Analysis,Smart Speaker},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_preliminarystudy_2019.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_preliminarystudy_22.pdf}
+}
+
+@article{park_studyimplementing_2020,
+  title = {{A Study on Implementing a Criminal Investigation Verification Model Using Visualization}},
+  author = {Park, Roseop and Kim, Jion and Kim, Changsik and Park, Sungmi},
+  year = {2020},
+  month = jun,
+  journal = {Journal of Police and Law},
+  volume = {18},
+  number = {2},
+  pages = {143--175},
+  doi = {10.22826/JPL.2020.18.2.143},
+  abstract = {With the recent revision of the Criminal Procedure Act and the Prosecutors' Office Act, the Korean police have been able to conduct responsible investigations, such as exercising their investigative powers as the primary investigative agency and the right to end the investigation when there is no criminal charge. However, if a suspect or a victim challenges the validity of the investigation, the case is sent to the prosecution. In such cases, the objectivity of the investigation is directly relevant to the credibility of the investigation. Also, as the admissibility of the prosecution's suspect interrogation records as evidence became limited, lawyers are likely to attack logical vulnerabilities in the argument structure of the investigation results at the trial. Therefore, the police must develop a method to secure the validity of the investigation results objectively. This study systematically analyzes the reasoning methods used in criminal investigations and their issues to proactively respond to changes in the environment of criminal proceedings. It also suggests the necessity of introducing a new paradigm that divides the police investigation process into Crime Reconstruction and Crime Verification. Further, the study introduces visualization as a verification method to improve the crime verification process before forwarding the case to the prosecution. Proving one's innocence or guilt in court relies on the ability of the general judge or civil judge to follow the logic and evidence presented. Therefore, it is necessary to present the results of crime reasoning in a way the general public can understand easily, and one of the most effective methods is to visualize the investigation process. Investigation reasoning and verification based on the visualization verification model can prevent or prepare for counterattacks or logical attacks by lawyers, improving the overall police investigation, and ensure the court fully recognizes that police investigation results. Also, event verification through visualization can be an effective means of preparing for the future testimony of investigators. A systematic and standardized verification system for investigation results can develop to an AI-based investigation verification program that can verify all events in the future.},
+  language = {ko},
+  keywords = {Abduct Reasoning,Artificial Intelligence,Crime Reconstruction,Crime Verification,Visualization},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_studyimplementing_2020.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_studyimplementing_22.pdf}
+}
+
+@phdthesis{park_studymalicious_2019,
+  title = {A Study on the Malicious Targeting of {{IoT}} Devices},
   author = {Park, Minjin},
   year = {2019},
   address = {{Chuncheon}},
@@ -225,5 +201,33 @@ month = {Jul.}
   abstract = {In the early Internet of Things (IoT), like Machine to Machine (M2M) communication, was a concept of connecting things based on regular communication between things, things, and people. However, IoT is a concept that various objects can learn, judge, and think by using artificial intelligence (AI) and machine learning by attaching communication and sensor functions to devices. As the radical development of IoT is taking place, there are a variety of attacks targeting IoT device vulnerabilities. However, the analysis of vulnerabilities has not been done much. IoT connects the real world with the digital world. Increasingly, if a user is hacked in the digital world, it can affect the real world. In this paper, we analyzed the attack of IoT devices targeting AI smart speaker, one of the most used IoT devices. To proceed with the research, a honeypot, which is widely used for attack analysis, was created. We call it an IoT Honeypot. Every IoT smart device has a port for communicating over the Internet, so after identifying the port that the real device uses, we have made the port as a profile. After that, the public IP address was assigned to the IoT Honeypot for external access, the ports were opened, and the data coming into the ports was collected and analyzed. Analyzing the data coming in through the ports revealed no attacks targeting the device but found attempts to access the port from various places. Attack analysis using IoT Honeypot in this paper can be used for other IoT devices later if only the port of the device can be identified.},
   language = {en},
   school = {Hallym University},
-  keywords = {AI smart speaker,Honeypot,Internet of Things,IoT device attack,IoT Forensic}
+  keywords = {AI smart speaker,Honeypot,Internet of Things,IoT device attack,IoT Forensic},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_studymalicious_2019.pdf}
+}
+
+@article{park_studyutilization_2022,
+  title = {{A Study on Utilization of Criminal Justice Information for Smart Policing with a Focus on Personal Information Protection}},
+  author = {Park, Sungmi and Ahn, Jung Mihn Jamie},
+  year = {2022},
+  journal = {Criminal Investigation Studies},
+  volume = {8},
+  number = {2},
+  issn = {2466-1236},
+  url = {https://lifs.ac.kr/pubs/park_StudyUtilization_2022.pdf},
+  abstract = {As the interest in big data and artificial intelligence(AI) grows, the field of "Smart Policing" has received increased attention. However, the information collected during the criminal justice process inevitably contains a lot of personal information, and thus its usage for machine learning datasets is limited. The Korean Personal Data Protection Laws have recently adopted major amendments to free up the use of pseudonymized data and ease the way for the expansion of Big Data-driven services. Contrary to this, the strict privacy protection compliance by the police remains the same - causing passive usage of the Criminal Justice Information. This study seeks ways to utilize data on the Korea Information System of Criminal Justice Services(KICS), an electronic work system that the police and three other criminal agencies jointly use to perform investigations. The National Police Agency is implementing various RandD tasks to converge high-tech and public security sites. However, it is having difficulties providing this usable Criminal Justice Information due to the strict interpretation and application of vague legal provisions. By examining the Criminal Justice Information produced during the criminal justice process and the current status of domestic and overseas use of criminal justice information, this study finds and suggests alternative solutions such as data classification, data-oriented personal information policy, and ways to establish a privacy-compliant environment as countermeasures to pursue both privacy protection and innovative policing development.},
+  language = {ko},
+  keywords = {⛔ No DOI found,criminal justice information,de-identification,personal information,police data,smart policing},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_studyutilization_2022.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\park_studyutilization_22.pdf}
+}
+
+@phdthesis{won_reasoningvisualization_2018,
+  title = {{The Reasoning Visualization Model for Rational Crime Analysis and Fact Finding - A Study on Error Detection of Reasoning in Fact Finding}},
+  author = {Won, Gwangjae},
+  year = {2018},
+  url = {https://lifs.ac.kr/pubs/won_ReasoningVisualization_2018.pdf},
+  abstract = {A judge and an investigator use reasoning to investigate a criminal fact in a criminal case. However, reasoning always contains errors due to limitation of their cognitive abilities and restrictions in working. Purpose of this study is to detect an error of reasoning occurring in fact finding of a criminal fact and to suggest a visualization model to find a reasonable fact discovery. This study aimed to apply reasoning visualization model to an actual case and then, to review whether it was possible for a visualization model to clearly reveal reasoning part of fact judgment to detect an error. The case used in this study was a murder case which actually happened as follows; the defendant (husband) came back home and found a victim (wife) who lay in a bathroom with an unusual position, and the defendant reported it to the police. The Issues of this case is cause and time of death. Cause of death was the issue whether the victim was dead by manual strangulation or by positional asphyxia; and, time of death was the issue whether the victim was dead before the defendant went to the office. Issues on the cause of death used in this study were 10 while issues on the time of death were 3. Considering possible manual strangulation, quarrel, and others, the court made a comprehensive judgment on the cause of death while it made a comprehensive presumption by taking into circumstantial evidence, trustworthiness of testimony of the defendant, and others. This study summarized evidence and reasoning part specified in the written judgment (first trial) as a theme of one sentence, and it visually expressed the theme by applying the model of this study. And - 89 it closely reviewed reasoning and evidence used in fact finding. According to analysis of written judgment, it seemed that 9 out of 10 causes of death adopted by the court as evidence of guilt had room for doubt about judgment of guilt. Furthermore, with respect to 3 evidences among 9, the court dismissed defendant's claim through common sense or simple claim but acknowledged them as evidence of guilt. The court dismissed claims of guilt regarding 2 issues of death time issues pursuant to objective reasons; it acknowledged 1 issue of guilty claim but it is thought that there still remains room of doubt. Result of this study implies that visualization model of the study clearly expresses reasoning used in fact finding of fact finder so that it can help detection of reasoning error. Finally, it discussed subsequent researches on meaning and limitations of this study and development of visualization model.},
+  language = {ko},
+  school = {Hallym University},
+  keywords = {Crime Reconstruction,Fact finding,Reasoning,Reasoning error,Visualization},
+  file = {G\:\\내 드라이브\\Zotero\\lifs_pubs\\won_reasoningvisualization_2018.pdf;G\:\\내 드라이브\\Zotero\\lifs_pubs\\won_reasoningvisualization_22.pdf}
 }
