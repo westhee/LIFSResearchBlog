@@ -137,7 +137,13 @@ def build_single_html(db,out_path):
         with open(f"{out_path}/{year}-{titleus}.html","w",encoding="utf8") as fw:
             fw.write(place_holder + "\n")
             fw.write(html)
-        
+
+'''
+Creates html table for _includes/pubs.html
+Creates single pages with keywords and abstract in pubs/html
+
+MUST verify alum link in people.yml
+'''
 
 
 def convert_bib_to_html(bib_file):
@@ -147,6 +153,7 @@ def convert_bib_to_html(bib_file):
     
     build_pubs_html(bib_database, '../_includes')
     build_single_html(bib_database, "../pubs/html")
+
 
 
 convert_bib_to_html('pubs.bib')
