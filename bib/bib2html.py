@@ -68,7 +68,7 @@ def _title(entry):
     """Format a title field for HTML display."""
     title = entry['title']
     # remove curlies from titles -- useful in TeX, not here
-    title = title.replace('{', '').replace('}', '')
+    title = re.sub(r"[^a-zA-Z가-힣0-9 ,_-]","",title)
     return title
 
 
