@@ -74,7 +74,7 @@ def _title(entry):
 
 def _main_url(entry):
     """Get an entry's URL field (url or ee)."""
-    entry['url'] = f"https://lifs.ac.kr/pubs/{entry['ID']}.pdf"
+    entry['url'] = f"https://lifs.hallym.ac.kr/pubs/{entry['ID'].lower()}.pdf"
     return entry['url']
 
 
@@ -132,10 +132,10 @@ def build_single_html(db,out_path):
         title = re.sub(r"[^a-zA-Z가-힣0-9 ]","",entry['title'])
         titleus = title.replace(" ","_")
         year = entry['year']
-        holders = ["---","layout:default",f"title:{title}",f"permalink: /publications/{year}-{titleus}"]
+        holders = ["---","layout:default",f"title:{title}",f"permalink: /publications/{year}-{titleus}","---"]
         place_holder = "\n".join(holders)
         with open(f"{out_path}/{year}-{titleus}.html","w",encoding="utf8") as fw:
-            fw.write(place_holder)
+            fw.write(place_holder + "\n")
             fw.write(html)
         
 
