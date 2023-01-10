@@ -129,9 +129,10 @@ def build_single_html(db,out_path):
         tmpl = tenv.from_string(single_tp.read())
     for entry in db.entries:
         html = tmpl.render(entries=entry)
-        title = re.sub(r"[^a-zA-Z가-힣0-9 ]","",entry['title'])
+        title = _title(entry)
         titleus = title.replace(" ","_")
         year = entry['year']
+        #titleus must match link in pubs.html
         holders = ["---","layout: default",f"title: {title}",f"permalink: /publications/{year}-{titleus}","---"]
         place_holder = "\n".join(holders)
         with open(f"{out_path}/{year}-{titleus}.html","w",encoding="utf8") as fw:
@@ -139,7 +140,8 @@ def build_single_html(db,out_path):
             fw.write(html)
 
 '''
-Creates html table for _includes/pubs.html
+conda activate lifsblog
+Creates html table for _includes/pubs.html --> creates permalinks as href, must match permalink in single page
 Creates single pages with keywords and abstract in pubs/html
 
 MUST verify alum link in people.yml
