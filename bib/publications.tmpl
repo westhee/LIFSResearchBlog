@@ -22,7 +22,7 @@
 				{%- else %}
 				{{ entry|title }}.
 				{%- endif %}
-				<a href="/publications/{{ entry['year'] }}-{{ entry['title']|replace(" ", "_")|replace("{", "")|replace("}", "") }}"><span class="fas fa-globe"></span> Abstract</a>
+				<a href="/publications/{{ entry['year'] }}-{{ entry |title|replace(" ", "_") }}"><span class="fas fa-globe"></span> Abstract</a>
 			</span><br />
 			<span class="authors">
 				{{ entry['author']}}.
