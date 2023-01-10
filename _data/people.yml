@@ -1,8 +1,9 @@
 profPark:
-  display_name: "Ro Seop, Park"
-  role: faculty
-  image: /img/people/Roseop.png
-  bio: "Professor"
+    display_name: "Ro Seop, Park"
+    role: faculty
+    image: /img/people/Roseop.png
+    bio: "Professor"
+    email: "rspark@hallym.ac.kr"
 
 profAhn:
   display_name: "Jung Mihn Jamie, Ahn"

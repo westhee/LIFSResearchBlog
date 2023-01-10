@@ -10,8 +10,11 @@
 OUTPATH="../pubs/html"
 BIBFILE="pubs.bib"
 TEMPLATE="singlePage.tmpl"
+
+sed -i 's/^[ \t]*//' pubs.bib
+sed -i 's/\r$//' pubs.bib
 TDIR="$(mktemp -d)"
-# Split the bibs into single files
+# # Split the bibs into single files
 awk -v RS= '{print > ("TEMPARTICLE-" NR ".bib")}' ${BIBFILE}
 for ARTICLE in $(ls | grep "TEMPARTICLE"); do
     echo $ARTICLE
