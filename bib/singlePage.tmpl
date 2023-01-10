@@ -51,7 +51,7 @@
 			<span class="abstract">
 			{%- if entry['abstract'] %}
 				<div id="abstract_{{entry['key']}}" class="abstract" style="text-align: justify; text-justify: inter-word;">
-					{{ entry['abstract'] |escape }}
+					{{ entry['abstract'] | safe }}
 				</div>
 			{%- endif %}
 			</span>
