@@ -31,9 +31,9 @@ def _venue_type(entry):
     elif entry['ENTRYTYPE'] == 'techreport':
         venuetype = 'Technical Report '
     elif entry['ENTRYTYPE'] == 'phdthesis':
-        venuetype = 'Ph.D. thesis, {}'.format(entry['school'])
+        venuetype = f'Ph.D. thesis, {entry["school"]}'
     elif entry['ENTRYTYPE'] == 'mastersthesis':
-        venuetype = 'Master\'s thesis, {}'.format(entry['school'])
+        venuetype = f'Master\'s thesis, {entry["school"]}'
     return venuetype
 
 
