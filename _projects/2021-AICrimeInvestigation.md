@@ -27,7 +27,7 @@ The five core technology are :
 - Establish an investigation report draft support system
 - Develop event structure analysis visualization program
 - Symantic case (argument structure) recommendation
-- Develop alternative hypothesis search along with recommendation technology.
+- Develop alternative hypothesis search along with recommendation technology
 
 Through these key technologies, we can verify and interpret objective criminal investigation verfification real-time, recommend similar events and visually compare arguments, rank leading alternative hypothesis and supplementary requirements based on guidelines to investigate legal documents.
 
