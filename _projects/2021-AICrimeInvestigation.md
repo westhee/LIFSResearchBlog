@@ -10,7 +10,7 @@ status: active
 ---
 
 ## Research Goal 
-The Korean National Police Agency announced the termination of police investigation, which has lead urgent need to minimize error rates for final investigation results. The necessity of reviewing errors in investigations and legal issues has been raised, mainly by investigators with lawyer qualifications. However, individual reviews of more than 1.7 million cases are said to have limitations.
+The Korean National Police Agency announced the termination of police investigation, which has lead urgent need to minimize error rates for final investigation results.  The necessity of reviewing errors in investigations and legal issues has been raised, mainly by investigators with lawyer qualifications. However, individual reviews of more than 1.7 million cases are said to have limitations.
 
 The Korean National Police Agency has promoted to utilize AI (Aritifial Intelligence) technology for criminal investigation to reduce the amount of time and decrease legal loopholes during the long-term investigation period of each case. The main goal of the "Deep Case-AI based Crime Investigation System" is to develop an automated AI-based Crime Investigation System using NLP and argument mining. 
 
