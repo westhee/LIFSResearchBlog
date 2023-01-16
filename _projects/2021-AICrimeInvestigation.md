@@ -17,7 +17,7 @@ The Korean National Police Agency has promoted to utilize AI (Aritifial Intellig
 Beyond data analyzation, tasks such as similar case matching, legal inference reasoning, and developing visual argument structure algorithm tasks etc. are conducted. The exclusive means of this project is to enhance quality, thus develop an AI-based criminal investigation technology that quickly reviews issues of a case based on the systematic and analytical algorithm that can be generally applied to all cases. 
 <center>
 
-![deepcase](/LIFSResearchBlog/img/research/deepcase.png =700x350)
+![deepcase](/LIFSResearchBlog/img/research/deepcase.png)
 
 </center>
 
