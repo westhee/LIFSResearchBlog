@@ -15,11 +15,10 @@ The Korean National Police Agency announced the termination of police investigat
 The Korean National Police Agency has promoted to utilize AI (Aritifial Intelligence) technology for criminal investigation to reduce the amount of time and decrease legal loopholes during the long-term investigation period of each case. The main goal of the "Deep Case-AI based Crime Investigation System" is to develop an automated AI-based Crime Investigation System using NLP and argument mining. 
 
 Beyond data analyzation, tasks such as similar case matching, legal inference reasoning, and developing visual argument structure algorithm tasks etc. are conducted. The exclusive means of this project is to enhance quality, thus develop an AI-based criminal investigation technology that quickly reviews issues of a case based on the systematic and analytical algorithm that can be generally applied to all cases. 
-<center>
 
-![deepcase](/LIFSResearchBlog/img/research/deepcase.png)
 
-</center>
+![deepcase](/img/research/deepcase.png)
+
 
 ## Key Technology
 The five core technology are :
