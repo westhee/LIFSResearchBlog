@@ -177,6 +177,12 @@ profJang:
   image: /img/people/Tony.jpg
   linkedin: https://linkedin.com/in/tonyjokeapart
 
+2021seohee:
+  display_name: "김서희 (Seo Hee, Kim)"
+  role: staff
+  bio: "AI-based Crime Investigation System"
+  image: /img/people/Yuna.jpg
+
 HancomGMD:
   display_name: "Hancom GMD"
   role: collab
