@@ -15,7 +15,7 @@ The seminar was attended by Hallym University’s Legal Informatics and Forensic
 
 **1. Introduce about Police Science Institute**
 
-The first session of the seminar, Dr. Oh Kyung-seok introduced the National Police University’s Police Science Institute. 
+The first session of the seminar, Dr. Oh Kyung-seok introduced the National Police University’s Police Science Institute
 Currently, the institute is conducting research in various fields related to police policy. 
 Through this session, it was a very beneficial time to understand the institute and the various research trends in the field of investigation that are currently underway.
 
