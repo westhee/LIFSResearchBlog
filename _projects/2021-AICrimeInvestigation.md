@@ -16,7 +16,9 @@ The Korean National Police Agency has promoted to utilize AI (Aritifial Intellig
 
 Beyond data analyzation, tasks such as similar case matching, legal inference reasoning, and developing visual argument structure algorithm tasks etc. are conducted. The exclusive means of this project is to enhance quality, thus develop an AI-based criminal investigation technology that quickly reviews issues of a case based on the systematic and analytical algorithm that can be generally applied to all cases. 
 
+
 ![deepcase](/img/research/deepcase.png)
+
 
 ## Key Technology
 The five core technology are :
@@ -32,10 +34,6 @@ Through these key technologies, we can verify and interpret objective criminal i
 1. Technical aspect : Secure AI technology applicable to the criminal investigation field.
 2. Economic aspect : Drastically shorten case analysis time & save labor costings.
 3. Social aspect : Enhance reliability of the police investigations by ensuring objectivity.
-
-
-
-
 
 
 Video of 'Deep Case-AI based Crime Investigation System' project :
