@@ -1,30 +1,29 @@
 <table class="table">
 <tbody>
 {%- set prev_year = 1900 %}
-{%- for entry in entries %}
+{%- set entry = entries %}
     <!-- Metadata for indexing -->
-	<meta name="citation_title" content="{{ entry|title }}">
-	{% for author in entry.persons['author'] %}<meta name="citation_author" content="{{ author }}">{% endfor %}
-	<meta name="citation_publication_date" content="{{ entry.fields['year'] }}">
-	{% if entry.fields['school'] %}<meta name="citation_dissertation_institution" content="{{ entry.fields['school'] }}">{% endif %}
-	{% if entry.fields['doi'] %}<meta name="citation_doi" content="{{ entry.fields['doi'] }}">{% endif %}
-	{% if entry.fields['url'] %}<meta name="citation_public_url" content="{{ entry.fields['url'] }}">{% endif %}
-	{% if entry.fields['school'] %}<meta name="citation_pdf_url" content="{{ entry.fields['url'] }}">{% endif %}
-	{% if entry.fields['annote'] %}<meta name="citation_language" content="{{ entry.fields['annote'] }}">{%- endif %}
-	{% if entry.fields['abstract'] %}<meta name="citation_abstract" content="{{ entry.fields['abstract'] }}">{%- endif %}
+	<meta name="citation_title" content="{{ entry |title}}">
+	<meta name="citation_author" content="{{ entry['author']}}">
+	<meta name="citation_publication_date" content="{{ entry['year'] }}">
+	{% if entry['school'] %}<meta name="citation_dissertation_institution" content="{{ entry['school'] }}">{% endif %}
+	{% if entry['url'] %}<meta name="citation_public_url" content="{{ entry['url'] }}">{% endif %}
+	{% if entry['school'] %}<meta name="citation_pdf_url" content="{{ entry['url'] }}">{% endif %}
+	{% if entry['language'] %}<meta name="citation_language" content="{{ entry['language'] }}">{%- endif %}
+	{% if entry['abstract'] %}<meta name="citation_abstract" content="{{ entry['abstract'] }}">{%- endif %}
 	
 	<tr>
 		<td>
 			<span class="date">
-				{% if entry.fields['year'] != prev_year %}
-				<big><strong>{{ entry.fields['year'] }}</strong></big><br />
+				{% if entry['year'] != prev_year %}
+				<big><strong>{{ entry['year'] }}</strong></big><br />
 				{% endif %}
-				{%- set prev_year = entry.fields['year'] %}
+				{%- set prev_year = entry['year'] %}
 			</span>
 		</td>
 		<td class="publication">
-			{% if entry.fields['annote'] %}
-				<span class="language">[{{ entry.fields['annote'] }}] </span>
+			{% if entry['language'] %}
+				<span class="language">[{{ entry['language'] }}] </span>
 			{%- endif %}
 			<span class="pubtitle">
 				{%- set url = entry|main_url %}
@@ -37,40 +36,26 @@
 				{%- endif %}
 			</span><br />
 			<span class="authors">
-				{{ entry.persons['author']|author_list }}.
+				{{ entry['author'] }}.
 			</span><br />
 			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}</span>.
-			{%- if entry.fields['doi'] %}
-                            <span class="doi"><a href="https://doi.org/{{ entry.fields['doi'] }}">{{ entry.fields['doi'] }}<a/>.</span>
-                        {%- endif %}
-			{%- if entry.fields['note'] %}
-			<span class="note">
-			{{ entry.fields['note']|escape }}.
-			</span>
-			{%- endif %}
 			<br />
-			<span class="links">
-			{%- for type, url in (entry|extra_urls).items() %}
-				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
-			{%- endfor %}
-			</span>
 			<span class="keywords">
-				{% if entry.fields['keywords'] %}
-					{%- for keyword in entry.fields['keywords'].split(',') %}
+				{% if entry['keywords'] %}
+					{%- for keyword in entry['keywords'].split(',') %}
 						<span class="badge badge-info">{{ keyword }}</span>
 					{%- endfor %}
 				{%- endif %}
 			</span>
 			<br />
 			<span class="abstract">
-			{%- if entry.fields['abstract'] %}
-				<div id="abstract_{{entry.fields['key']}}" class="abstract" style="text-align: justify; text-justify: inter-word;">
-					{{ entry.fields['abstract'] |escape }}
+			{%- if entry['abstract'] %}
+				<div id="abstract_{{entry['key']}}" class="abstract" style="text-align: justify; text-justify: inter-word;">
+					{{ entry['abstract'] | safe }}
 				</div>
 			{%- endif %}
 			</span>
 		</td>
 	</tr>
-	{% endfor %}
 </tbody>
 </table>

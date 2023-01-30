@@ -1,22 +1,19 @@
 <table class="table">
 <tbody>
-	{%- set prev_year = 1900 %}
 	{%- for entry in entries %}
 	<tr>
 		<td>
 			<span class="date">
-				{% if entry.fields['year'] != prev_year %}
-				<big><strong>{{ entry.fields['year'] }}</strong></big><br />
+				{% if entry['skip_year'] == "false" %}
+					<big><strong>{{ entry['year'] }}</strong></big><br />
 				{% endif %}
-				{%- set prev_year = entry.fields['year'] %}
 			</span>
 		</td>
 		<td class="publication">
-			{% if entry.fields['annote'] %}
-				<span class="language">[{{ entry.fields['annote'] }}] </span>
+			{% if entry['language'] %}
+				<span class="language">[{{ entry['language'] }}] </span>
 			{%- endif %}
 			<span class="pubtitle">
-				<a href="/publications/{{ entry.fields['year'] }}-{{ entry.fields['title']|replace(" ", "_")|replace("{", "")|replace("}", "") }}"><span class="fas fa-globe"></span> Abstract</a>
 				{%- set url = entry|main_url %}
 				{%- if url %}
 				<img src="/img/pdficon_small.png" width="16"
@@ -25,38 +22,20 @@
 				{%- else %}
 				{{ entry|title }}.
 				{%- endif %}
+				<a href="/publications/{{ entry['year'] }}-{{ entry |title|replace(" ", "_") }}"><span class="fas fa-globe"></span> Abstract</a>
 			</span><br />
 			<span class="authors">
-				{{ entry.persons['author']|author_list }}.
+				{{ entry['author']}}.
 			</span><br />
 			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}</span>.
-			{%- if entry.fields['doi'] %}
-                            <span class="doi"><a href="https://doi.org/{{ entry.fields['doi'] }}">{{ entry.fields['doi'] }}<a/>.</span>
-                        {%- endif %}
-			{%- if entry.fields['note'] %}
-			<span class="note">
-			{{ entry.fields['note']|escape }}.
-			</span>
-			{%- endif %}
 			<br />
-			<span class="links">
-			{%- for type, url in (entry|extra_urls).items() %}
-				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
-			{%- endfor %}
-			</span>
-			<span class="keywords">
-				{% if entry.fields['keywords'] %}
-					{%- for keyword in entry.fields['keywords'].split(',') %}
-						<span class="badge badge-info">{{ keyword }}</span>
-					{%- endfor %}
-				{%- endif %}
 			</span>
 			<br />
-			{%- if entry.fields['abstractNOTUSED'] %}
+			{%- if entry['abstractNOTUSED'] %}
 			<span class="abstract">
-				<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</button>
-				<div id="abstract_{{entry.fields['key']}}" class="abstract" style="display: none;">
-					{{ entry.fields['abstract'] |escape }}
+				<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" onclick="$('#abstract_{{entry['key']}}').slideToggle('fast');return false;">abstract</button>
+				<div id="abstract_{{entry['key']}}" class="abstract" style="display: none;">
+					{{ entry['abstract'] |escape }}
 				</div>
 			</span>
 			{%- endif %}
