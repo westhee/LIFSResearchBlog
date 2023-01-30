@@ -180,20 +180,20 @@ profJang:
 2021siwon:
   display_name: "김시원 (Si Won, Kim)"
   role: staff
-  bio: "AI-based Crime Investigation System"
-  image: /img/people/haksa.png
+  bio: "Undergraduate"
+  image: /img/people/Staff.jpg
 
 2023myunghoon:
   display_name: "우명훈 (Myung Hoon, Woo)"
   role: staff
-  bio: "AI-based Crime Investigation System"
-  image: /img/people/haksa.png
+  bio: "Administrator"
+  image: /img/people/Staff.jpg
   
 2023seohee:
   display_name: "김서희 (Seo Hee, Kim)"
   role: staff
-  bio: "AI-based Crime Investigation System"
-  image: /img/people/haksa.png
+  bio: "Undergraduate"
+  image: /img/people/Staff.jpg
 
 HancomGMD:
   display_name: "Hancom GMD"
