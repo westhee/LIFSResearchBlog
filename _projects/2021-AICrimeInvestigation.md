@@ -36,10 +36,6 @@ Through these key technologies, we can verify and interpret objective criminal i
 3. Social aspect : Enhance reliability of the police investigations by ensuring objectivity.
 
 
-
-
-
-
 Video of 'Deep Case-AI based Crime Investigation System' project :
 
 [Deep Case-AI based Crime Investigation System](https://www.youtube.com/watch?v=8D5jC0UgrdA)
