@@ -16,7 +16,8 @@ The first School of Global Studies Prompt Engineer Contest was held at Doheon Gl
 ![dataset1](/img/news/engineer.jpg)
 ![dataset1](/img/news/contest.jpg)
 
-The competition, co-hosted by the School of Global Studies Student Council and the Academic Affairs Department of School of Global Studies, was judged by four individuals: Professor Nohseop Park, Professor Yookyung Shin, graduate student Jiwon Park, and graduate student Jinheon Lee.
+The competition, co-hosted by the School of Global Studies Student Council and the Academic Affairs Department of School of Global Studies, was judged by four individuals: 
+Professor Ro Seop Park, Professor Yookyung Shin, graduate student Jee Won Park, and graduate student Jinheon Lee.
 
 ![dataset1](/img/news/Prompt.jpg)
 ![dataset1](/img/news/ssgss.jpg)

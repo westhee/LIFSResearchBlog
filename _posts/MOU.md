@@ -6,7 +6,7 @@ icon: star-o
 tags: [news]
 ---
 
-# "Hallym University and HM Company establish Industry-Academia Convergence Research Institute for promoting industry-academia cooperation and talent development and sign a business agreement"
+# "Hallym University and HM Company establish Industry-Academia Convergence Research Institute"
 
 ![dataset1](/img/news/mou.png)
 
