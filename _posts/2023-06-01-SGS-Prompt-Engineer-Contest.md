@@ -17,12 +17,12 @@ The first School of Global Studies Prompt Engineer Contest was held at Doheon Gl
 ![dataset1](/img/news/contest.jpg)
 
 The competition, co-hosted by the School of Global Studies Student Council and the Academic Affairs Department of School of Global Studies, was judged by four individuals: 
-Professor Ro Seop Park, Professor Yookyung Shin, graduate student Jee Won Park, and graduate student Jinheon Lee.
+School of Global Studies' Head Professor Ro Seop Park, Professor Yookyung Shin, graduate student Jee Won Park, and graduate student Jinheon Lee.
 
 ![dataset1](/img/news/Prompt.jpg)
 ![dataset1](/img/news/ssgss.jpg)
 
-The competition theme was web page development utilizing ChatGPT. A total of 18 students worked diligently to create web pages in various areas such as creating school-related platforms, providing information about Chuncheon city, developing health management web pages, developing stock market data analysis web pages, developing web pages for summarizing key articles, and completing brainstorming for music generation web pages. They brought glory to the competition with their outstanding creations.
+The competition theme was web page development utilizing ChatGPT. A total of 6 Teams worked diligently to create web pages in various areas such as creating school-related platforms, providing information about Chuncheon city, developing health management web pages, developing stock market data analysis web pages, developing web pages for summarizing key articles, and completing brainstorming for music generation web pages. They brought glory to the competition with their outstanding creations.
 
 ![dataset1](/img/news/cont.jpg)
 
@@ -34,4 +34,6 @@ The Best Excellence Award was given to Team 4: Geon Woo Lee, Tae Hee Lee, Soo Ah
 
 ![dataset1](/img/news/conttt.jpg)
 
-The Outstanding Award was presented to Team 2: Min Gyu Kim, Seung Heon Song, Ki Ppum Ju. In total, three teams received awards.
+The Outstanding Award was presented to Team 2: Min Gyu Kim, Seung Heon Song, Ki Ppum Ju. 
+
+In total, three teams received awards.

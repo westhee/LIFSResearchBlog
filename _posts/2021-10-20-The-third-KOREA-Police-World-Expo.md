@@ -16,7 +16,6 @@ tags: [news]
 
 From Wednesday, October 20, 2021 to Saturday, October 23, 2021, a Korea Police World Expo hosted by the National Police Agency and Incheon Metropolitan City will be held at Songdo Convensia.
 
-**[Hallym University and HM Company joined together.]**
 
 &nbsp;
 
