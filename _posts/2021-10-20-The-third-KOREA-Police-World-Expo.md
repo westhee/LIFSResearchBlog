@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THE THIRD KOREA POLICE WORLD EXPO [KPEX 2021]"
+title: "[KPEX 2021] THE THIRD KOREA POLICE WORLD EXPO"
 author: 2023seohee
 icon: star-o
 tags: [news]
