@@ -6,12 +6,11 @@ icon: star-o
 tags: [news]
 ---
 
-<!-- # 'MHC Distinguished Department of Computer Science: Invited Lecture by Overseas Speaker' -->
-
-**| On May 3, 2023, at 10:00 a.m., and on May 4, from 10:00 a.m. to 12:00 p.m., a special lecture was held with the invitation of Professor Vasileios Karagiannopoulos, from the University of Portsmouth.**
+On May 3, 2023, at 10:00 a.m., and on May 4, from 10:00 a.m. to 12:00 p.m., a special lecture was held with the invitation of Professor Vasileios Karagiannopoulos, from the University of Portsmouth.
 
 **Research interests and projects :**
-**From hacktivism to the Cybercrime Awareness Clinic and Beyond**
+
+From hacktivism to the Cybercrime Awareness Clinic and Beyond
 
 ![dataset1](/img/news/vas-1%20(1).jpg)
 

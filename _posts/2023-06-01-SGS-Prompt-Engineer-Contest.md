@@ -1,13 +1,12 @@
 ---
 layout: post
-title: [School of Global Studies] : Prompt Engineer Contest"
+title: "[School of Global Studies] : Prompt Engineer Contest"
 author: 2023seohee
 icon: star-o
 tags: [news]
 ---
 
-
-**[School of Global Studies] : Prompt Engineer Contest**
+[School of Global Studies] : Prompt Engineer Contest
 
 ![dataset1](/img/news/SGS.jpg)
 
