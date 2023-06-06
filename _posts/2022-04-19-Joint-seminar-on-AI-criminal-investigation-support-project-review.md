@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joint Seminar On Ai Criminal Investigation Support Project Review"
+title: "Joint Seminar On AI Criminal Investigation Support Project Review"
 author: 2023jinheon
 icon: star-o
 tags: [seminar, review]

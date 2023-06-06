@@ -6,8 +6,6 @@ icon: star-o
 tags: [news]
 ---
 
-# THE THIRD KOREA POLICE WORLD EXPO [KPEX 2021]
-
 **The only security industry exhibition in East Asia!**
 
 **A business platform for the development of Smart Security technology needed in the era of the Fourth Industrial Revolution!**

@@ -6,8 +6,6 @@ icon: star-o
 tags: [seminar, review]
 ---
 
-# AI-Based Support for Scientific Crime Investigation
-
 At the 105th academic conference of the Korean Police Law Society, co-hosted by the Information Law and Science Research Institute of Hallym University, a presentation on "Automatic Inference of Contrary Hypotheses using AI" was held. 
 
 ![dataset1](/img/news/image05.png)

@@ -1,17 +1,15 @@
 ---
 layout: post
 title: "R&D Colloquium on AI-Based Crime Investigation Support"
-author: 2023jinheon
+author: 2023seohee
 icon: star-o
 tags: [seminar, review]
 ---
 
-# R&D Colloquium on AI-Based Crime Investigation Support
+The R&D colloquium on AI-based crime investigation support was held at the National Police University from July 26-28, 2022, co-hosted by the Police University, the National Police Agency Investigation Training Institute, and Hallym University.
 
 ![dataset1](/img/news/image01.png)
 ![dataset1](/img/news/image02.png)
-
-The R&D colloquium on AI-based crime investigation support was held at the National Police University from July 26-28, 2022, co-hosted by the Police University, the National Police Agency Investigation Training Institute, and Hallym University.
 
 The purpose of the colloquium was to verify the developed investigative inference program and to design and discuss the future vision of security data science. The research, which is in its second year, is focused on the development of AI-based crime investigation support technology.
 
