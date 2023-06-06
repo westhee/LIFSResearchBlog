@@ -5,8 +5,6 @@ author: 2023seohee
 icon: star-o
 tags: [news]
 ---
- 
-# [Korean National Police Agency] - 'The Role and Task of Police Responsible Investigations and Results of Police-Law Research'
 
 The National Police Agency announced on the 28th that it held a joint online academic seminar under the theme of "The Role and Tasks of Police Responsibility Investigation and the Results of Police Law Research" in commemoration of the 100th seminar of the Korean Police Law Association.
 

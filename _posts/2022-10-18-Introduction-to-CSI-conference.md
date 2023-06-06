@@ -5,7 +5,6 @@ author: 2023seohee
 icon: star-o
 tags: [Introduction, seminar]
 ---
-# “Security Korea, Korea Police World Expo”
 
 **[Smart Security Technology in the Era of the Fourth Industrial Revolution]**
 

@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "  "
+title: "Joint Academic Seminar on AI and Crime Investigation"
 author: 2023seohee
 icon: star-o
 tags: [news]
 ---
-
 
 Korea Electronics Technology Institute (KETI), Hallym University Institute of Legal Informatics and Forensic Science, and the Police University College Criminal Investigation Institute (CII) jointly organized an academic seminar at the Incheon Songdo Convention Center (International Security Exhibition venue) from 10:00 A.M. to 01:00 P.M. on Thursday, October 21st, 2021.
 

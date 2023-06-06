@@ -7,7 +7,7 @@ tags: [news]
 ---
 
 
-# [School of Global Studies] : 'Prompt Engineer Contest'
+**[School of Global Studies] : Prompt Engineer Contest**
 
 ![dataset1](/img/news/SGS.jpg)
 
