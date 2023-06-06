@@ -6,7 +6,7 @@ icon: star-o
 tags: [Introduction, seminar]
 ---
 
-**[Smart Security Technology in the Era of the Fourth Industrial Revolution]**
+[Smart Security Technology in the Era of the Fourth Industrial Revolution]
 
 ![dataset1](/img/news/1police_info_img.jpg)
 

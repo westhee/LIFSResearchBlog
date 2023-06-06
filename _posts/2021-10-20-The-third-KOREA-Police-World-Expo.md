@@ -6,9 +6,9 @@ icon: star-o
 tags: [news]
 ---
 
-**The only security industry exhibition in East Asia!**
+The only security industry exhibition in East Asia!
 
-**A business platform for the development of Smart Security technology needed in the era of the Fourth Industrial Revolution!**
+A business platform for the development of Smart Security technology needed in the era of the Fourth Industrial Revolution!
 
 ![dataset1](/img/news/00000.jpg)
 
