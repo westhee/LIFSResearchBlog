@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MHC Distinguished Department of Computer Science: Invited Lecture by Overseas Speaker"
+title: "From hacktivism to the Cybercrime Awareness Clinic and Beyond by Professor Vasileios Karagiannopoulos"
 author: 2023seohee
 icon: star-o
 tags: [news]

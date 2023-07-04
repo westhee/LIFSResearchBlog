@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Korea Police World Expo] Introduction to CSI conference"
+title: "KOREA POLICE WORLD EXPO: Introduction to CSI conference"
 author: 2023seohee
 icon: star-o
 tags: [Introduction, seminar]
