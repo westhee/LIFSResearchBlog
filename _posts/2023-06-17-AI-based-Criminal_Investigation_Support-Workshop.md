@@ -55,7 +55,7 @@ The task of "Automatic extraction of argument structure from judgments" is carri
 The process of constructing an argument dataset based on the expanded Toulmin+ argument structure, which extends Toulmin's argument structure, has been carried out to automatically extract argument structures from criminal judgments by fine-tuning pre-trained language models (KoBERT, KLUE-BERT). Additionally, argument error checking has been performed through the generation and visualization of an argument dataset using the system. This development has future potential for applications such as searching for similar cases based on argument graphs.
 
 
-##Goal 4 : Automatic Document Analysis and Visualization for Hypothesis Review Support
+##Goal 4 : Automatic Document Analysis and Visualization for Hypothesis Review Support 
 
 This work involves the development of a Tool for Automatic Document Analysis and Visualization for Hypothesis Review Support, including the creation of a Hypothesis NLI Model based on KoElectra v3 (leap v.1.0), the automatic extraction of support/opposition/inference-impossible relationships between investigative documents (judgments) and hypothesis sentences, and the development of a visualization and analysis tool for each data pair relationship. It is a collaborative effort between HM COMPANY and Hallym University.
 
