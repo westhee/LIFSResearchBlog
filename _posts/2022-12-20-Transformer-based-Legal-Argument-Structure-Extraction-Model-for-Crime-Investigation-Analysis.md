@@ -17,4 +17,4 @@ The results reveal specific types of argument structures present in court decisi
 
 In conclusion, the analysis of the model errors revealed that the misclassifications primarily stemmed from the lack of contextual information. To address this issue, future research can focus on enhancing the models by incorporating the understanding of pronouns and conjunctions used in the text. Additionally, this paper proposes utilizing graph-based embeddings to develop a system capable of retrieving similar or opposite cases based on the argument graph's embedding values. These improvements hold promise for advancing the field of legal argument structure extraction.
 
-![yeri_thesis](/img/news/yeri_thesis.PNG)
+![yeri_thesis](/img/news/yeri_thesis.png)
