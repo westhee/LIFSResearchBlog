@@ -47,21 +47,21 @@ Currently, the annotation process has been completed for 1,200 murder cases, spe
 The extracted information serves various purposes in the field of criminal investigation. One application involves conducting a similar case search based on the extracted information, which can provide valuable insights and assist in establishing connections between different cases. Additionally, the extracted information contributes to enhancing the completeness of investigation reports by providing additional details and context. Furthermore, the extraction of time-related information aids in constructing a comprehensive timeline of events, facilitating a better understanding of the sequence and chronology of the crime.
 
 By leveraging the extracted information, the research project aims to improve the efficiency and effectiveness of investigations and contribute to the overall advancement of criminal analysis techniques.
+ 
+**Goal 3 : Automatic Extraction of Argument Structure from Judgments**
 
-##Goal 3 : Automatic Extraction of Argument Structure from Judgments
+This task is carried out through the following steps: (1)automatic classification of argument elements based on KoBERT, (2)automatic classification of argument relationships based on KLUE-BERT, and (3)extraction and visualization of judgment argument structure based on classified argument elements and relationships.
 
-The task of "Automatic extraction of argument structure from judgments" is carried out through the following steps: automatic classification of argument elements based on KoBERT, automatic classification of argument relationships based on KLUE-BERT, and extraction and visualization of judgment argument structure based on classified argument elements and relationships.
+The process of constructing an argument dataset based on the expanded Toulmin+ argument structure, which extends Toulmin's argument structure, has been carried out to automatically extract argument structures from criminal judgments by fine-tuning pre-trained language models (KoBERT, KLUE-BERT). 
 
-The process of constructing an argument dataset based on the expanded Toulmin+ argument structure, which extends Toulmin's argument structure, has been carried out to automatically extract argument structures from criminal judgments by fine-tuning pre-trained language models (KoBERT, KLUE-BERT). Additionally, argument error checking has been performed through the generation and visualization of an argument dataset using the system. This development has future potential for applications such as searching for similar cases based on argument graphs.
+Additionally, argument error checking has been performed through the generation and visualization of an argument dataset using the system. This development has future potential for applications such as searching for similar cases based on argument graphs.
 
 
-##Goal 4 : Automatic Document Analysis and Visualization for Hypothesis Review Support 
+**Goal 4 : Automatic Document Analysis and Visualization for Hypothesis Review Support**
 
 This work involves the development of a Tool for Automatic Document Analysis and Visualization for Hypothesis Review Support, including the creation of a Hypothesis NLI Model based on KoElectra v3 (leap v.1.0), the automatic extraction of support/opposition/inference-impossible relationships between investigative documents (judgments) and hypothesis sentences, and the development of a visualization and analysis tool for each data pair relationship. It is a collaborative effort between HM COMPANY and Hallym University.
 
 The Analysis Visualization Tool for Investigative Judges currently retrieves pre-segmented paragraph-level data (investigation materials) from the database, divides the input text (investigator's materials) into sentence-level, utilizes it as an input for the Hypothesis NLI model, adds data from a new document to an existing graph, and enables visual verification of the relationship between each document and the investigator's claim.
-
-Furthermore, the Filter function, available by relationship/model score, includes the following capabilities: Attack relationship, which allows for preparation against the defendant's defense strategy; Undetermined relationship, which enables confirmation of irrelevant or missing core elements; and automatic analysis of the relationship between the investigator's opinion and investigation materials for initial verification.
 
 We thank the active participation and commitment to the success of this workshop, and are looking forward to engaging in productive discussions and establishing meaningful collaborations as we collectively work towards our research goals.
 

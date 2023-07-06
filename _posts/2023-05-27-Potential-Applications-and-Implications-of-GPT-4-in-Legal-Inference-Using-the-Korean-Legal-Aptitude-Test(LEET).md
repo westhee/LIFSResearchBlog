@@ -16,4 +16,4 @@ To achieve the research objectives, the study conducts various experiments invol
 This study highlights the importance of objectively assessing the concerns surrounding GPT-4's impact on legal tasks. Through rigorous experiments and analysis, the research reveals the current limitations of GPT-4 in terms of logical inference and accurate problem-solving. The findings emphasize the need for further refinement and development of GPT-4, particularly in the context of legal applications. Despite its limitations, GPT-4 holds potential to enhance human inference in the legal field by leveraging legal data, expert input, and specialized legal technology.
 
 ![gpt_paper1](/img/news/gpt_paper1.PNG)
-![gpt_paper](img/news/gpt_paper.PNG)
+![gpt_paper](/img/news/gpt_paper.PNG)
