@@ -5,9 +5,6 @@ author: 2023seohee
 icon: star-o
 tags: [news]
 ---
-
-[School of Global Studies] : Prompt Engineer Contest
-
 ![dataset1](/img/news/SGS.jpg)
 
 The first [School of Global Studies] 'Prompt Engineer Contest' was held at Do-heon Global School room 23117 on June 1st, 2023, from 6:00 PM to 8:00 PM.
@@ -31,18 +28,21 @@ Co-hosted by :
 
 and the <i>Academic Affairs Department of School of Global Studies</i>.
 
-![dataset1](/img/news/chatgpt%20%EC%88%98%EC%A0%95%EC%82%AC%EC%A7%84.jpg)
-![dataset1](/img/news/chatgpt%20%EC%88%98%EC%A0%95.jpg)
+![dataset1](/img/news/engineer.jpg)
 
 The competition theme was [web page development utilizing ChatGPT]. 
 
-A total of 6 Teams worked diligently to create web pages in various areas such as creating school-related platforms, providing cafe information in Chun-cheon city, developing health management web pages, developing stock market data analysis web pages, developing web pages for summarizing key articles, and AI outfit recommendation.
+The Prompt Engineering Competition is an academic activity that encourages creative problem-solving and the generation of results by utilizing various prompts.
 
 ![dataset1](/img/news/chatgpt%20%EC%88%98%EC%A0%95%20%EC%82%AC%EC%A7%84.jpg)
 
-![dataset1](/img/news/engineer.jpg)
+![dataset1](/img/news/chatgpt%20%EC%88%98%EC%A0%95%EC%82%AC%EC%A7%84.jpg)
+
+A total of 6 Teams worked diligently to create web pages in various areas such as creating school-related platforms, providing cafe information in Chun-cheon city, developing health management web pages, developing stock market data analysis web pages, developing web pages for summarizing key articles, and AI outfit recommendation.
 
 They brought glory to the competition with their outstanding creations.
+
+&nbsp;
 
 ![dataset1](/img/news/cont.jpg)
 
@@ -51,6 +51,8 @@ They brought glory to the competition with their outstanding creations.
 [Developing web pages for summarizing key articles]
 
 <i>Je Woo Oh, Yu An Jang, Seo Hee Kim.</i>
+
+
 
 "Team 5 has successfully built a summary website that provides users with concise summaries of articles or long texts for easier reading. However, due to insufficient library capacity, there were limitations in summarizing languages other than English or in the length of the summaries. Nonetheless, they state that expanding the library's capacity would sufficiently solve this issue."
 
@@ -64,6 +66,8 @@ They brought glory to the competition with their outstanding creations.
 
 <i>Geon Woo Lee, Tae Hee Lee, Soo Ah Jo.</i>
 
+![dataset1](/img/news/Chatgpt4photo.jpg)
+
 "Team 4 successfully developed a website with the theme 'Developing stock market data analysis web pages.' It is a website where users can list stocks of their interest and receive recommendations based on their preferences."
 
 
@@ -75,5 +79,7 @@ They brought glory to the competition with their outstanding creations.
 [Providing cafe information in Chun-cheon city]
 
 <i> Min Gyu Kim, Seung Heon Song, Ki Ppum Ju. </i>
+
+![dataset1](/img/news/ChatGPT2photo.jpg)
 
 "Team 2 successfully developed a website with the theme 'Providing cafe information in Chun-cheon city.' Additionally, they successfully incorporated other functionalities apart from ChatGPT and created a cool logo for the website."

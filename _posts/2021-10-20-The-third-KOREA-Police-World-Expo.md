@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[KPEX 2021] THE THIRD KOREA POLICE WORLD EXPO"
+title: "KPEX 2021 : THE THIRD KOREA POLICE WORLD EXPO"
 author: 2023seohee
 icon: star-o
 tags: [news]
@@ -13,7 +13,6 @@ A business platform for the development of Smart Security technology needed in t
 ![dataset1](/img/news/00000.jpg)
 
 From Wednesday, October 20, 2021 to Saturday, October 23, 2021, a Korea Police World Expo hosted by the National Police Agency and Incheon Metropolitan City will be held at Songdo Convensia.
-
 
 &nbsp;
 
