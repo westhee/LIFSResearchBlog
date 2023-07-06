@@ -3,7 +3,7 @@ layout: post
 title: "Workshop on the Third-Year of AI Criminal Investigation Support Project"
 author: 2022jeewon
 icon: star-o
-tags: [seminar]
+tags: [seminar, review]
 ---
 Hallym University's Legal Informatics and Forensics Science (LIFS) lab , hosted a workshop on June 20th at the Ramada Plaza Jeju, Jeju Island, focusing on the research project "AI-based Criminal Investigation Support." The workshop brought together practitioners and officials from various collaborating institutions, including the Korean National Police University, SPELIX, NHN Diquest, Korea Electronics Technology Institute, and HM Company.
 
@@ -14,6 +14,7 @@ We were honored to have Mr. Choi Yang-hee, the President of Hallym University, a
 The main objective of this workshop was to facilitate the exchange of valuable updates and advancements regarding the objectives and progress of the Third-Year of our research project. Additionally, we aimed to present significant research findings based on the objectives set for the Second-Year. Through engaging discussions and active participation, our goal was to foster collaborative solutions and enhance the effectiveness of our work.
 
 ![workshop2](/img/news/workshop_discussion1.jpg)
+
 ![workshop3](/img/news/workshop_discussion2.jpg)
 
 Following the completion of the presentations, the participating institutions engaged in in-depth discussions. These discussions provided a platform for sharing the latest progress made by each institution, specifically in relation to the objectives set for the third year. The exchange of ideas and insights was accompanied by thought-provoking questions, contributing to a comprehensive understanding of the progress made by each institution and fostering an environment of shared knowledge.
