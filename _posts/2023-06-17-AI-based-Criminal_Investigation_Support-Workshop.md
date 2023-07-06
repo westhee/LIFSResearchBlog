@@ -19,7 +19,7 @@ The main objective of this workshop was to facilitate the exchange of valuable u
 
 Following the completion of the presentations, the participating institutions engaged in in-depth discussions. These discussions provided a platform for sharing the latest progress made by each institution, specifically in relation to the objectives set for the third year. The exchange of ideas and insights was accompanied by thought-provoking questions, contributing to a comprehensive understanding of the progress made by each institution and fostering an environment of shared knowledge.
 
-### 1. Objecitives of the Third-Year on "AI-based Criminal Investigation Support"
+### 1. Objectives of the Third-Year on "AI-based Criminal Investigation Support"
 
 In the Third-Year, our primary objectives are centered around the "Advancement of Core Functions" to pave the way for the establishment of a Prototype-level System by the Fourth- Year. These objectives entail several key steps, including the initial integration of core technologies that enable target services and the commencement of integrated prototype development in close consultation with expert groups.
 
@@ -65,4 +65,4 @@ Furthermore, the Filter function, available by relationship/model score, include
 
 We thank the active participation and commitment to the success of this workshop, and are looking forward to engaging in productive discussions and establishing meaningful collaborations as we collectively work towards our research goals.
 
-![workshopgroup](/img/news/workshop_group_photo.png)
+![workshopgroup](/img/news/workshop_group_photo.jpg)
