@@ -5,7 +5,7 @@ author: 2022jeewon
 icon: star-o
 tags: [news]
 ---
-This paper, titled "Transformer-based Legal Argument Structure Extraction Model for Crime Investigation Analysis," is a Master's thesis written by student Ye-ri Gu, from the Department of International Studies, Major in Legal Informatics and Forensic Science (LIFS), at Hallym University Graduate School.
+Ye-ri Gu, Department of International Studies, Major in Legal Informatics and Forensic Science (LIFS), at Hallym University Graduate School has published her Master's thesis paper, titled "Transformer-based Legal Argument Structure Extraction Model for Crime Investigation Analysis," .
 
 This paper discusses the implementation of the revised Korean Criminal Procedure Act in 2020, which grants the police a subjective position in primary investigations and emphasizes the importance of their case review process. The revised legislation also strengthens the direct investigation of evidence in courts, requiring logical proof based on objective evidence. However, existing case analysis tools focus on evidence collection rather than logical verification. 
 
