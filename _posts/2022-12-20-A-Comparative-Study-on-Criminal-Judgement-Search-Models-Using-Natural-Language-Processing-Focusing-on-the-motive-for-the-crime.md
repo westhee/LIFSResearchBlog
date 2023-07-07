@@ -5,7 +5,7 @@ author: 2022jeewon
 icon: star-o
 tags: [news]
 ---
-This paper, titled "A Comparative Study on Criminal Judgement Search Models Using Natural Language Processing -Focusing on the motive for the crime-" is a Master's thesis written by student Ari-Choi, from the Department of International Studies, Major in Legal Informatics and Forensic Science (LIFS), at Hallym University Graduate School.
+Ari-Choi, from the Department of International Studies, Major in Legal Informatics and Forensic Science (LIFS), at Hallym University Graduate School has published her Master's thesis, "A Comparative Study on Criminal Judgement Search Models Using Natural Language Processing -Focusing on the motive for the crime-".
 
 This paper addresses the need for efficient data processing in the legal tech field, specifically focusing on the search for similar cases based on judgments. The study utilizes Natural Language Processing (NLP) technology to analyze text judgment data and develop a similar case search model. 
 
