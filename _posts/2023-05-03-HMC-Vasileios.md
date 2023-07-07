@@ -16,10 +16,7 @@ From hacktivism to the Cybercrime Awareness Clinic and Beyond
 
 In the era of the Fourth Industrial Revolution, the department has evolved into a distinguished program that explores legal issues related to IT-related crimes, conducts scientific investigations, and fosters talents capable of solving complex problems through the convergence of technology and law.
 
-In order to provide a special lecture to undergraduate students in the <i>School of Global Studies</i>, Professor Vasileios who has conducted research in related fields was invited.
-
-![dataset1](/img/news/vas-1%20(2).jpg)
-
+In order to provide a special lecture to undergraduate students in the School of Global Studies, Professor Vasileios who has conducted research in related fields was invited.
 During the lecture, a wide range of topics related to hacktivism, including its' theory and practice, were covered. The lecture was based on the history of hacktivism, various strategies and techniques employed, as well as both successful and unsuccessful cases of hacktivism.
 
 ![dataset1](/img/news/vas-1%20(3).jpg)
