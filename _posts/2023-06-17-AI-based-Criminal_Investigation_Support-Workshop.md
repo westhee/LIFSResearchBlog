@@ -59,6 +59,7 @@ This task was conducted in collaboration between Hallym University and HM Compan
 The Analysis Visualization Tool for Investigative Judges currently retrieves pre-segmented paragraph-level data (investigation materials) from the database, divides the input text (investigator's materials) into sentence-level which utilizes it as an input for the Hypothesis NLI model. Then, it adds data from a new document to an existing graph that enables visual verification of the relationship between each document and the investigator's claim.
 
 **Closing Remarks**
+
 Through collaborative research discussions, we were able to successfully conclude the workshop. We thank the active participation and commitment to the success of this workshop, and are looking forward to engaging in productive discussions and establishing meaningful collaborations as we collectively work towards our research goals.
 
 ![workshopgroup](/img/news/workshop_group_photo.jpg)
