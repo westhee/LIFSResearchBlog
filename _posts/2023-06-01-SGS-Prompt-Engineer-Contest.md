@@ -52,11 +52,11 @@ They brought glory to the competition with their outstanding creations.
 
 <i>Je Woo Oh, Yu An Jang, Seo Hee Kim.</i>
 
+![dataset1](/img/news/chatgpt5.png)
 
+Team 5 has accomplished the successful construction of a summary website designed to deliver succinct summaries of lengthy articles or texts to users. The system operates by allowing users to input their desired long sentences or texts into a text box, and leveraging the advanced capabilities of ChatGPT's technology, it generates concise and reader-friendly summaries to enhance the user experience. The website serves as a valuable tool for individuals seeking condensed information, enabling them to efficiently grasp the key points of extensive content.
 
-"Team 5 has successfully built a summary website that provides users with concise summaries of articles or long texts for easier reading. However, due to insufficient library capacity, there were limitations in summarizing languages other than English or in the length of the summaries. Nonetheless, they state that expanding the library's capacity would sufficiently solve this issue."
-
-
+&nbsp;
 
 ![dataset1](/img/news/contt.jpg)
 
@@ -68,8 +68,8 @@ They brought glory to the competition with their outstanding creations.
 
 ![dataset1](/img/news/Chatgpt4photo.jpg)
 
-"Team 4 successfully developed a website with the theme 'Developing stock market data analysis web pages.' It is a website where users can list stocks of their interest and receive recommendations based on their preferences."
-
+Team 4 has successfully developed a website with the theme 'Developing stock market data analysis web pages.' 
+This interactive platform enables users to personally list stocks of interest and their expectations by filling in the provided blanks. Additionally, based on the preferences indicated by users, the website offers tailored recommendations for stocks that align with their investment goals and interests. With a focus on data analysis, this website empowers users to gain valuable insights and make informed judgments based on information regarding investment strategies. Serving as a comprehensive tool for stock market enthusiasts, this website provides a user-friendly interface that allows users to explore and track stocks in an efficient and convenient manner, while receiving personalized recommendations tailored to their needs.
 
 
 ![dataset1](/img/news/conttt.jpg)
@@ -82,4 +82,4 @@ They brought glory to the competition with their outstanding creations.
 
 ![dataset1](/img/news/ChatGPT2photo.jpg)
 
-"Team 2 successfully developed a website with the theme 'Providing cafe information in Chun-cheon city.' Additionally, they successfully incorporated other functionalities apart from ChatGPT and created a cool logo for the website."
+Team 2 has accomplished the successful development of a website focused on providing information about cafes in Chuncheon City, titled 'Chuncheon City Cafe Guide.' The website serves as a platform for introducing numerous cafes in the city, highlighting their unique features and recommending signature menus for visitors. In addition to seamlessly integrating ChatGPT, the team has successfully incorporated various other functionalities to enhance the website's user experience. Furthermore, they have designed an impressive logo specifically tailored for the website, adding a touch of visual appeal.
