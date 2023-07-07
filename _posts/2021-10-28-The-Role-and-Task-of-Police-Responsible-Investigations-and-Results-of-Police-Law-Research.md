@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " 'The Role and Task of Police responsible investigations and results of police law research' "
+title: "The Role and Task of Police responsible investigations and results of police law research"
 author: 2023seohee
 icon: star-o
 tags: [news]

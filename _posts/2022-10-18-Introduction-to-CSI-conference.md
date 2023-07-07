@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Korea Police World Expo] Introduction to CSI conference"
+title: "KOREA POLICE WORLD EXPO: Introduction to CSI conference"
 author: 2023seohee
 icon: star-o
 tags: [Introduction, seminar]
@@ -55,16 +55,13 @@ This exhibition aims to invite police and officials from around the world to pro
 
 It is a place to share the latest technologies and expertise, and to share information about various products.
 
-&nbsp;
 
 Following last year, the security industry fair will participate in a project organized by Hallym University, and will invite Professor Florix Bex, an authority on AI-based criminal investigation research, as a lecturer to discuss the field.
-&nbsp;
 
 You can also participate in this event online, so if you are interested, you can register for various events through the link below.
 
 <https://police-expo.com/exhibition_info/police_info/>
 
-&nbsp;
 
 Introduction video about [AI Crime Investigation Support Project] hosted by Hallym University introduced at the last Korea Police World Expo.
 

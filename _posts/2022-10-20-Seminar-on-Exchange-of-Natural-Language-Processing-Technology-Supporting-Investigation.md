@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[KOREA POLICE WORLD EXPO] Seminar on Exchange of Natural Language Processing Technology Supporting Investigation"
+title: "KOREA POLICE WORLD EXPO: Seminar on Exchange of Natural Language Processing Technology Supporting Investigation"
 author: 2023seohee
 icon: star-o
 tags: [seminar, review]
