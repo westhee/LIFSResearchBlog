@@ -5,36 +5,17 @@ author: 2023seohee
 icon: star-o
 tags: [news]
 ---
-![dataset1](/img/news/SGS.jpg)
-
-The first [School of Global Studies] 'Prompt Engineer Contest' was held at Do-heon Global School room 23117 on June 1st, 2023, from 6:00 PM to 8:00 PM.
+The first annual School of Global Studies 'Prompt Engineer Contest' was held at Do-heon Global School room 23117 on June 1st, 2023.
 
 ![dataset1](/img/news/engineer.jpg)
 ![dataset1](/img/news/contest.jpg)
 
-The competition was hosted by :
+The competition was hosted by Head Professor Ro Seop Park, Professor Yookyung Shin, Graduate student Jee Won Park Jinheon Lee from the School of Global Studies.
+Also co-hosted by the School of Global Studies Student Council and the Academic Affairs Department of the School of Global Studies.
 
-<i>School of Global Studies</i> 
-
-Head Professor Ro Seop Park, 
-
-Professor Yookyung Shin, 
-
-Graduate student Jee Won Park Jinheon Lee.
-
-
-Co-hosted by :
-<i>School of Global Studies Student Council</i> 
-
-and the <i>Academic Affairs Department of School of Global Studies</i>.
-
-![dataset1](/img/news/engineer.jpg)
-
-The competition theme was [web page development utilizing ChatGPT]. 
+The ultimate purpose was to develop a web page with desired design and durability by designing a prompts in an effective and highly applicable method. 
 
 The Prompt Engineering Competition is an academic activity that encourages creative problem-solving and the generation of results by utilizing various prompts.
-
-![dataset1](/img/news/chatgpt%20%EC%88%98%EC%A0%95%20%EC%82%AC%EC%A7%84.jpg)
 
 ![dataset1](/img/news/chatgpt%20%EC%88%98%EC%A0%95%EC%82%AC%EC%A7%84.jpg)
 
@@ -47,9 +28,7 @@ They brought glory to the competition with their outstanding creations.
 ![dataset1](/img/news/cont.jpg)
 
 **The first place was awarded to Team 5:**
-
 [Developing web pages for summarizing key articles]
-
 <i>Je Woo Oh, Yu An Jang, Seo Hee Kim.</i>
 
 ![dataset1](/img/news/chatgpt5.png)
@@ -61,9 +40,7 @@ Team 5 has accomplished the successful construction of a summary website designe
 ![dataset1](/img/news/contt.jpg)
 
 **Second place was Team 4:**
-
 [Developing stock market data analysis web pages]
-
 <i>Geon Woo Lee, Tae Hee Lee, Soo Ah Jo.</i>
 
 ![dataset1](/img/news/Chatgpt4photo.jpg)
@@ -75,9 +52,7 @@ This interactive platform enables users to personally list stocks of interest an
 ![dataset1](/img/news/conttt.jpg)
 
 **In third, Team 2 :**
-
 [Providing cafe information in Chun-cheon city]
-
 <i> Min Gyu Kim, Seung Heon Song, Ki Ppum Ju. </i>
 
 ![dataset1](/img/news/ChatGPT2photo.jpg)
