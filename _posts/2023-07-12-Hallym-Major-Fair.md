@@ -5,7 +5,6 @@ author: 2023SeoHee
 icon: star-o
 tags: [news]
 ---
-
 Hallym University held the <i>'2023 Hallym Major Fair'</i> on Wednesday, the 12th, at the Hallym Recreation Center on its main campus.
 
 On Wednesday, the 12th of July, 2023, the '2023 Hallym Major Fair' took place at the Hallym Recreation Center on Hallym University's main campus. This fair, known as the 'Hallym Major Fair,' has been the university's largest-scale major experience program since its inception in 2018. It was organized as part of the 2023 High School Education Contribution University Support Project, with the purpose of offering high school students valuable opportunities to explore various careers and majors. A total of 26 departments enthusiastically participated in this event, further enhancing its significance and value.
